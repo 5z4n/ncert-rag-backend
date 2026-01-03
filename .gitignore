@@ -4,3 +4,4 @@ __pycache__/
 data/embeddings/
 data/faiss_index/
 models/
+progress.txt
