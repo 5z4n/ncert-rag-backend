@@ -1,0 +1,987 @@
+Rational
+Numbers
+
+Chapter 8
+
+8.1 INTRODUCTION
+
+You began your study of numbers by counting objects around you. The
+numbers used for this purpose were called counting numbers or natural
+numbers. They are 1, 2, 3, 4, ... By including 0 to natural numbers, we
+got the whole numbers, i.e., 0, 1, 2, 3, ... The negatives of natural
+numbers were then put together with whole numbers to make up
+integers. Integers are ..., 3, 2, -1, 0, 1, 2, 3, .... We, thus, extended
+the number system, from natural numbers to whole numbers and from
+whole numbers to integers.
+
+. . numerator
+You were also introduced to fractions. These are numbers of the form umerato
+
+denominator |
+where the numerator 1s either 0 or a positive integer and the denominator, a positive integer.
+You compared two fractions, found their equivalent forms and studied all the four basic
+operations of addition, subtraction, multiplication and division on them.
+
+In this Chapter, we shall extend the number system further. We shall introduce the concept
+of rational numbers alongwith their addition, subtraction, multiplication and division operations.
+
+8.2 NEED FOR RATIONAL NUMBERS
+
+Earlier, we have seen how integers could be used to denote opposite situations involving
+numbers. For example, if the distance of 3 km to the right of a place was denoted by 3, then
+the distance of 5 km to the left of the same place could be denoted by 5. If a profit of = 150
+was represented by 150 then a loss of = 100 could be written as 100.
+
+There are many situations similar to the above situations that involve fractional numbers.
+You can represent a distance of 750m above sea level as 4 km. Can we represent 750m
+
+3 -3
+below sea level in km? Can we denote the distance of ~ km below sea level by 4 ? We can
+3,
+see 4 is neither an integer, nor a fractional number. We need to extend our number system
+to include such numbers.
+
+2024-25
+
+RATIONAL NUMBERS ii oe
+
+8.3 WHat ARE RaTIONAL NuMBERS?
+The word rational arises from the term ratio . You know that a ratio like 3:2 can also be
+written as : . Here, 3 and 2 are natural numbers.
+
+Similarly, the ratio of two integers p and q (q #0), 1.e., p:g can be written in the form
+
+P This is the form in which rational numbers are expressed.
+A rational number is defined as a number that can be expressed in the
+
+form 5 where p and q are integers and q # 0.
+
+A
+Thus, 5 is arational number. Here, p=4 and g=5S.
+
+Is 4 also a rational number? Yes, because p = 3 and q =4 are integers.
+
+3 4.2
+@ You have seen many fractions like 878 1 3 etc. All fractions are rational
+numbers. Can you say why?
+How about the decimal numbers like 0.5, 2.3, etc.? Each of such numbers can be
+written as an ordinary fraction and, hence, are rational numbers. For example, 0.5 = 10 ;
+
+0.333 333
+333 = O99 etc.
+1. Is the number 3 rational? Think aboutit. 2. List ten rational numbers.
+
+).
+
+Numerator and Denominator
+
+I the integer p is the numerator, and the integer g (#0) is the denominator. ASS
+
+ne
+qd 
+
+-3
+Thus, in 7 the numerator is 3 and the denominator is 7.
+
+Mention five rational numbers each of whose
+(a) Numerator is a negative integer and denominator is a positive integer.
+(b) Numerator is a positive integer and denominator is a negative integer.
+(c) Numerator and denominator both are negative integers.
+(d) Numerator and denominator both are positive integers.
+@ Ate integers also rational numbers?
+Any integer can be thought of as a rational number. For example, the integer 5 is a
+
+rational number, because you can write it as n . The integer 0 can also be written as
+0= 3 or 7 etc. Hence, it is also a rational number.
+
+Thus, rational numbers include integers and fractions.
+2024-25
+
+EE Hematics
+
+Equivalent rational numbers
+
+A rational number can be written with different numerators and denominators. For example,
+
+consider the rational number .
+ah -2 2x2 -4 2 _4
+
+. We see that is the same as .
+
+3 3x2 6 3 6
+ar -2 (-2)x(5)_ 10 5 2- Iso th 10 
+so, 3 = 3x(-5) 75 30 3 iSalso the same as =.
+-2 - 10 ; ;
+Thus, 3 = 6 TOS" Such rational numbers that are equal to each other are said to
+be equivalent to each other.
+Acai 10 10 How?
+gain, 15 = 75 | ow?)
+By multiplying the numerator and denominator of a rational
+number by the same non zero integer, we obtain another rational
+number equivalent to the given rational number. This is exactly like
+Fill in the boxes: obtaining equivalent fractions.
+Just as multiplication, the division of the numerator and denominator
+_ 35 ~LI_ 25 _ =15 by the same non zero integer, also gives equivalent rational numbers. For
+0 4 16 example,
+3 9 6 10 10+(-5) -2 -12 12412 -1
+@ 714 -15 -15+(-5) 3 24 ~ 24212 2
+
+8.4 PosITIVE AND NEGATIVE RaTIONAL NUMBERS
+
+Consider the rational number 3 . Both the numerator and denominator of this number are
+positive integers. Such a rational number is called a positive rational number. So, 9
+
+etc. are positive rational numbers.
+Try THESE 3
+
+1. Is 5 a positive rational The numerator of is anegative integer, whereas the denominator
+
+. . is a positive integer. Such a rational number is called a negative rational
+2. List five more positive 5 3-9
+
+rational numbers. number. So, >->->-> etc. are negative rational numbers.
+7 5029-25 >
+
+877"
+
+RATIONAL NUMBERS
+
+8 8x-l1 -8
+@ Is - a negative rational number? We know that > = 3x-17 3 and
+
+3 1. Is 8 a negative
+
+ 8 8 : 9
+3 is anegative rational number. So, > is anegative rational number. rational number!
+-3 2. List five more
+5 6 2 negative rational
+Similarly, 7 5 _9 etc. are all negative rational numbers. Note that numbers.
+
+their numerators are positive and their denominators negative.
+@ The number 0 is neither a positive nor a negative rational number.
+
+@ What about =3 ?
+
+~~ 8g _3y (LE 3
+You will see that 3 = 3x ( 1) = 3 . 50, z 1S a positive rational number.
+- -5x(-l) 5 >
+
+ 2 -5
+Thus, 5-3 etc. are positive rational numbers.
+
+Va!
+
+Which of these are negative rational numbers?
+2 5 A Jon o 6 . 2
+o> @F> wt 3 w& M7 i) =
+
+8.5 RationaL NuMBERS ON A NuMBER LINE
+
+You know how to represent integers on a number line. Let us draw one such number line.
+
+ 4 3 2 l 0 1 2 3 4
+The points to the right of 0 are denoted by + sign and are positive integers. The points
+to the left of 0 are denoted by sign and are negative integers.
+Representation of fractions on a number line is also known to you.
+Let us see how the rational numbers can be represented on a number line.
+Let us represent the number 5 on the number line.
+
+As done in the case of positive integers, the positive rational numbers would be marked
+on the right of 0 and the negative rational numbers would be marked on the left of 0.
+
+To which side of 0 will you mark ; ? Being a negative rational number, it would be
+marked to the left of 0.
+
+You know that while marking integers on the number line, successive integers are
+marked at equal intervels. Also, from 0, the pair 1 and 1 is equidistant. So are the pairs 2
+and 2, 3 and 3.
+
+2024-25
+
+128 ee
+
+1 1
+In the same way, the rational numbers > and > would be at equal distance from 0.
+We know how to mark the rational number = . It is marked at a point which is half the
+1
+distance between 0 and 1. So, 5 would be marked at a point half the distance between
+O and -1.
+< _ tro _tr to__eae
+ ] -l 0 1 1
+2 2
+We know how to mark 3 on the number line. It is marked on the right of 0 and lies
+halfway between | and 2. Let us now mark > on the number line. It lies on the left of 0
+and is at the same distance as = from 0.
+. | -2 3-4
+In decreasing order, we have, = (=-l, Tay
+
+OD (= 2). This shows that
+
+-3
+> lies between | and 2. Thus, lies halfway between | and 2.
+
+ 5 -7
+Mark > and > ina similar way.
+
+1 1
+Similarly, 3 is to the left of zero and at the same distance from zero as 3 is to the
+right. So as done above, = can be represented on the number line. Once we know how
+2 4 5
+to represent 3 on the number line, we can go on representing 37373 and so on.
+
+All other rational numbers with different denominators can be represented in a similar way.
+
+8.6 RatTionaL NuMBERS IN STANDARD FORM
+
+. 3 -5 2 -7
+
+Observe the rational numbers , , , .
+5 8 7 Il
+
+The denominators of these rational numbers are positive integers and | is
+
+the only common factor between the numerators and denominators. Further,
+
+the negative sign occurs only in the numerator.
+
+Such rational numbers are said to be in standard form.
+2024-25
+
+RATIONAL NUMBERS ie oe
+
+A rational number is said to be in the standard form if its denominator is a
+positive integer and the numerator and denominator have no common factor other
+than 1,
+
+If a rational number is not in the standard form, then it can be reduced to the
+standard form.
+
+Recall that for reducing fractions to their lowest forms, we divided the numerator and
+the denominator of the fraction by the same non zero positive integer. We shall use the
+same method for reducing rational numbers to their standard form.
+EXAMPLE 1] Reduce 30 to the standard form.
+
+45 -45+3 -15_ -15+5_ -3
+30 3073 10 '10+5 
+We had to divide twice. First time by 3 and then by 5. This could also be done as
+45 -45+15_ -3
+30 302152
+In this example, note that 15 is the HCF of 45 and 30.
+
+Thus, to reduce the rational number to its standard form, we divide its numerator
+and denominator by their HCF ignoring the negative sign, if any. (The reason for
+ignoring the negative sign will be studied in Higher Classes)
+
+SOLUTION Wehave,
+
+If there is negative sign in the denominator, divide by - HCP .
+
+EXAMPLE 2 Reduce to standard form:
+
+ay i) 15
+SOLUTION
+
+(i) The HCF of 36 and 24 is 12.
+Thus, its standard form would be obtained by dividing by 12.
+36 36+(-12) _ -3
+24 -24+(-12) 2
+
+(ii) The HCF of 3 and 15 is 3.
+
+-3 -3+(-2) 1
+Thus, 15 -15=(-3) 5
+
+Find the standard formof (@j) <= i) RY
+ind the standard form o (i) 45 (ii) 18
+
+2024-25
+
+EE semarics
+
+8.7 COMPARISON OF RATIONAL NUMBERS
+
+We know how to compare two integers or two fractions and tell which is smaller or which
+is greater among them. Let us now see how we can compare two rational numbers.
+
+2 5
+@ Two positive rational numbers, like = and 7 can be compared as studied earlier in the
+case of fractions.
+| 1 ,
+@ Mary compared two negative rational numbers 5 and 5 using number line. She
+knew that the integer which was on the right side of the other integer, was the greater
+integer.
+
+For example, 5 is to the right of 2 on the number line and 5 > 2. The integer 2 is on
+the right of 5 on the number line and 2> 5.
+
+She used this method for rational numbers also. She knew how to mark rational numbers
+
+1 1
+on the number line. She marked = and = as follows:
+
+2 5
+- J \ 0 1
+ol_ne ol_2 10 5 10
+1 5
+Has she correctly marked the two points? How and why did she convert 5 to 10
+
+1 ol vl 1
+Thus, 57 7 oF >< 5 
+
+1 2 1 1
+and "5 to To: She found that "5 is to the right of ~~.
+
+3 2 1 1
+
+-= --9?-= --?
+Can you compare 4 and 373 and 5.
+
+1 1 1
+We know from our study of fractions that = <> . And what did Mary get for > and
+
+5 2 2
+| ; ;
+75! Was it not exactly the opposite?
+y= You will find that, 5 > but >< 5"
+D b h fe 3 2 d- lt ?
+o you observe the same for 4 33 and 3.757
+
+Mary remembered that in integers she had studied 4 >3
+but 4 <-3,5 >2 but 5 < 2 etc.
+
+2024-25
+
+RATIONAL NUMBERS
+
+@ The case of pairs of negative rational numbers is similar. Jo compare two negative
+rational numbers, we compare them ignoring their negative signs and then reverse
+the order.
+
+7 5 7 5
+
+For example, to compare 5 and 3 we first compare 5 and 3 
+
+Wi f.2 d lude that > 
+eget 7 <3 an conclude that 5 3 
+
+Take five more such pairs and compare them.
+
+ chi 3 _2, 4 3,
+Which is greater gras Zor 5}
+
+@ Comparison of a negative and a positive rational number is obvious. A negative rational
+number is to the left of zero whereas a positive rational number is to the right of zero on
+anumber line. So, a negative rational number will always be less than a positive rational
+number.
+
+Th 221
+us, -= <7.
+7 2
+
+@ Tocompare rational numbers <3 and aa reduce them to their standard forms and
+
+then compare them.
+
+4 -16
+EXAMPLE 3 Do = and "36 Tepresent the same rational number?
+
+4x(-4) -16 -16 -16+-4 -4
+
+SOLUTION Yes,b = = = .,
+epee SS 9 9x(-4) 36 3635-4. 9
+
+8.8 RationaL NuMBERS BETWEEN Two RatTionaL NUMBERS
+
+Reshma wanted to count the whole numbers between 3 and 10. From her earlier classes,
+she knew there would be exactly 6 whole numbers between 3 and 10. Similarly, she
+wanted to know the total number of integers between 3 and 3. The integers between 3
+and 3 are 2, 1, 0, 1, 2. Thus, there are exactly 5 integers between 3 and 3.
+
+Are there any integers between 3 and 2? No, there is no integer between
+ 3 and 2. Between two successive integers the number of integers is 0.
+
+2024-25
+
+MATHEMATICS
+
+Thus, we find that number of integers between two integers are limited (finite).
+
+Will the same happen in the case of rational numbers also?
+
+Reshma took two rational numbers = and =.
+She converted them to rational numbers with same denominators.
+So 3 = 9 and v1 = =5
+5 15 3. 15
+Weh 9 8 7 6 3-8 7 6 a1
+ nave 515 15 15 15 5 15 15 15. 3
+She could find rational numb Bo, 3 and !
+e could find rational numbers 5 15 ~15 etween = an =~
+Arethe numbers. =+ 2. the only rational numbers b ~2 and -+9
+e the numbers 15 15 15 the only rational numbers between 5 32
+Weh 3 718 Ae, 16
+e nave 5 30 15> 30
+An 18 =17 _ -16 3-17 _-8
+d 30 30 30 " 5 30-15
+
+ 3 -17 -8 - 7 _-6 -l
+< < < < <
+5 30 15 15 15 3
+
+Hence
+
+3 -1
+So, we could find one more rational number between 5 and 3 .
+
+By using this method, you can insert as many rational numbers as you want between
+two different rational numbers.
+
+z =3 _=330_-90, =1_=1x50_ -50
+
+_ Porexalmple, 5 5x30 150 3 3x50 ~~ -:150
+van 39 rational numbers (222, ...254)erneen 22 and =
+gl We get 39 rational numbers 1507150 ) between 759 ands eG
+
+3 -1
+- a 1 Le., between 5 and 37 You will find that the list is unending.
+ 5 8
+
+Find fiverationalnumbers Can you list five rational numbers between 3 and 7 ?
+=3
+
+between 7 nd We can find unlimited number of rational numbers
+7 8 between any two rational numbers.
+
+2024-25
+
+RATIONAL NUMBERS ik; oe
+
+EXAMPLE 4 List three rational numbers between 2 and- 1.
+
+SOLUTION Letus write 1 and 2 as rational numbers with denominator 5. (Why?)
+
+ehave, l= 5 and 2 = 5
+-10 -9 -8 -7 -6 5 -9 -8 -7 -6
+So, < < < < < or -2< < < < <-l
+5 5 5 5 5 5 5 5 5 5
+-9 -8 -7
+The three rational numbers between 2 and 1 would be, 5 57 5.
+y, ak hree of -9 -8 -7 -6
+(You can take any three o 5 5 55 )
+
+EXAMPLE 5 Write four more numbers in the following pattern:
+
+-1| 2 -3 -4
+3 6 9 12 >
+
+SOLUTION Wehave,
+
+-2_ -1x2 -3_ -1x3 -4_ -1x4
+6 3x2 9 3x3 12 3x4
+
+-Ix1_-1 -1x2_ -2 -1x3_ -3 -Ilx4_-4
+3x1 3 3x2 6 3x3 9 3x4 12
+
+or
+
+Thus, we observe a pattern in these numbers.
+
+-1x5_ -5 -1x6_-6 -1x7_-7
+
+The other numbers would be = , = , = .
+3x5 15 3x6 18 3x7 21
+
+EXERCISE 8.1
+
+1. List five rational numbers between:
+
+(i) -landO @i) -2and-1 (iii) ~* and jv) Land2
+i) lan ii) 2 and - tii) > 3 Vv 5 3
+2. Write four more rational numbers in each of the following patterns:
+
+. 3 -6 -9 -12 . cl -2 -3
+
+ 571015? 207 " O sn 
+
+2024-25
+
+(iti)
+
+EE a i emarics
+
+-l1 2 3 4
+6 '-12 -18 -24 
+
+3. Give four rational numbers equivalent to:
+
+@
+
+: (i
+
+3 (iti)
+4. Draw the number line and represent the following rational numbers on it:
+
+@
+
+5. The points P,Q, R,S, T, U, Aand B on the number line are such that, TR = RS =SU
+
+ri (i
+
+8 (iti)
+(iv)
+
+oo|N
+
+and AP= PQ = QB. Name the rational numbers represented by P, Q, R andS.
+
+< 142AMYM". ]qA]TITYNY YVNA H_t_ aT |\wnw-~ >
+
+USRT
+
+ 2 l
+
+0 1
+
+6. Which of the following pairs represent the same rational number?
+
+(vil)
+
+@
+
+@
+
+(iv)
+
+(vil)
+
+; (i
+
+ 5 2
+
+i =
+i) ~25
+and 
+() 5 Me TS
+45 (ui)
+ 4
+i) =
+ l
+1
+(v) 3
+
+2024-25
+
+7. Rewrite the following rational numbers in the simplest form:
+
+8. Fill in the boxes with the correct symbol out of >, <, and =.
+
+APQB
+2 3 4
+- 2
+oe _ d 
+(ii) and 3
+1-1
+7) and 
+(vi) 3 9
+72 ) 10
+a 14
+(i) = -16
+1 75
+ ) Tq ll
+
+RATIONAL NUMBERS ik
+
+9. Whichis greater in each of the following:
+25 -5 -4 . 3 2
+
+0 3 Crary @ $3
+-11 2 14
+ 474 ) 75
+10. Write the following rational numbers in ascending order:
+ 2 2 oI . | -2 -4 . 3 3 -3
+O 57575 37973 M734
+
+8.9 OPERATIONS ON RATIONAL NUMBERS
+
+You know how to add, subtract, multiply and divide integers as well as fractions. Let us
+now study these basic operations on rational numbers.
+
+8.9.1 Addition
+
+@ Letus add two rational numbers with same denominators, say : and = .
+
+vent 24(2)
+e tin 3 3
+
+On the number line, we have:
+
+3 2 =-!l 0 3 4 5 6 7 8
+3 3 3 3 3 3 3 3 3 3 3 3
+1 7
+The distance between two consecutive points is 3 So adding = to 3 will
+; 7 . . 2
+mean, moving to the left of 3 making 5 jumps. Where do we reach? We reach at 3:
+F 7 + [= ) 2 yt
+oO, = >. ia. - JD wees OO
+3 3 3 re een
+Let us now try this way: R ;
+7, C5)_ 7405) _2 )
+3 3 3. 3 \
+\S
+We get the same answer. \ \\ .
+ 
+_,6, ) 3,@). ;
+Find =+ > ot in both ways and check if you get the same answers.
+
+5 5 7 7
+2024-25
+
+EE VT Hemarics
+Similarly, 3 + 8 would be
+
+8 8 8 8 8 8 8 8 8 8 8 8
+What do you get?
+-7 5S -7+4+5
++ =
+8 8 8
+
+-13 6 19 (-7
+0 - 4+ 
+Find: 7 ta? 5 a
+
+Also, =? Are the two values same?
+
+So, we find that while adding rational numbers with same denominators, we add
+the numerators keeping the denominators same.
+-l11 7 -1147 -4
++ = =
+5 65 5 5
+
+Thus,
+
+@ How do we add rational numbers with different denominators? As in the case of
+fractions, we first find the LCM of the two denominators. Then, we find the equivalent
+rational numbers of the given rational numbers with this LCM as the denominator.
+Then, add the two rational numbers.
+
+For example, let us add = and = .
+
+LCM of 5 and 3 is 15.
+
+s -7_-21 ,-2_-10
+% 5 15 3. 15
+
+-7 (2) -21 (10) -31
+Ts ee D211) _
+
+5 3 15 15 15
+
+Try THESE woe
+Additive Inverse
+
+Find:
+-4 4
+. 3,2 a9
+(i) >t What will be 77
+_ _ -4 4 -4+4 4 (-4
+6 11 7 7 7 7 7
+
+2024-25
+
+RATIONAL NUMBERS
+
+2 2 2 (-2
+Similarly, = +7 =9=7+
+
+3 3 3 3
+In the case of integers, we call 2 as the additive inverse =
+of 2 and 2 as the additive inverse of 2. TN
+
+ NY
+ 4 (( a 234
+For rational numbers also, we call 7 as the additive CS) " 4-3 -2 71 o }
+4 4 
+inverse of 7 and 7 as the additive inverse of =. Similarly,
+
+ 2 2 2 2
+
+3 is the additive inverse of 3 and 3 is the additive inverse of 3 .
+
+; Le, 3, -9, 5
+What will be the additive inverse of > 2, Ti ?, 7 ?
+EXAMPLE 6Satpal walks 3 km from a place P, towards east and then from there
+
+a
+1 7 km towards west. Where will he be now from P?
+
+SOLUTION Let us denote the distance travelled towards east by positive sign. So,
+the distances towards west would be denoted by negative sign.
+Thus, distance of Satpal from the point P would be
+
+2 *) 2 (-12) 2x7 (-12)x3
++| -l=]= =+ = +
+3 7) 3 7 3X7 7x3
+
+14-36 -22 1 1
+
+21 21 21
+Since it is negative, it means Satpal is at a distance | 1 km towards west of P.
+
+8.9.2 Subtraction
+5 3
+Savita found the difference of two rational numbers 4 and 8 in this way:
+
+5 3 40-21 19
+78 56 56
+
+Farida knew that for two integers a and b she could write a b =a + ( b)
+
+2024-25
+
+EE VT HeMarics
+
+5 3 5
+She tried this for rational numbers also and found, 7 - 8 = + =
+
+Both obtained the same difference.
+
+7 5 3 8
+Try to find 8.9 117 in both ways. Did you get the same answer?
+
+So, we say while subtracting two rational numbers, we add the additive inverse of
+the rational number that is being subtracted, to the other rational number.
+
+rh 24-5 4 5S ' 5, (-14)
+; _ = _ = + = 4
+Us 3 5 3 5 3 additive inverse O 5 3 5
+
+~ 15 15 Find:
+
+2 1 (-1)
+2 5 | eo Se ;
+What will be 2-(2): 09-5 Gi)2o- = We
+
+2-(3)- 7, additive inverse of (=) = 2. 5 = 47 =] 5
+7 6 7 6 7 6 42 42
+
+8.9.3 Multiplication
+
+3 3
+Let us multiply the rational number 5 by 2, i.e., we find = x2,
+On the number line, it will mean two jumps of 5 to the left.
+
+6 - 4 -3 2 -1
+5 5 5 5 5 5
+
+1 2 3
+5 = 9%)
+
+Where do we reach? We reach at 5 . Let us find it as we did in fractions.
+
+ 3 -3x2 -6
+ xX2= = 
+5 5 5
+
+We arrive at the same rational number.
+
+4 6
+Find =-* 3, 5% 4 using both ways. What do you observe?
+
+2024-25
+
+RATIONAL NUMBERS ike oe
+
+So, we find that while multiplying a rational number by a positive integer, we
+multiply the numerator by that integer, keeping the denominator unchanged.
+
+Let us now multiply a rational number by a negative integer,
+
+-2x(-5) _ 10
+9 9
+Remember, 5 can be written as 1 . Try THESE
+
+=x (-5) =
+
+5 -5 10 -2x (5) What will be
+So, x =. 7 -3 -6
+9 1 9 9x1 (i) xT? (ii) =x)?
+3 3x(-2) -6
+. . _ 2 = = _
+Similarly, 1 ! ) lixl U
+
+3 5_-3x5_=15
+8 7 8x7 56
+
+So, as we did in the case of fractions, we multiply two
+rational numbers in the following way:
+i
+
+Step 1 Multiply the numerators of the two rational numbers. Find:
+
+Based on these observations, we find that,
+
+Step 2 Multiply the denominators of the two rational numbers.
+Result of Step 1
+
+ i
+Step 3 Write the product as
+Result of Step 2 I || (i) 2 x 5
+3 9
+
+-3 2 _ -3x2 _ 6
+5 7 5x7 35
+=5,=9 _ -5x(-9) _ 45
+8 7 8x7 56
+8.9.4 Division
+
+Also,
+We have studied reciprocals of a fraction earlier. What is the reciprocal of 7 ? It will be
+5 We extend this idea of reciprocals to non-zero rational numbers also.
+
+The reciprocal of 7 will be > 1.e., > ; that of 5 would be 37
+
+2024-25
+
+EO emarics
+
+!
+
+ 6 -8
+What will be the reciprocal of [| ? and = ? Ni
+
+Product of reciprocals
+The product of a rational number with its reciprocal is always 1}
+
+ xX rei rocal of 3)
+For example, 9 p 9
+
+4 5
+Savita divided a rational number 9 by another rational number 7 as,
+4. -5_4. 7-28 =
+9 7 9 -5 45 ~
+She used the idea of reciprocal as done in fractions. f
+it first divided b > d 28
+Arpit first divide g by = an got 45 
+He finally said 4.3.78 How didh hat?
+e y sai 9 7 45: Howdi e get that?
+He divided them as fractions, ignoring the negative sign and then put the negative sign
+in the value so obtained.
+
+ 28 2 -5
+Both of them got the same value 45 Try dividing 3 by 7 both ways and see if
+
+you get the same answer.
+This shows, to divide one rational number by the other non-zero rational number
+we multiply the rational number by the reciprocal of the other.
+
+Thi 6 eck rocal of (=)-Sx5-%
+us, 5 3 5. 3) 5-2 10
+
+2024-25
+
+RATIONAL NUMBERS i, So
+
+ind: (i) 38 (il) 7 Xa
+
+EXERCISE 8.2
+
+1. Find the sum:
+5 (-l 5 3 _ -9 22
+(i) 34() fi) 345 (ili) Tot 75
+3 5 -8 (2 ~2
+(iv) 119 (v) = + (vi) 3 ft?
+1 3
+(vii) atte
+2. Find
+. 717 . <-(>) 2 =-(2)
+ 547 36 @) 63 (21 ai) 3 (45
+3 67 1
+i) 3-T (vy) 2576
+3. Find the product:
+9 (-7 3 _ 6 9
+@ 3x(Z) (ii) 0? (i) +7
+3 (-2 3 2 3 C5
+ (3) ns SS
+4. Find the value of:
+2 -3 4
+@ CFS ii) = +2 (ii) =z 23)
+ -1.3 -2.1 -7~(-2
+ 374 377 0 Bl)
+
+. 23(2)
+(vil) 137 (65
+
+2024-25
+
+EE Te Hemarics
+
+WuatT HAVE WE DISCUSSED?
+
+1. A number that can be expressed in the form 7 , where p and q are integers and
+
+; . 2 3 ;
+q # 0, 1s called a rational number. The numbers 79? 3 etc. are rational numbers.
+
+2. Allintegers and fractions are rational numbers.
+
+3. Ifthe numerator and denominator of a rational number are multiplied or divided by a
+non-zero integer, we get a rational number which is said to be equivalent to the given
+
+rational number. For example 3 = 3x2 = 6 . SO, We Say 6 is the equivalent
+7 7x2 14 14
+ 3 6 - 6+2 -3
+f f .Al te that -= = _.
+orm of so note tha 4 14227
+
+4. Rational numbers are classified as Positive and Negative rational numbers. When the
+numerator and denominator, both, are positive integers, itis a positive rational number.
+When either the numerator or the denominator is a negative integer, it is anegative
+
+. 3. . . -8.
+rational number. For example, 8 is a positive rational number whereas > isa
+
+negative rational number.
+5. The number 0 is neither a positive nor a negative rational number.
+
+6. A rational number is said to be in the standard form if its denominator is a positive
+integer and the numerator and denominator have no common factor other than 1.
+
+The numbers = : etc. are in standard form.
+
+7. There are unlimited number of rational numbers between two rational numbers.
+
+8. Two rational numbers with the same denominator can be added by adding their
+numerators, keeping the denominator same. Two rational numbers with different
+denominators are added by first taking the LCM of the two denominators and
+then converting both the rational numbers to their equivalent forms having the
+
+2 3-16 9 -16+9 -7
+
+LCM as th i .F | += + = = . Here,
+CM as the denominator. For example, ar Cy y 7A 7A ere
+
+LCM of 3 and 8 is 24.
+
+9. While subtracting two rational numbers, we add the additive inverse of the rational
+number to be subtracted to the other rational number.
+7 2_7 2 7, (-2)_21+(-16)_ 5
+
+Thus, z 379 additive inverse of 373 3 74 7A"
+
+2024-25
+
+RATIONAL NUMBERS i
+
+10. To multiply two rational numbers, we multiply their numerators and denominators
+
+product of numerators
+product of denominators
+
+separately, and write the product as
+
+11. Todivide one rational number by the other non-zero rational number, we multiply the
+rational number by the reciprocal of the other. Thus,
+-7,4_-7 -7 3 -21
+
+3737 x (reciprocal of 5) => x aR
+
+2024-25

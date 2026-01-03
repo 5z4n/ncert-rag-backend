@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/embeddings/
+data/faiss_index/
+models/

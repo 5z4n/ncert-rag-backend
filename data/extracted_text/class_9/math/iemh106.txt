@@ -1,0 +1,532 @@
+0962CHO6
+
+CHAPTER 6
+
+LINES AND ANGLES
+ee
+
+6.1 Introduction
+
+In Chapter 5, you have studied that a minimum of two points are required to draw a
+line. You have also studied some axioms and, with the help of these axioms, you
+proved some other statements. In this chapter, you will study the properties of the
+angles formed when two lines intersect each other, and also the properties of the
+angles formed when a line intersects two or more parallel lines at distinct points.
+Further you will use these properties to prove some statements using deductive reasoning
+(see Appendix 1). You have already verified these statements through some activities
+in the earlier classes.
+
+In your daily life, you see different types of angles formed between the edges of
+plane surfaces. For making a similar kind of model using the plane surfaces, you need
+to have a thorough knowledge of angles. For instance, suppose you want to make a
+model of a hut to keep in the school exhibition using bamboo sticks. Imagine how you
+would make it? You would keep some of the sticks parallel to each other, and some
+sticks would be kept slanted. Whenever an architect has to draw a plan for a multistoried
+building, she has to draw intersecting lines and parallel lines at different angles. Without
+the knowledge of the properties of these lines and angles, do you think she can draw
+the layout of the building?
+
+In science, you study the properties of light by drawing the ray diagrams.
+For example, to study the refraction property of light when it enters from one medium
+to the other medium, you use the properties of intersecting lines and parallel lines.
+When two or more forces act on a body, you draw the diagram in which forces are
+represented by directed line segments to study the net effect of the forces on the
+body. At that time, you need to know the relation between the angles when the rays
+(or line segments) are parallel to or intersect each other. To find the height of a tower
+or to find the distance of a ship from the light house, one needs to know the angle
+
+Reprint 2025-26
+
+70 MATHEMATICS
+
+formed between the horizontal and the line of sight. Plenty of other examples can be
+given where lines and angles are used. In the subsequent chapters of geometry, you
+will be using these properties of lines and angles to deduce more and more useful
+properties.
+
+Let us first revise the terms and definitions related to lines and angles learnt in
+earlier classes.
+
+6.2 Basic Terms and Definitions
+
+Recall that a part (or portion) of a line with two end points is called a line-segment
+and a part ofa line with one end point is called a ray. Note that the line segment AB is
+denoted by AB, and its length is denoted by AB. The ray AB is denoted by AB, and
+
+a line is denoted by AB. However, we will not use these symbols, and will denote
+
+the line segment AB, ray AB, length AB and line AB by the same symbol, AB. The
+meaning will be clear from the context. Sometimes small letters /, m, n, etc. will be
+used to denote lines.
+
+If three or more points lie on the same line, they are called collinear points;
+otherwise they are called non-collinear points.
+
+Recall that an angle is formed when two rays originate from the same end point.
+The rays making an angle are called the arms of the angle and the end point is called
+the vertex of the angle. You have studied different types of angles, such as acute
+angle, right angle, obtuse angle, straight angle and reflex angle in earlier classes
+
+(see Fig. 6.1).
+
+(i) acute angle : 0 <x <90 (i1) right angle : y= 90 (ii1) obtuse angle : 90 <z < 180 
+
+(iv) straight angle : s = 180 (v) reflex angle : 180 <t< 360 
+Fig. 6.1 : Types of Angles
+
+Reprint 2025-26
+
+LINES AND ANGLES 71
+
+An acute angle measures between 0 and 90 , whereas a right angle is exactly
+equal to 90 . An angle greater than 90 but less than 180 is called an obtuse angle.
+Also, recall that a straight angle is equal to 180 . An angle which is greater than 180 
+but less than 360 is called a reflex angle. Further, two angles whose sum is 90 are
+called complementary angles, and two angles whose sum is 180 are called
+supplementary angles.
+
+You have also studied about adjacent angles
+in the earlier classes (see Fig. 6.2). Two angles
+are adjacent, if they have a common vertex, a
+common arm and their non-common arms are D
+on different sides of the common arm. In
+Fig. 6.2, Z ABD and Z DBC are adjacent
+angles. Ray BD is their common arm and point
+B is their common vertex. Ray BA and ray BC
+are non common arms. Moreover, when two B
+angles are adjacent, then their sum is always
+equal to the angle formed by the two noncommon arms. So, we can write
+
+Z ABC = Z ABD + Z DBC.
+
+Note that Z ABC and Z ABD are not D
+adjacent angles. Why? Because their noncommon arms BD and BC lie on the same side
+of the common arm BA.
+
+C
+Fig. 6.2: Adjacent angles
+
+If the non-common arms BA and BC in
+Fig. 6.2, form a line then it will look like Fig. 6.3.
+
+In this case, Z ABD and Z DBC are called ; ; ;
+linear pair of angles. Fig. 6.3 : Linear pair of angles
+
+A B C
+
+You may also recall the vertically opposite
+angles formed when two lines, say AB and CD,
+intersect each other, say at the point O
+(see Fig. 6.4). There are two pairs of vertically
+opposite angles.
+
+One pair is ZAOD and ZBOC. Can you
+find the other pair?
+
+Fig. 6.4 : Vertically opposite
+angles
+
+Reprint 2025-26
+
+72 MATHEMATICS
+
+6.3 Intersecting Lines and Non-intersecting Lines
+
+Draw two different lines PQ and RS on a paper. You will see that you can draw them
+in two different ways as shown in Fig. 6.5 (i) and Fig. 6.5 (11).
+
++
+R Ss
+
+(1) Intersecting lines (11) Non-intersecting (parallel) lines
+Fig. 6.5 : Different ways of drawing two lines
+
+Recall the notion ofa line, that it extends indefinitely in both directions. Lines PQ
+and RS in Fig. 6.5 (1) are intersecting lines and in Fig. 6.5 (11) are parallel lines. Note
+that the lengths of the common perpendiculars at different points on these parallel
+lines is the same. This equal length is called the distance between two parallel lines.
+
+6.4 Pairs of Angles
+
+In Section 6.2, you have learnt the definitions of
+
+some of the pairs of angles such as C
+complementary angles, supplementary angles,
+
+adjacent angles, linear pair of angles, etc. Can
+
+you think of some relations between these
+
+angles? Now, let us find out the relation between
+
+the angles formed when a ray stands on a line.
+
+Draw a figure in which a ray stands ona line as ~", O B
+shown in Fig. 6.6. Name the line as AB and the
+
+ray as OC. What are the angles formed at the _ Fig. 6.6: Linear pair of angles
+point O? They are Z AOC, Z BOC and Z AOB.
+
+Can we write Z AOC + Z BOC = 4 AOB? (1)
+Yes! (Why? Refer to adjacent angles in Section 6.2)
+What is the measure of Z AOB? It is 180 . (Why?) (2)
+
+From (1) and (2), can you say that Z AOC + Z BOC = 180 ? Yes! (Why?)
+
+From the above discussion, we can state the following Axiom:
+
+Reprint 2025-26
+
+LINES AND ANGLES 73
+
+Axiom 6.1 : If a ray stands on a line, then the sum of two adjacent angles so
+formed is 180 .
+
+Recall that when the sum of two adjacent angles is 180 , then they are called a
+linear pair of angles.
+
+In Axiom 6.1, it is given that a ray stands on a line . From this given , we have
+concluded that the sum of two adjacent angles so formed is 180 . Can we write
+Axiom 6.1 the other way? That is, take the conclusion of Axiom 6.1 as given and
+the given as the conclusion . So it becomes:
+
+(A) If the sum of two adjacent angles is 180 , then a ray stands on a line (that is,
+the non-common arms form a line).
+
+Now you see that the Axiom 6.1 and statement (A) are in a sense the reverse of
+each others. We call each as converse of the other. We do not know whether the
+statement (A) is true or not. Let us check. Draw adjacent angles of different measures
+as shown in Fig. 6.7. Keep the ruler along one of the non-common arms in each case.
+Does the other non-common arm also lie along the ruler?
+
+A C
+(iii)
+
+Fig. 6.7 : Adjacent angles with different measures
+
+Reprint 2025-26
+
+74 MATHEMATICS
+
+You will find that only in Fig. 6.7 (111), both the non-common arms lie along the
+ruler, that is, points A, O and B lie on the same line and ray OC stands on it. Also see
+that Z AOC + Z COB = 125 + 55 = 180 . From this, you may conclude that statement
+(A) is true. So, you can state in the form of an axiom as follows:
+
+Axiom 6.2 : If the sum of two adjacent angles is 180 , then the non-common arms
+of the angles form a line.
+
+For obvious reasons, the two axioms above together is called the Linear Pair
+Axiom.
+
+Let us now examine the case when two lines intersect each other.
+
+Recall, from earlier classes, that when two lines intersect, the vertically opposite
+angles are equal. Let us prove this result now. See Appendix | for the ingredients of a
+proof, and keep those in mind while studying the proof given below.
+
+Theorem 6.1 : If two lines intersect each other, then the vertically opposite
+angles are equal.
+
+Proof : In the statement above, it is given
+that two lines intersect each other . So, let
+AB and CD be two lines intersecting at O as
+shown in Fig. 6.8. They lead to two pairs of
+vertically opposite angles, namely,
+
+(i) Z AOC and Z BOD (ii) Z AOD and
+Z BOC. Fig. 6.8 : Vertically opposite angles
+
+We need to prove that Z AOC = Z BOD
+and Z AOD = Z BOC.
+
+Now, ray OA stands on line CD.
+Therefore, Z AOC + Z AOD = 180 (Linear pair axiom) (1)
+Can we write Z AOD + Z BOD = 180 ? Yes! (Why?) (2)
+From (1) and (2), we can write
+
+Z AOC + Z AOD = Z AOD + Z BOD
+This implies that 7 AOC = Z BOD (Refer Section 5.2, Axiom 3)
+Similarly, it can be proved that ZAOD = ZBOC
+
+Now, let us do some examples based on Linear Pair Axiom and Theorem 6.1.
+
+Reprint 2025-26
+
+LINES AND ANGLES
+
+Example 1 : In Fig. 6.9, lines PQ and RS
+intersect each other at point O. If P
+Z POR: Z ROQ=5: 7, find all the angles.
+
+Solution: Z POR +Z ROQ = 180 
+(Linear pair of angles)
+
+But Z POR: ZROQ=5:7 R
+(Given)
+Therefore, Z POR = D x 180 = 75 
+_. 7
+Similarly, Z ROQ= D x 180 = 105 
+Now, Z POS = ZROQ = 105 
+and Z SOQ = ZPOR = 75 
+(Vertically opposite angles)
+(Vertically opposite angles)
+
+Example 2 : In Fig. 6.10, ray OS stands on a line POQ. Ray OR and ray OT are
+angle bisectors of Z POS and Z SOQ, respectively. If Z POS =x, find Z ROT.
+
+Solution : Ray OS stands on the line POQ.
+
+Therefore, Z POS + Z SOQ = 180 
+But, Z POS =x
+Therefore, x + Z SOQ = 180 
+So, Z SOQ = 180 x
+Now, ray OR bisects Z POS, therefore,
+Z ROS = > x Z POS
+1 x
+= -xyo 
+2 " 9
+Similarly, Z SOT = > x Z SOQ
+= x o_
+5 * (180 =)
+= 99 -=
+Reprint 2025-26
+
+76 MATHEMATICS
+
+Now, Z ROT = ZROS + Z SOT
+~~ +90 -~
+2 2
+= 90 
+
+Example 3 : In Fig. 6.11, OP, OQ, OR and OS are
+four rays. Prove that 7 POQ + Z QOR + Z SOR +
+Z POS = 360 .
+
+Solution : In Fig. 6.11, you need to produce any of
+the rays OP, OQ, OR or OS backwards to a point.
+Let us produce ray OQ backwards to a point T so
+that TOQ is a line (see Fig. 6.12).
+
+Now, ray OP stands on line TOQ.
+Therefore, Z TOP + Z POQ = 180 (1)
+(Linear pair axiom)
+Similarly, ray OS stands on line TOQ.
+Therefore, Z TOS + Z SOQ = 180 (2)
+But Z SOQ = Z SOR + Z QOR
+So, (2) becomes
+Z TOS + Z SOR + Z QOR = 180 
+
+Now, adding (1) and (3), you get
+
+Z TOP + Z POQ+ Z TOS + Z SOR + Z QOR = 360 (4)
+But Z TOP + Z TOS = Z POS
+Therefore, (4) becomes
+
+Z POQ+ Z QOR + Z SOR + Z POS = 360 
+
+EXERCISE 6.1
+
+1. In Fig. 6.13, lines AB and CD intersect at O. If
+Z AOC + Z BOE= 70 and Z BOD = 40 , find
+Z BOE and reflex 7 COE.
+
+Reprint 2025-26
+
+LINES AND ANGLES 77
+
+2. In Fig. 6.14, lines XY and MN intersect at O. If
+Z POY = 90 anda: b=2: 3, findc.
+
+3. In Fig. 6.15, Z PQR = Z PRQ, then prove that
+Z PQS=Z PRT.
+
+4. InFig. 6.16, ifx+y=w +z, then prove that AOB
+is a line.
+
+5. InFig. 6.17, POQ isa line. Ray OR is perpendicular
+to line PQ. OS is another ray lying between rays R
+OP and OR. Prove that Ss
+ZROS= 5 (Z QOS Z POS).
+
+6. Itis given that Z XYZ = 64 and XY is produced
+
+to point P. Draw a figure from the given P O Q
+information. Ifray YQ bisects Z ZYP, find 7 XYQ Fis. 6.17
+and reflex Z QYP. 18. 0.
+
+Reprint 2025-26
+
+78 MATHEMATICS
+
+6.5 Lines Parallel to the Same Line
+If two lines are parallel to the same line, will they be parallel to each other? Let us
+check it. See Fig. 6.18 in which line m || line / and line 7 || line /.
+
+Let us draw a line transversal for the lines, /, m and n. It is given that
+line m || line / and line 7 || line /. t
+
+Therefore, Z1= 22 and Z1=23
+
+(Corresponding angles axiom) 1
+
+So, Z2=Z3 (Why?) 7
+But 2 2 and 7 3 are corresponding angles and they 
+are equal.
+Therefore, you can say that n .
+Line m || Line n
+(Converse of corresponding angles axiom)
+Fig. 6.18
+
+This result can be stated in the form of the following theorem:
+
+Theorem 6.6 : Lines which are parallel to the same line are parallel to each
+other.
+
+Note : The property above can be extended to more than two lines also.
+
+Now, let us solve some examples related to parallel lines.
+
+Example 4 : In Fig. 6.19, if PQ || RS, ZMXQ = 135 and Z MYR = 40 , find Z XMY.
+
+P x Q
+40 
+
+Fig. 6.19 Fig. 6.20
+
+Solution : Here, we need to draw a line AB parallel to line PQ, through point M as
+shown in Fig. 6.20. Now, AB || PQ and PQ || RS.
+
+Reprint 2025-26
+
+LINES AND ANGLES 719
+
+Therefore, AB || RS (Why?)
+
+Now, ZQXM + Z XMB = 180 
+
+(AB || PQ, Interior angles on the same side of the transversal XM)
+But Z QXM = 135 
+So, 135 + Z XMB = 180 
+Therefore, Z XMB = 45 (1)
+Now, Z BMY = Z MYR (AB || RS, Alternate angles)
+Therefore, Z BMY = 40 (2)
+
+Adding (1) and (2), you get
+Z XMB + Z BMY = 45 + 40 
+That is, Z XMY = 85 
+
+Example 5 : If a transversal intersects two lines such that the bisectors of a pair of
+corresponding angles are parallel, then prove that the two lines are parallel.
+
+Solution : In Fig. 6.21, a transversal AD intersects two lines PQ and RS at points B
+and C respectively. Ray BE is the bisector of Z ABQ and ray CG is the bisector of
+Z BCS; and BE || CG.
+
+We are to prove that PQ || RS.
+It is given that ray BE is the bisector of Z ABQ.
+Therefore, Z ABE= 5 Z ABQ (1)
+
+Similarly, ray CG is the bisector of Z BCS.
+Therefore, 2BCG= 5 Z BCS (2)
+
+But BE || CG and AD is the transversal.
+Therefore, Z ABE= Z BCG
+
+(Corresponding angles axiom) (3)
+Substituting (1) and (2) in (3), you get
+
+1 1
+7 <ABQ= 7 < BCS
+
+That is, Z ABQ= ZBCS
+
+Reprint 2025-26
+
+80 MATHEMATICS
+
+But, they are the corresponding angles formed by transversal AD with PQ and RS;
+and are equal.
+
+Therefore, PQ || RS
+
+(Converse of corresponding angles axiom)
+
+Example 6: In Fig. 6.22, AB || CD and CD || EF. Also EA 1 AB. If 7 BEF = 55 , find
+the values of x, y and z.
+
+Solution: y+55 = 180 
+
+(Interior angles on the same side of the
+transversal ED)
+
+Therefore, y = 180 55 = 125 
+Again x=y
+
+(AB || CD, Corresponding angles axiom)
+Therefore x = 125 
+
+Fig. 6.22
+Now, since AB || CD and CD || EF, therefore, AB || EF.
+So, Z EAB+ Z FEA = 180 (Interior angles on the same
+
+side of the transversal EA)
+Therefore, 90 + z+ 55 = 180 
+Which gives z= 35 
+EXERCISE 6.2
+1. InFig. 6.23, if AB || CD, CD || EF andy :z=3:7,
+find x.
+
+Fig. 6.23
+
+Reprint 2025-26
+
+LINES AND ANGLES 81
+
+2. InFig. 6.24, ifAB || CD, EF L CD and Z GED = 126 , find Z AGE, 7 GEF and Z FGE.
+
+AG F B
+Cc E D
+Fig. 6.24
+
+3. InFig. 6.25, if PQ || ST, Z PQR= 110 and Z RST = 130 , find Z QRS.
+[Hint : Draw a line parallel to ST through point R.]
+S T
+P
+Q 130 
+R
+Fig. 6.25
+
+4. InFig. 6.26, if AB || CD, Z APQ=50 and 7 PRD = 127 , find x and y.
+A P B
+127 
+
+C Q RD
+Fig. 6.26
+
+5. In Fig. 6.27, PQ and RS are two mirrors placed parallel to each other. An incident ray
+AB strikes the mirror PQ at B, the reflected ray moves along the path BC and strikes
+the mirror RS at C and again reflects back along CD. Prove that
+
+AB||CD.
+P B Q
+D
+A
+R C S
+Fig. 6.27
+
+Reprint 2025-26
+
+82 MATHEMATICS
+
+6.6 Summary
+
+In this chapter, you have studied the following points:
+
+1. Ifaray stands ona line, then the sum of the two adjacent angles so formed is 180 and viceversa. This property is called as the Linear pair axiom.
+
+2. Iftwo lines intersect each other, then the vertically opposite angles are equal.
+
+3. Lines which are parallel to a given line are parallel to each other.
+
+Reprint 2025-26

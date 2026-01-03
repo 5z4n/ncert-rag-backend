@@ -1,0 +1,838 @@
+.
+0756CH13
+
+Ca You vead this... ap
+
+ _ Do you know what the mass of earth is? It is
+1770, COL co 200 gl Mm | ~ 5,970,000,000,000,000,000,000,000 kg!
+My Gel. m8 Can you read this number?
+Mass of Uranus is 86,800,000,000,000,000,000,000,000 kg.
+Which has greater mass, Earth or Uranus?
+
+Distance between Sun and Saturn is 1,433,500,000,000 m and distance between Saturn
+and Uranus is 1,439,000,000,000 m. Can you read these numbers? Which distance is less?
+
+These very large numbers are difficult to read, understand and compare. To make
+these numbers easy to read, understand and compare, we use exponents. In this Chapter,
+we shall learn about exponents and also learn how to use them.
+
+We can write large numbers in a shorter form using exponents.
+Observe 10, 000 = 10 x 10 x 10 x 10 = 10 
+
+The short notation 10* stands for the product 10x10x10x10. Here 10 is called the
+base and 4 the exponent. The number 10 is read as 10 raised to the power of 4 or
+simply as fourth power of 10. 104 is called the exponential form of 10,000.
+
+We can similarly express 1,000 as a power of 10. Note that
+1000 = 10 x 10 x 10 = 10 
+
+Here again, 10 is the exponential form of 1,000.
+
+Similarly, 1,00,000 = 10 x 10 x 10 x 10 x 10 = 10 
+
+10 is the exponential form of 1,00,000
+
+In both these examples, the base is 10; in case of 10 , the exponent
+is 3 and incase of 10 the exponent is 5.
+
+2024-25
+
+EXPONENTS AND POWERS
+
+We have used numbers like 10, 100, 1000 etc., while writing numbers in an expanded
+form. For example, 47561 = 4 x 10000 + 7 x 1000 +5 x 100+ 6x 10+ 1
+
+This can be written as 4 x 104+ 7 x10 +5 x 10?+6x 10+1.
+Try writing these numbers in the same way 172, 5642, 6374.
+
+In all the above given examples, we have seen numbers whose base is 10. However
+the base can be any other number also. For example:
+
+81=3x3x3x3can be written as 81 = 3*, here 3 is the base and 4 is the exponent.
+Some powers have special names. For example,
+10 , which is 10 raised to the power 2, also read as 10 squared and
+
+10 , which is 10 raised to the power 3, also read as 10 cubed .
+WAYS,
+Can you tell what 5 (5 cubed) means? ~= ~ 0
+
+S3=5x5x5=125
+So, we can say 125 is the third power of 5.
+
+lo2 |
+IORASED TO THE
+Power 2
+
+What is the exponent and the base in 53?
+Similarly, 2 =2x2x2x2x2= 32, whichis the fifth power of 2.
+In 2 , 2 is the base and 5 is the exponent.
+In the same way, 243 =3x3x3x3x3=3 
+64=2x2x2x2x2x2=2 
+625=5x5x5x5=5'
+
+Find five more such examples, where a number is expressed in exponential
+form. Also identify the base and the exponent in each case.
+
+You can also extend this way of writing when the base is a negative integer.
+
+What does ( 2) mean?
+
+Itis ( 2) = (-2) x (-2) x (-2) =-8
+
+Is (-2)*= 16? Checkit.
+
+Instead of taking a fixed number let us take any integer a as the base, and write the
+numbers as,
+
+aX a=a? (read as a squared or a raised to the power 2 )
+axaxaz=a@ (read as acubed or a raised to the power 3 )
+axaxaxa=a'(read as a raised to the power 4 or the 4" power of a)
+
+axaxaxaxaxaxa=da' (read as a raised to the power 7 or the 7" power of a)
+and so on.
+
+axaxaxbxb canbe expressed as a*b (read as a cubed b squared)
+2024-25
+
+MATHEMATICS
+
+axaxbxbxbx bcan be expressed as a b* (read as a
+
+squared into b raised to the power of 4).
+
+Express:
+
+(i) 729 as a power of 3_= EXAMPLE I Express 256 as a power 2.
+
+@ 128.8. power of 2 SV My SOLUTION We have 256 =2x2x2x2x2x2x2x2.
+(ii) 343 asapowerof7 <2
+
+So we can say that 256 = 2 
+EXAMPLE 2 Which one is greater 2? or 37?
+SOLUTION Wehave,2?=2x2x2=8 and
+
+3? =3x3=9.
+
+Since 9 > 8, so, 3 is greater than 2 
+EXAMPLE 3 Which one is greater 87 or 2 ?
+SOLUTION 8 =8x8=64
+
+22 =2x2x2x2x2x2x2x2 = 256
+
+Clearly, 2 > 8
+EXAMPLE 4Expand ab , a*b , b a , b a . Are they all same?
+SOLUTION a? =axb 
+(axaxa)x(bxb)
+
+axaxaxbxb
+Ch=axb
+=axaxbxbxb
+b? 3- bh x@
+=bxbxaxaxa
+bae=abhxa
+=bxbxbxaxa
+
+Note that in the case of terms a? b and a b* the powers of a and b are different. Thus
+a b and a b are different.
+
+On the other hand, a? b? and b a are the same, since the powers of a and b in these
+two terms are the same. The order of factors does not matter.
+
+Thus, 8b? =a xb? =b x a =D a . Similarly, a? b? and b? a are the same.
+
+EXAMPLE 5 xpress the following numbers as a product of powers of prime factors:
+
+(i) 72 (i) 432 (ii) 1000 (tv) 16000 2/72
+SOLUTION 2 | 36
+(i) 72=2x36=2x2x18 >| 18
+=2x2x2x9 3/9
+=2x2x2x3x3=2?x3?
+Thus, 72 = 2? x 3? (required prime factor product form) 3
+
+2024-25
+
+EXPONENTS AND POWERS
+
+(i) 432=2x216=2x2x108=2x2x2x54
+=2x2x2x2x27=2x2x2x2x3x9
+=2x2x2x2x3x3x3
+
+or 432 = 2* x 33 (required form)
+(i) 1000=2x500=2x2x250=2x2x2x 125
+
+=2x2x2x5x25=2x2x2x5x5xS5
+or 1000 = 2? x 5?
+
+Atul wants to solve this example in another way:
+1000 = 10 x 100 = 10 x 10x 10
+= (2x5)x(2x5)x(2x5) (Sincel0 =2 x 5)
+
+=2x5x2x5x2x5=2x2x2x5x5x5
+or 1000 = 23x 5?
+Is Atul s method correct?
+
+(iv) 16,000= 16x 1000 = (2x2x2x 2) x1000 = 2* x10 (as 16=2x 2x 2x2)
+
+=(2x2x2x2)x(2x2x2x5x5x5)=2'x2xS?
+(Since 1000 =2x2x2x5x5x5)
+
+=(2X2x2x2x2x2x2)x(5x5x5)
+or, 16,000 = 2 x 5?
+
+EXAMPLE 6 Work out (1) , (-1)*, -1)*, (-10)3, (-5)*.
+
+SOLUTION
+(i) Wehave (1P=1x1x1x1lxl=1
+In fact, you will realise that 1 raised to any power is 1. ( 1) ot number =]
+ji) CIS =Cl)x Cl) x Cl) =1x Cl =-1 yer se
+Gi) (-1)*=(-1) x 1) x (1) x (-1)=1x1=1
+You may check that ( 1) raised to any odd power is ( 1),
+and ( 1) raised to any even power is (+1).
+(iv) ( 10)3 = (-10) x (-10) x (-10) = 100 x (-10) = 1000
+(v) (-5)*=(-5) x (-5) x (5) x (5) = 25 x 25 = 625
+EXERCISE 11.1
+1. Find the value of:
+(i) 2 (ii) 93 (iti) 117 (iv) 5*
+2. Express the following in exponential form:
+(i) 6x6x6x6 (ii) txt (ii) bxbxbxb
+
+(iv) 5xX5x7x7x7 (Vv) 2x2xaxa (vil) axaxaxcxcxcxcxd
+
+2024-25
+
+MATHEMATICS
+
+. Express each of the following numbers using exponential notation:
+(i) 512 (i) 343 (iit) 729 (iv) 3125
+. Identify the greater number, wherever possible, in each of the following?
+(i) 4 or 34 Gi) 5 or 3 (ii) 2 or 8?
+(iv) 100 or 2! = (v)_ 2 or 107
+
+. Express each of the following as product of powers of their prime factors:
+
+(i) 648 Gi) 405 ii) 540 (iv) 3,600
+. Simplify:
+
+(i) 2x 103 (i) 7x2 (ii) 2x5 (iv) 3x44
+
+(v) 0x 10 (vi) 52x 33 (vii) 24x 32 (viii) 3? x 10*
+. Simplify:
+
+@) (4) di) (-3)x 2 (iii) ( 3) x (-5) 
+
+(iv) ( 2)*x (-10) 
+8. Compare the following numbers:
+(i) 2.7 x 10"; 1.5 x 108 (i) 4x 104 ;3 x 10"
+
+11.3 Laws-or EXPoNeEnNTSs
+
+11.3.1 Multiplying Powers with the Same Base
+(i) Letus calculate 2? x 23
+27x 2? =(2x2)x(2x2x 2)
+=2x2x2x2x2=2)=2%
+Note that the base in 2 and 2? is same and the sum of the exponents, i.e., 2 and 3 is 5
+(ii) (-3)* x (-3) = [(-3) x (-3) x (-3)x (-3)]_ x [(-3) x (-3) x -3)]
+= (3) x (-3) x (-3) x (3) x (-3) x (3) x (-3)
+= (-3)
+_ (-3)8
+Again, note that the base is same and the sum of exponents, 1.e., 4 and 3, is 7
+(iii) a ? xat=(axa)x(axaxa xa)
+=axaxaxaxaxa= a 
+(Note: the base is the same and the sum of the exponents is 2 + 4=6)
+Similarly, verify:
+42 x 42 = 42+2
+32% 33 = 3243
+2024-25
+
+EXPONENTS AND POWERS
+
+Can you write the appropriate number in the box.
+
+Try THESE
+(HyxCeips= Cid
+
+Simplify and write in
+b? x b =bU (Remember, base is same; b is any integer). exponential form:
+cx ct =cU (cis any integer) @) 2 x 2?
+d x d= qu (ii) p? x p*
+
+ii) 43 x 42
+
+From this we can generalise that for any non-zero integer a, where m
+
+(iv) @xaxa 
+and n are whole numbers,
+
+. (vy) 53x 5 x 5 
+a "xa =a"*" (vi) ( 4)!2 x ( 4)? 
+
+Caution!
+Consider 2? x 3?
+
+Can you add the exponents? No! Do you see why ? The base of 23 is 2 and base
+of 3 is 3. The bases are not same.
+
+11.3.2 Dividing Powers with the Same Base
+Let us simplify 3 +3*?
+
+3 _ 3X3x3xX3x3x3x3
+
+Se ME Be 3X3 K3x3
+=3x3x3=3%=37"4
+Thus 37 + 34= 37-4
+(Note, in 3 and 3* the base is same and 3 + 34 becomes 37 )
+Similarly,
+56 =. Sym 5 _ 5x5x5x5x5x5
+5 5x5
+=5x5x5x5=54=5 ?
+or 56 +57 =5 -?
+
+Let a be a non-zero integer, then,
+
+a axaxaxa
+
+d+a=5 =axa=a =a 
+a axa
+
+or ai+a=a ?
+Now can you answer quickly?
+108 + 10 = 108-3= 10 
+P+27%=70
+a+a=aul
+
+2024-25
+
+MATHEMATICS
+
+For non-zero integers b and c,
+eva
+b= p= pu
+
+Simplify and write in exponential (100 = PM = O
+form: (eg., 11 + 11?= 11 )
+(i) 2?+2? q@ 10 = 10
+Git) 9'' +97 Gv) 20% = 20%
+(vy) 78 +7' 
+
+In general, for any non-zero integer a,
+a" ~q'=a"~-"
+
+where m and n are whole numbers and m >n.
+
+11.3.3 Taking Power of a Power
+Consider the following
+
+Simplify (2 ) ; (3 ) 
+Now, (2 y means 2 is multiplied two times with itself.
+(2) =23x 2
+
+= 23*3 (Since a x a" =a"*")
+=- 26 = 23 x2
+
+Thus (2 y = 23 
+
+Similarly (3 ) = 3? x 32x 32x 3?
+_ 32424242
+
+= 3 (Observe 8 is the product of 2 and 4).
+
+= 32%4
+
+Can you tell what would ( T y" would be equal to?
+
+(2) = 23x2 = 96
+
+(3 )' = 324 = 38
+
+= 72x10 720
+2
+(a ) =q2?%3= 6
+=q'*3=qm 
+
+Simplify and write the answer in
+
+ 6? 
+exponential form: From this we can generalise for any non-zero integer a , where m
+
+and n are whole numbers,
+
+(6 (BY (guy gm
+di) (7) vy (8 )
+
+2024-25
+
+EXPONENTS AND POWERS
+
+EXAMPLE 7 Can you tell which one is greater (57) x 3 or (5 y ?
+
+SOLUTION (5?) x3 means 5? is multiplied by 3 i.e., 5 x 5 x 3 =75
+
+but (5 y means 5 is multiplied by itself three times i.e. ,
+
+5? x 5 x 57 = 5 = 15,625
+Therefore (5 )? > (57) x 3
+
+11.3.4 Multiplying Powers with the Same Exponents
+
+Can you simplify 2 x 3 ? Notice that here the two terms 2? and 3 have different bases,
+but the same exponents.
+
+Now, 2x 33=(2x2x2)x(3x3x 3)
+=(2x3)x (2x3) x (2x 3)
+=6x6x6
+=6 (Observe 6 is the product of bases 2 and 3)
+
+Consider 4* x 3* =(4x4x4x4)x(3x3x3 x3)
+= (4x 3)x (4x 3) x (4x 3) x (4x 3)
+=12x 12x 12 x12
+= 12+
+
+Consider, also, 3 x a =(3 x3) x (axa)
+
+Put into another form using
+a x b = (ab)":
+=(3 x a)x (3 xa) i) 4x23 (ii) 25x b>
+
+= (3 x a) 
+= (3a)? (Note: 3xa = 3a )
+Similarly, a'xb* = =(axaxaxa)x (bx bxbxb)
+= (ax b) x (axb) x (ax b) x (ax b)
+= (ax b)*
+= (ab)* (Note a x b= ab)
+In general, for any non-zero integer a
+
+Gil) ax P (iv) 5 x (-2)8
+(v) (-2)"x C3)"
+
+a x b = (ab)" (where mis any whole number)
+
+EXAMPLE 8 Express the following terms in the exponential form:
+@ (2x3) Gi) (2a)" ii) ( 4m)
+
+SOLUTION
+
+(i) (2x 3p = (2x 3)x (2x 3) x (2x3) x (2x3) x (2x 3)
+(2x2x2x2x2)x(3x3x3x3x 3)
+= 2>x 3 
+
+2024-25
+
+MATHEMATICS
+
+Put into another form
+
+Haye gob (<)
+usin, +b" =| |:
+ga b
+
+(i) 45 = 35
+
+(ii) 25+ b 
+Gi) C2) +b
+(iv) p* +"
+(v) 5 +(2) 
+
+What is a ?
+
+Obeserve the following pattern:
+
+2 = 64
+
+2= 32
+
+2*= 16
+
+2= 8
+
+2?= ?
+
+2= ?
+
+2= ?
+You can guess the value of 2 
+by just studying the pattern!
+You find that 2 = 1
+If you start from 3 = 729, and
+proceed as shown above
+finding 3 , 3+, 3 ,... etc, what
+will be 3 =?
+
+Gi) (2a)*= 2ax2ax2ax 2a
+= (2xXx2x2x2)x(axaxaxa)
+= 2'xa 
+
+Gi) (-4m)= (-4xm)
+
+= (-4xm)x(-4xm) x (4xm)
+= (-4) x (-4) x (4) x (mx mx m) = (- 4)? x (my
+
+11.3.5 Dividing Powers with the Same
+Exponents
+
+Observe the following simplifications:
+
+@ 2 2x2x2x2_ 2222 -(3)
+3 3x3x3x3 33-33 (3
+
+a@ axaxXa aaa (<)
+3 = = -xX-x-=
+b bxbxb b b b b
+
+From these examples we may generalise
+
+(it)
+
+m
+mama a ;
+a" +b" = Bb = b where a and b are any non zero integers
+and mis a whole number.
+EXAMPLE QExpand: (i) (2)
+
+SOLUTION
+
+. (4) _ 4
+(ii) (=) = a5 =
+@ Numbers with exponent zero
+Can you tell what => 33 equals to?
+
+3x3x3x3
+5x5x5x5
+
+(<4) (4)<C4)* C4) C4)
+
+TX7TX7TX7X7
+
+3 3x3x3x3x3 _
+3 3x3x3x3x3
+
+by using laws of exponents
+2024-25
+
+EXPONENTS AND POWERS
+
+3 + 3 = 3 -9 = 3 
+So 3 =1
+Can you tell what 7 is equal to?
+
+PsP =7-37 =7 
+
+T_ 7x7x7_,
+
+And Po TxXTxXT |
+Therefore P=1
+Similarly a+a=a=a 
+
+a axaxa
+And a+a=z= =l
+a axaxa
+
+Thus a = | (for any non-zero integer a)
+So, we can say that any number (except 0) raised to the power (or exponent) 0 is 1.
+
+11.4 MISCELLANEOUS EXAMPLES USING THE LAWS OF
+EXPONENTS
+
+Let us solve some examples using rules of exponents developed.
+ExaAmpLe 10 Write exponential form for 8 x 8 x 8 x 8 taking base as 2.
+
+SOLUTION We have, 8x 8 x8 x 8 = 8*
+
+But we know that 8=2x2x2=23
+
+Therefore 84 = (23)* = 2? x 2? x 23 x 2?
+= 23>*4 [You may also use (a ) = a "]
+= 7212
+
+EXAMPLE 11 Simplify and write the answer in the exponential form.
+
+37\
+(i) Ga (ii) 23x 2?x 5 iii) (62x 64) +6
+(iv) [(223x3]x5 (v) 8+23
+
+SOLUTION
+(i) [F } 3 = (3"?)x3 
+= 35x35 = 3545 = 310
+
+2024-25
+
+EE sr emarics
+
+(i) 2x 2x5 = 2x58
+= 25x S'=(2x 5) = 10 
+(iii) (6 x6')=+6 = 674 +6"
+- _=6 3 =6 
+
+6?
+(iv) (2 ) 3 st = [2 x 3 ] x 56
+
+(2x3) x5 
+
+(2x3x5)" = 30 
+
+(v) 8=2x2x2=23
+Therefore 8? + 2?= (27)? + 23
+
+= 25+ 23 = 253 = 9
+
+EXAMPLE 12 Simplify:
+
+ 12*x9x4 2x ae diy 2x3*x2 
+
+OO xex27 (i) 2 xaxsa OX?
+SOLUTION
+
+(i) Wehave
+
+12*x93x4 (2?x3)*x (37)x2?
+6 X82x27. (2x3)*x(2 )?x3 
+
+(2) x (3)' x3 x2? _ 2x2? x3" x3 
+Bx? x2x%3? = 3K 2 x3? x3?
+
+28424346 910.310
+~ 23+ 4 3343 _ 9% 36
+= 210-9 y 310-6 91 y 34
+=2~x81=162
+Gi) 2xax5at=2xax5xa'
+=2x5xa@xa=8x5xa***
+=40 a 
+
+2024-25
+
+EXPONENTS AND POWERS (i;
+
+2x3*x2 - 2x3*x2> -2x2 x3*
+
+(ul) 9x4? ~ 3x (2 ) = 3722?
+
+25x34 2 x34 ona
+= BHT = GET OS
+
+=2 ?x 3?=4x9 = 36
+Note: In most of the examples that we have taken in this Chapter, the base of a power
+was taken an integer. But all the results of the chapter apply equally well to a base
+which is a rational number.
+
+EXERCISE 11.2
+
+1. Using laws of exponents, simplify and write the answer in exponential form:
+
+(i) 32x 34x 38 (ii) 65 = 6" Gi) axa
+
+iv) Fx? (v) (8) +5 (vi) 28x 5 
+
+(vii) atx (viii) (3*) (ix) (2 +2"5)x2 
+(x) 828?
+
+2. Simplify and express each of the following in exponential form:
+
+2? x3'x4
+0 (ii) (5 ) xs*)+5" (ii) 25 25 
+3x7? x11t 3 a0, 20. 40
+(iv) 1x (v) 373? (vi) 2 + 394 4
+. ee . xa
+(vii) 2 x 3 x 4 (viii) (3 + 2 ) x 5 (ix) Pxae
+a 8 4 xa b 2
+") (xe ) ae wi (2'%2)
+
+3. Say true or false and justify your answer:
+(i) 10x 10!!= 100"! (ii) 23 > 5? @ii) 2 x3 =6
+(iv) 3 =(1000) 
+
+2024-25
+
+EE a VT HeMarics
+
+4. Express each of the following as a product of prime factors only in exponential form:
+
+(@) 108 x 192 (ii) 270 (iii) 729 x 64
+(iv) 768
+5. Simplify:
+2) x7 25x5 xf 3 x 10 x 25
+wy 2)xT a) Gi)
+8x7 10 xt 5 x6
+
+11.5 DecmaL NuMBER SysTEM
+
+=> Let us look at the expansion of 47561, which we already know:
+47561 =4 x 10000 + 7 x 1000 +5 x 100+ 6x 10+ 1
+We can express it using powers of 10 in the exponent form:
+Therefore, 47561 = 4 x 10*+7 x 10 +5 x 107+6x 10! +1 x 10 
+(Note 10,000 = 10%, 1000 = 10 , 100 = 10 , 10 = 10' and 1 = 10 )
+Let us expand another number:
+104278 = 1 x 100,000 + 0 x 10,000 + 4 x 1000 +2 x 100+7x10+8x1
+=1x10 +0x 10*+4x 10 +2 x 10 +7x 10'+8 x 10 
+=1x10 +4~x 10 +2x 10 +7x 10'+8 x 10 
+
+Notice how the exponents of 10 start from a maximum value of 5 and go on decreasing
+by | at astep from the left to the right upto 0.
+
+11.6 Expressinc LARGE NuMBERS IN THE STANDARD ForRM
+
+Let us now go back to the beginning of the chapter. We said that large numbers can be
+conveniently expressed using exponents. We have not as yet shown this. We shall do so now.
+
+1. Sunis located 300,000,000,000,000,000,000 m from the centre of our Milky Way
+Galaxy.
+
+2. Number of stars in our Galaxy is 100,000,000,000.
+3. Mass of the Earth is 5,976,000,000,000,000,000,000,000 kg.
+
+These numbers are not convenient to write and read. To make
+it convenient we use powers. RY LHESE
+
+Observe the following: Expand by exp ressing
+powers of 10 in the
+59=5.9x 10=5.9 x 10! exponential form:
+590 = 5.9 x 100 = 5.9 x 107 (i) 172
+5900 = 5.9 x 1000 = 5.9 x 103 (i) 5,643
+(iii) 56,439
+
+_ _ 4
+59000 =5.9 x 10000 = 5.9 x 10* and so on. (iv) 1,76,428
+
+2024-25
+
+EXPONENTS AND POWERS (i; oo
+
+We have expressed all these numbers in the standard form. Any number can be
+expressed as a decimal number between 1.0 and 10.0 including 1.0 multiplied by a power
+of 10. Such a form of a number is called its standard form. Thus,
+
+5,985 = 5.985 x 1,000 = 5.985 x 10 is the standard form of 5,985.
+
+Note, 5,985 can also be expressed as 59.85 x 100 or 59.85 x 10 . But these are not
+the standard forms, of 5,985. Similarly, 5,985 = 0.5985 x 10,000 = 0.5985 x 10*is also
+not the standard form of 5,985.
+
+We are now ready to express the large numbers we came across at the beginning of
+the chapter in this form.
+
+The, distance of Sun from the centre of our Galaxy i.e.,
+300,000,000,000,000,000,000 m can be written as
+
+3.0 x 100,000,000,000,000,000,000 = 3.0 x 107? m
+Now, can you express 40,000,000,000 in the similar way?
+Count the number of zeros in it. Itis 10.
+So, 40,000,000,000 = 4.0 x 10' 
+Mass of the Earth = 5,976,000,000,000,000,000,000,000 kg
+= 5.976 x 10% kg
+
+Do you agree with the fact, that the number when written in the standard form is much
+easier to read, understand and compare than when the number is written with 25 digits?
+
+Now,
+Mass of Uranus = 86,800,000,000,000,000,000,000,000 kg
+= 8.68 x 10*> kg
+
+Simply by comparing the powers of 10 in the above two, you can tell that the mass of
+Uranus is greater than that of the Earth.
+
+The distance between Sun and Saturn is 1,433,500,000,000 m or 1.4335 x 10'?m.
+The distance betwen Saturn and Uranus is 1,439,000,000,000 m or 1.439 x 10'2m. The
+distance between Sun and Earth is 149, 600,000,000 m or 1.496 x 10!!m.
+
+Can you tell which of the three distances is smallest?
+
+EXAMPLE 13 xpress the following numbers in the standard form:
+
+|
+
+ll
+
+ANA
+
+i
+
+D
+i
+
+|
+(i) 5985.3 Gi) 65,950 Si
+(i) 3,430,000 (tv) 70,040,000,000 \"
+SOLUTION
+
+(i) 5985.3 = 5.9853 x 1000 = 5.9853 x 10% ,
+(ii) 65,950 = 6.595 x 10,000 = 6.595 x 10*
+
+(ii) 3,430,000 = 3.43 x 1,000,000 = 3.43 x 10 
+(iv) 70,040,000,000 = 7.004 x 10,000,000,000 = 7.004 x 10! 
+
+2024-25
+
+EE i emarics
+
+A point to remember is that one less than the digit count (number of digits) to the left
+of the decimal point in a given number is the exponent of 10 in the standard form. Thus, in
+70,040,000,000 there is no decimal point shown; we assume it to be at the (right) end.
+From there, the count of the places (digits) to the left is 11. The exponent of 10 in the
+standard form is 11 1 = 10. In 5985.3 there are 4 digits to the left of the decimal point
+and hence the exponent of 10 in the standard form is 4 1 =3.
+
+EXERCISE 11.3
+
+1. Write the following numbers in the expanded forms:
+
+279404, 3006194, 2806196, 120719, 20068
+
+2. Find the number from each of the following expanded forms:
+(a) 8 x10*+ 6 x10 + 0x10? + 4x10! + 5x10 
+(b) 4 x10 + 5x10 + 3x10? + 2x10 
+(c) 3 x10*+ 7x10? + 5x10 
+(d) 9 x10 + 2x10? + 3x10!
+3. Express the following numbers in standard form:
+(i) 5,00,00,000 (ii) 70,00,000 (iii) 3,18,65,00,000
+(iv) 3,90,878 (v) 39087.8 (vi) 3908.78
+4. Express the number appearing in the following statements in standard form.
+(a) The distance between Earth and Moon is 384,000,000 m.
+(b) Speed of light in vacuum is 300,000,000 m/s.
+(c) Diameter of the Earth is 1,27,56,000 m.
+(d) Diameter of the Sun is 1,400,000,000 m.
+(e) Ina galaxy there are on an average 100,000,000,000 stars.
+(f) The universe is estimated to be about 12,000,000,000 years old.
+
+(g) The distance of the Sun from the centre of the Milky Way Galaxy is estimated to
+be 300,000,000,000,000,000,000 m.
+
+(h) 60,230,000,000,000,000,000,000 molecules are contained in a drop of water
+weighing 1.8 gm.
+
+(i) The earth has 1,353,000,000 cubic km of sea water.
+(j) The population of India was about 1,027,000,000 in March, 2001.
+
+2024-25
+
+EXPONENTS AND POWERS (iii oo
+
+WHAT HAVE WE DISCUSSED?
+
+1. Very large numbers are difficult to read, understand, compare and operate upon. To
+make all these easier, we use exponents, converting many of the large numbers in a
+shorter form.
+
+2. The following are exponential forms of some numbers?
+10,000 = 10? (read as 10 raised to 4)
+243 = 3 , 128 = 27.
+
+Here, 10, 3 and 2 are the bases, whereas 4, 5 and 7 are their respective exponents.
+
+We also say, 10,000 is the 4" power of 10, 243 is the 5 power of 3, etc.
+3. Numbers in exponential form obey certain laws, which are:
+
+For any non-zero integers a and b and whole numbers mand n,
+
+(a) a xa"=a *"
+
+(b) a"+a"=a""", m>n
+
+(c) (a"y"=a" 
+
+(d) a" x b" = (ab)"
+
+(e) a"=b"= (<)
+() a=
+(g) (-l)" number 1
+
+( 1) *4 number __ 1
+
+2024-25

@@ -1,0 +1,857 @@
+12
+1 0|
+
+[=]
+
+0962CHO2
+
+CHAPTER 2
+
+POLYNOMIALS
+ee
+
+2.1 Introduction
+
+You have studied algebraic expressions, their addition, subtraction, multiplication and
+division in earlier classes. You also have studied how to factorise some algebraic
+expressions. You may recall the algebraic identities :
+
+(x + yP =x + Ixy + y
+(x y) =x 2xy + y 
+and wr-y=(x+y)a-y)
+and their use in factorisation. In this chapter, we shall start our study with a particular
+type of algebraic expression, called polynomial, and the terminology related to it. We
+shall also study the Remainder Theorem and Factor Theorem and their use in the
+
+factorisation of polynomials. In addition to the above, we shall study some more algebraic
+identities and their use in factorisation and in evaluating some given expressions.
+2.2 Polynomials in One Variable
+
+Let us begin by recalling that a variable is denoted by a symbol that can take any real
+. : 1
+value. We use the letters x, y, z, etc. to denote variables. Notice that 2x, 3x, x, 5%
+
+are algebraic expressions. All these expressions are of the form (a constant) x x. Now
+suppose we want to write an expression which is (a constant) x (a variable) and we do
+not know what the constant is. In such cases, we write the constant as a, b, c, etc. So
+the expression will be ax, say.
+
+However, there is a difference between a letter denoting a constant and a letter
+denoting a variable. The values of the constants remain the same throughout a particular
+situation, that is, the values of the constants do not change in a given problem, but the
+value of a variable can keep changing.
+
+Reprint 2025-26
+
+26 MATHEMATICS
+
+Now, consider a square of side 3 units (see Fig. 2.1). 3
+What is its perimeter? You know that the perimeter of a square
+is the sum of the lengths of its four sides. Here, each side is
+
+3 units. So, its perimeter is 4 x 3, 1.e., 12 units. What will be the 3 3
+perimeter if each side of the square is 10 units? The perimeter
+
+is 4 x 10, i.e., 40 units. In case the length of each side is x 3
+
+units (see Fig. 2.2), the perimeter is given by 4x units. So, as Fig. 2.1
+
+the length of the side varies, the perimeter varies.
+
+Can you find the area of the square PQRS? It is
+x X x =x? square units. x* is an algebraic expression. Youare * R
+also familiar with other algebraic expressions like
+2x, x? + 2x, x3 x7 + 4x + 7. Note that, all the algebraic
+expressions we have considered so far have only whole
+numbers as the exponents of the variable. Expressions of this
+form are called polynomials in one variable. Inthe examples P Y Q
+above, the variable is x. For instance, x7> x? + 4x +7 isa
+polynomial in x. Similarly, 3y? + 5y is a polynomial in the
+variable y and + 4 is a polynomial in the variable t.
+
+Fig. 2.2
+
+In the polynomial x* + 2x, the expressions x? and 2x are called the terms of the
+polynomial. Similarly, the polynomial 3y* + 5y +7 has three terms, namely, 3), 5y and
+7. Can you write the terms of the polynomial =x? + 4x? + 7x 2 ? This polynomial has
+4 terms, namely, x , 4x , 7x and 2.
+
+Each term of a polynomial has a coefficient. So, in x? + 4x? + 7x 2, the
+coefficient of x* is 1, the coefficient of x? is 4, the coefficient of x is 7 and 2 is the
+coefficient of x (Remember, x = 1). Do you know the coefficient of x in x? x + 7?
+It is 1.
+
+2 is also a polynomial. In fact, 2,5, 7, etc. are examples of constant polynomials.
+The constant polynomial 0 is called the zero polynomial. This plays a very important
+role in the collection of all polynomials, as you will see in the higher classes.
+
+1 2
+Now, consider algebraic expressions such as x + > Vx +3and 2 y+ y. Do you
+x
+know that you can write x + =x + x!? Here, the exponent of the second term, 1.e.,
+x
+
+x 'is 1, which is not a whole number. So, this algebraic expression is not a polynomial.
+
+1 1
+Again, Jx +3 can be written as x? +3. Here the exponent of x is 5 which is
+
+not a whole number. So, is /x +3 a polynomial? No, it is not. What about
+aly + y ? It is also not a polynomial (Why?).
+
+Reprint 2025-26
+
+POLYNOMIALS 27
+
+If the variable in a polynomial is x, we may denote the polynomial by p(x), or g(x),
+or r(x), etc. So, for example, we may write :
+
+D(x) = 2x? + 5x -3
+q(x) = x8 -1
+ryyaytytl
+s(u) =2- u- w + 6u
+A polynomial can have any (finite) number of terms. For instance, x! + x!? + ...
++x?+x+ 1 isa polynomial with 151 terms.
+
+Consider the polynomials 2x, 2, 5x?, 5x , y and u*. Do you see that each of these
+polynomials has only one term? Polynomials having only one term are called monomials
+( mono means one ).
+
+Now observe each of the following polynomials:
+P@)=xt1, g@=P-x r= Hl, tuys uw
+
+How many terms are there in each of these? Each of these polynomials has only
+two terms. Polynomials having only two terms are called binomials ( b1 means two ).
+
+Similarly, polynomials having only three terms are called trinomials
+( tri means three ). Some examples of trinomials are
+
+DwX)axtxt+n, g(x) =/2 +x-x,
+
+r(u)= u+w- 2, (yy=yit+yt5.
+
+Now, look at the polynomial p(x) = 3x 4x + x + 9. What is the term with the
+highest power of x ? It is 3x . The exponent of x in this term is 7. Similarly, in the
+polynomial g(v) = 5y 4y 6, the term with the highest power of y is 5y and the
+exponent of y in this term is 6. We call the highest power of the variable in a polynomial
+as the degree of the polynomial. So, the degree of the polynomial 3x7 4x + x + 9
+
+is 7 and the degree of the polynomial 5 4y 6 is 6. The degree of a non-zero
+constant polynomial is zero.
+
+Example 1 : Find the degree of each of the polynomials given below:
+
+(i) xr x4+3 (ii) 2-y y?> + 278 (iii) 2
+Solution : (i) The highest power of the variable is 5. So, the degree of the polynomial
+is 5.
+(ii) The highest power of the variable is 8. So, the degree of the polynomial is 8.
+
+(iil) The only term here is 2 which can be written as 2x . So the exponent of x is 0.
+Therefore, the degree of the polynomial is 0.
+
+Reprint 2025-26
+
+28 MATHEMATICS
+
+Now observe the polynomials p(x) = 4x + 5, g(y) = 2y, r(t) = t + V2 and
+s(u) = 3 u. Do you see anything common among all of them? The degree of each of
+these polynomials is one. A polynomial of degree one is called a linear polynomial.
+Some more linear polynomials in one variable are 2x 1, 2 y+1,2- u.Now, try and
+find a linear polynomial in x with 3 terms? You would not be able to find it because a
+linear polynomial in x can have at most two terms. So, any linear polynomial in x will
+be of the form ax + b, where a and 6 are constants and a # 0 (why?). Similarly,
+ay + bisa linear polynomial in y.
+
+Now consider the polynomials :
+2x? +5, 5x? + 3x4+ 7, x? and x? + 5%
+
+Do you agree that they are all of degree two? A polynomial of degree two is called
+a quadratic polynomial. Some examples of a quadratic polynomial are 5 y ,
+4y + 5y and 6 y y . Can you write a quadratic polynomial in one variable with four
+different terms? You will find that a quadratic polynomial in one variable will have at
+most 3 terms. If you list a few more quadratic polynomials, you will find that any
+quadratic polynomial in x is of the form ax? + bx + c, where a # 0 and a, b, c are
+constants. Similarly, quadratic polynomial in y will be of the form ay + by + c, provided
+a #0 and a, b, c are constants.
+
+We call a polynomial of degree three a cubic polynomial. Some examples of a
+cubic polynomial in x are 4x3, 2x7 + 1, 5x3 +x, 6x3 x, 6 x3, 2x7 + 49 + 6x + 7. How
+many terms do you think a cubic polynomial in one variable can have? It can have at
+most 4 terms. These may be written in the form ax? + bx? + cx + d, where a # 0 and
+a, b, c and d are constants.
+
+Now, that you have seen what a polynomial of degree 1, degree 2, or degree 3
+looks like, can you write down a polynomial in one variable of degree n for any natural
+number 7? A polynomial in one variable x of degree n is an expression of the form
+
+ax'+taoxel+...+axta
+n n-1 1 0
+where d,, d,, a,,..., @, are constants and a, # 0.
+In particular, ifa, = a,=a,=a,=...=a,=0 (all the constants are zero), we get
+
+the zero polynomial, which is denoted by 0. What is the degree of the zero polynomial?
+The degree of the zero polynomial is not defined.
+
+So far we have dealt with polynomials in one variable only. We can also have
+polynomials in more than one variable. For example, x + y? + xyz (where variables
+are x, y and z) is a polynomial in three variables. Similarly p* + qg' + r (where the
+variables are p, q andr), u? + v (where the variables are u and v) are polynomials in
+three and two variables, respectively. You will be studying such polynomials in detail
+later.
+
+Reprint 2025-26
+
+POLYNOMIALS 29
+
+EXERCISE 2.1
+
+1. Which of the following expressions are polynomials in one variable and which are
+not? State reasons for your answer.
+
+(i) 4x?-3x+7 (ii) y+ 2 (ii) 3Vt + 4/2 (iv) y+ (v) x+y +e
+2. Write the coefficients of x in each of the following:
+() 2+x2+x (i) 2-2 +8 (ii a +x (iv) J2x=1
+Give one example each of a binomial of degree 35, and of a monomial of degree 100.
+
+Write the degree of each of the following polynomials:
+
+(i) 5x9 +49? + 7x (ii) 4-y 
+(iti) 5t J7 (iv) 3
+5. Classify the following as linear, quadratic and cubic polynomials:
+(i) x+x (ii) x -x7 (ii) y+? +4 (iv) 1+x
+(v) 3 (vi) 7 (vii) 7x 
+
+2.3 Zeroes of a Polynomial
+Consider the polynomial p(x) = 5x? 2x? + 3x 2.
+If we replace x by | everywhere in p(x), we get
+pl)=5%* Up-2x (+3 * U)-2
+
+=5-2+3-2
+=4
+So, we say that the value of p(x) at x = | is 4.
+Similarly, p(O) = 5(0)? 2(0)? + 3(0) 2
+
+=-2
+Can you find p(-1)?
+Example 2 : Find the value of each of the following polynomials at the indicated value
+of variables:
+(i) p(x) =5x*-3x+7atx=1.
+(i) gy) = 3y 4y + VET at y=2.
+(ii) pt) =404+ 58 -f + 6att=a.
+
+Reprint 2025-26
+
+30 MATHEMATICS
+
+Solution : (i) p(x) = 5x?- 3x +7
+The value of the polynomial p(x) at x = | is given by
+pl) = 51-30) +7
+=5-3+7=9
+(ii) gQ) = 3 -4y + V1
+The value of the polynomial g(y) at y = 2 is given by
+
+q(2) = 3(2)3 4(2) + VIl = 24-84 Vil =16+ Vil
+(iii) p(t) =4 + 5P-P +6
+The value of the polynomial p(A) at t= a is given by
+
+P(a) = 4a4* + 5a - a? +6
+
+Now, consider the polynomial p(x) = x- 1.
+What is p(1)? Note that: p11) =1-1=0.
+As p(1) = 0, we say that | is a zero of the polynomial p(x).
+Similarly, you can check that 2 is a zero of g(x), where q(x) = x 2.
+In general, we say that a zero of a polynomial p(x) is a number c such that p(c) = 0.
+
+You must have observed that the zero of the polynomial x 1 is obtained by
+equating it to 0, i.e., x 1 = 0, which gives x = 1. We say p(x) = 0 is a polynomial
+equation and | is the root of the polynomial equation p(x) = 0. So we say | is the zero
+of the polynomial x 1, or a root of the polynomial equation x 1 = 0.
+
+Now, consider the constant polynomial 5. Can you tell what its zero is? It has no
+zero because replacing x by any number in 5x still gives us 5. In fact, a non-zero
+constant polynomial has no zero. What about the zeroes of the zero polynomial? By
+convention, every real number is a zero of the zero polynomial.
+
+Example 3 : Check whether 2 and 2 are zeroes of the polynomial x + 2.
+Solution : Let p(x) =x + 2.
+Then p(2) =2+2=4, p(-2) = 2+2=0
+
+Therefore, 2 is a zero of the polynomial x + 2, but 2 is not.
+
+Example 4: Find a zero of the polynomial p(x) = 2x + 1.
+
+Solution : Finding a zero of p(x), is the same as solving the equation
+P(x) = 0
+
+Reprint 2025-26
+
+POLYNOMIALS 31
+Now, 2x + 1= 0 gives us x= ~ >
+So, 5 is a zero of the polynomial 2x + 1.
+
+Now, if p(x) = ax + b, a # 0, 1s a linear polynomial, how can we find a zero of
+p(x)? Example 4 may have given you some idea. Finding a zero of the polynomial p(x),
+amounts to solving the polynomial equation p(x) = 0.
+
+Now, p(x) = 0 means ax+b=0,a#0
+So, ax = b
+. b
+i.e., x=-7:
+a
+b ;
+So, x= 738 the only zero of p(x), i.e., a inear polynomial has one and only one zero.
+
+Now we can say that | is the zero of x 1, and 2 is the zero of x + 2.
+
+Example 5: Verify whether 2 and 0 are zeroes of the polynomial x? 2x.
+
+Solution : Let P(x) =x? 2x
+Then p(2)=22-4=4-4=0
+and p(0) =0-0=0
+
+Hence, 2 and 0 are both zeroes of the polynomial x? 2x.
+Let us now list our observations:
+(i) A zero of a polynomial need not be 0.
+(ii) 0 may be a zero of a polynomial.
+(iti) Every linear polynomial has one and only one zero.
+
+(iv) A polynomial can have more than one zero.
+
+EXERCISE 2.2
+1. Find the value of the polynomial 5x 4x? + 3 at
+(i) x=0 (ii) x =-1 (il) x =2
+2. Find p(0), p(1) and p(2) for each of the following polynomials:
+(i) piy=-yt1 (ii) p()=2+t+2P-6
+(iil) p(x) =x (iv) pO) =(x- I) + 1)
+
+Reprint 2025-26
+
+32 MATHEMATICS
+
+3. Verify whether the following are zeroes of the polynomial, indicated against them.
+
+1 4
+@ p(x)=3x+1, x= 3 (ii) p(x) =Sx Z, x= 5
+(ii) p(x)= -1, x= 1,1 (iv) plx)= (+1) @-2), x=-1,2
+(v) p(x)=, x=0 (vi) p(x) =be+m, x= a
+(vii) p(x) = 3x -1, x BB (viii) p(x) =2x+1, x= 5
+4. Find the zero of the polynomial in each of the following cases:
+(i) p@)y=xt5 (ii) px) =x -5 (iii) p(x) =2x+5
+(iv) p(x) =3x-2 (v) p(x) =3x (vi) p(&) =ax,a#0
+
+(vii) p(x) = cx +d, c #0, c, dare real numbers.
+
+2.4 Factorisation of Polynomials
+
+Let us now look at the situation of Example 10 above more closely. It tells us that since
+the remainder, o(-3) = 0, (2t+ 1) is a factor of g(d, 1. ., g() = (2t + 1) g(A)
+
+for some polynomial g(t). This is a particular case of the following theorem.
+Factor Theorem : If p(x) is a polynomial of degree n > 1 and a is any real number,
+then (i) x a isa factor of p(x), if p(a) = 0, and (ii) p(a) = 0, if x a is a factor of p(x).
+Proof: By the Remainder Theorem, p(x)=(x a) g(x) + p(a).
+(i) Ifp(a)=0, then p(x) = (x a) g(x), which shows that x a is a factor of p(x).
+(ii) Since x a is a factor of p(x), p(x) = ( a) g(x) for same polynomial g(x).
+
+In this case, p(a) = (a a) g(a) = 0.
+
+Example 6 : Examine whether x + 2 is a factor of x3 + 3x? + 5x + 6 and of 2x + 4.
+
+Solution ; The zero of x + 2 is 2. Let p(x) =x? + 3x? + 5x + 6 and s(x) = 2x+ 4
+Then, p(-2) = (2) + 3(-2) + 5(-2) + 6
+
+=-8+12-10+6
+
+=0
+
+Reprint 2025-26
+
+POLYNOMIALS 33
+
+So, by the Factor Theorem, x + 2 is a factor of x* + 3x + 5x + 6.
+Again, s(-2) = 2(-2) +4=0
+
+So, x + 2 is a factor of 2x + 4. In fact, you can check this without applying the Factor
+Theorem, since 2x + 4 = 2(x + 2).
+
+Example 7 : Find the value of k, if x 1 is a factor of 4x + 3x 4x + k.
+
+Solution : As x 1 is a factor of p(x) = 4x + 3x 4x + k, p(1) = 0
+
+Now, pC) = 4(1) + 301)? 41) + &
+So, 4+3-4+k=0
+Le., k=-3
+
+We will now use the Factor Theorem to factorise some polynomials of degree 2 and 3.
+You are already familiar with the factorisation of a quadratic polynomial like
+x? + lx +m. You had factorised it by splitting the middle term /x as ax + bx so that
+ab =m. Then x + lx + m= (x + a) (x + b). We shall now try to factorise quadratic
+polynomials of the type ax? + bx + c, where a # 0 and a, b, c are constants.
+
+Factorisation of the polynomial ax? + bx + c by splitting the middle term is as
+follows: 3x7
+
+Let its factors be (px + g) and (7x +).Then x.
+t qr) x + qs
+
+= 3x = first term of quotient
+
+ax? + bx +c = (px + q) (rx +s) = pr x? + (ps
+Comparing the coefficients of x , we get a = pr.
+Similarly, comparing the coefficients of x, we get b = ps + qr.
+And, on comparing the constant terms, we get c = qs.
+
+This shows us that b is the sum of two numbers ps and qr, whose product is
+(ps\(qr) = (pr)(qs) = ac.
+
+Therefore, to factorise ax? + bx + c, we have to write b as the sum of two
+numbers whose product is ac. This will be clear from Example 13.
+
+Example 8 : Factorise 6x? + 17x + 5 by splitting the middle term, and by using the
+Factor Theorem.
+
+Solution 1 : (By splitting method) : If we can find two numbers p and q such that
+pt+q=17 and pq=6 x 5 = 30, then we can get the factors.
+
+So, let us look for the pairs of factors of 30. Some are 1 and 30, 2 and 15, 3 and 10, 5
+and 6. Of these pairs, 2 and 15 will give us p+ g =17.
+
+Reprint 2025-26
+
+34 MATHEMATICS
+
+So, 6x + 17x +5 = 6x +(2+ 15)x+5
+= 6x + 2x + 15x +5
+= 2x(3x + 1) + 5(3x + 1)
+= (3x+ 1) (2x +5)
+Solution 2 : (Using the Factor Theorem)
+
+17 5
+6x7 + 17x+5= 6 + 67 + *) = 6 p(x), say. If a and b are the zeroes of p(x), then
+6x? + 17x +5 = 6(x a) (x b). So, ab= 6 Let us look at some possibilities for a and
+
+b. They could be pt 42 41. Now, Pp ! 1, d A # 0. But
+2 3 3 2 2) 4 6\2) 6
+
+ | 1
+(=) = 0. So, [ + :) is a factor of p(x). Similarly, by trial, you can find that
+[ + 5) is a factor of p(x).
+? (2 + [2 + *)
+3 2
+= (3x+ 1) (2x+5)
+
+For the example above, the use of the splitting method appears more efficient. However,
+let us consider another example.
+Therefore, 6x7 + 17x +5= (1 + 4 Es + 5)
+
+Example 9 : Factorise y* 5y + 6 by using the Factor Theorem.
+
+Solution : Let p(y) = 5y + 6. Now, if p(v) = (v a) (v 5), you know that the
+constant term will be ab. So, ab = 6. So, to look for the factors of p(y), we look at the
+factors of 6.
+
+The factors of 6 are 1, 2 and 3.
+Now, p(2)=2?-(5 x 2)+6=0
+So, y- 2 isa factor of p(y).
+
+Reprint 2025-26
+
+POLYNOMIALS 35
+
+Also, p(3)=3?-(5 x 3)+6=0
+
+So, y 3 is also a factor of y 5y + 6.
+
+Therefore, y? 5y+6=(y 2)(y -3)
+
+Note that y? 5y + 6 can also be factorised by splitting the middle term 5y.
+
+Now, let us consider factorising cubic polynomials. Here, the splitting method will not
+be appropriate to start with. We need to find at least one factor first, as you will see in
+the following example.
+Example 10 : Factorise x? 23x? + 142x 120.
+Solution : Let p(x) = x7 23x? + 142x 120
+We shall now look for all the factors of -120. Some of these are
+4, +5, +6, +8, +10, +12, +15, +20, +24, +30, +60.
+By trial, we find that p(1) = 0. So x 1 is a factor of p(x).
+Now we see that x? 23x? + 142x 120 = x3 x* 22x + 22x + 120x 120
+
+= x7(x -1) 22x(x 1) + 120(x- 1) (Why?)
+
+= (x 1) (x? 22x +120) [Taking (x 1) common]
+We could have also got this by dividing p(x) by x 1.
+
+ 
+N
+[oS)
+
+Now x? 22x + 120 can be factorised either by splitting the middle term or by using
+the Factor theorem. By splitting the middle term, we have:
+
+x? 22x + 120 = x? 12x 10x + 120
+= x(x 12) 10(x - 12)
+= (x 12) (x- 10)
+So, x3 23x? 142x 120 = (x 1)(x 10)(x 12)
+
+EXERCISE 2.3
+1. Determine which of the following polynomials has (x + 1) a factor :
+@) x txtxt (ii) +8 +x2+x41
+(ii) x*+3x +3x?+x+1 (iv) 8-2 (2 + V2)x + 2
+
+2. Use the Factor Theorem to determine whether g(x) is a factor of p(x) in each of the
+following cases:
+
+(i) p(x) =2x3+x?-2x-1, g(x)=x4+1
+
+Reprint 2025-26
+MATHEMATICS
+
+(ii) p(x) =29 +3x + 3x41, g(x) =x+2
+(iti) p(x) =x - 4x? +x+ 6, o(x) =x-3
+
+3. Find the value of &, if x 1 is a factor of p(x) in each of the following cases:
+
+@) pQ)axetxtk (ii) p(x) =2x? +k + 2
+
+(ii) px) =k? 2x41 (iv) p(x) = kx? -3x +k
+4. Factorise :
+
+(i) = 12x?-7x+1 (it) 2x?+7x+3
+
+(iti) 6x? + 5x-6 (iv) 3x -x-4
+5. Factorise :
+
+(i) x3-2x -x+2 (ii) x7 3x?-9x- 5
+
+(ii) x3 + 13x?+32x+20 (iv) 2y3+y?-2y-1
+
+2.5 Algebraic Identities
+
+From your earlier classes, you may recall that an algebraic identity is an algebraic
+equation that is true for all values of the variables occurring in it. You have studied the
+following algebraic identities in earlier classes:
+
+Identity] :(wt+yp~paert2yt+y
+Identity Il :@-yP=x-2xyt+y
+Identity III :x -y=(x + y) -y)
+Identity lV :(x+a)(x+b)=x + (a+ b)x + ab
+
+You must have also used some of these algebraic identities to factorise the algebraic
+
+expressions. You can also see their utility in computations.
+
+Example 11 : Find the following products using appropriate identities:
+
+(i) @@ + 3)@ + 3) (ii) ( 3) @& +5)
+
+Solution : (1) Here we can use Identity I : (x + y)? =x? + 2xy + y*. Putting y = 3 in it,
+we get
+
+(ii) Using Identity IV above, i.e., (x + a) (x
+
+(x + 3) x +3) = (& + 3P =x? + 2(@)(3) + BY
+
+=x + 6x+9
+b) =x? + (a+ b)x + ab, we have
+(x 3) @ + 5) = x + (-3 + 5)x + (-3)5)
+
+= x7+2x -15
+
+Reprint 2025-26
+
+POLYNOMIALS 37
+
+Example 12 : Evaluate 105 x 106 without multiplying directly.
+
+Solution : 105 x 106 = (100 + 5) x (100 + 6)
+
+(100)? + (5 + 6) (100) + (5 x 6), using Identity IV
+10000 + 1100+ 30
+You have seen some uses of the identities listed above in finding the product of some
+given expressions. These identities are useful in factorisation of algebraic expressions
+also, as you can see in the following examples.
+
+Example 13 : Factorise:
+(i) 49a? + 70ab + 250 (ii) 2x -=
+
+Solution : (i) Here you can see that
+49a? = (Ja), 25b? = (5b) , 70ab = 2(7a) (5b)
+Comparing the given expression with x? + 2xy + y*, we observe that x = 7a and y = 5b.
+Using Identity I, we get
+49a? + 70ab + 25h? = (Ja + 5by = (7a + 5b) (7a + 5d)
+
+2 2 2
+(11) We have 25 vit. > x y
+4 9 2 3
+
+Now comparing it with Identity III, we get
+2 2 2 2
+> eit = > x y
+4 9 2 3
+=/2x4+2 > x-2
+2 3)\2 3
+
+So far, all our identities involved products of binomials. Let us now extend the Identity
+I to a trinomial x + y + z. We shall compute (x + y + z) by using Identity I.
+
+Let x + y=t. Then,
+QXtytz~a(t+zy
+=P+2iz+P (Using Identity I)
+=(xtyPt+22xty)zt+ 2 (Substituting the value of f)
+
+Reprint 2025-26
+
+38 MATHEMATICS
+=x + 2xyp + y? + 2xz+ 2yz+z (Using Identity I)
+
+Hx + y+ 2? + 2xy + 2yz + 2zx (Rearranging the terms)
+So, we get the following identity:
+Identity V:( +tyt+zPaext+y tz? + Axp + 2yz + 2zw
+Remark : We call the right hand side expression the expanded form of the left hand
+side expression. Note that the expansion of (x + y + z) consists of three square terms
+and three product terms.
+Example 14 : Write (3a + 46 + 5c) in expanded form.
+Solution : Comparing the given expression with (x + y + z) , we find that
+x = 3a, y= 4b and z= Se.
+Therefore, using Identity V, we have
+(a+ 4b + S5cy = Bay + (4bY + (5c) + 2(3a)(4b) + 2(4b)(Sc) + 2(5c)(3a)
+= 9a + 16b? + 25c? + 24ab + 40bc + 30ac
+Example 15 : Expand (4a 2b 3c).
+Solution : Using Identity V, we have
+(4a 2b 3c) = [4a + (-2b) + (-3c)]?
+= (4ay + (-2by + (3c) + 2(4a)( 2b) + 2(-2b)( 3c) + 2(-3c)(4a)
+= l6a* + 4b* + 9c? 16ab + 12be 24ac
+
+Example 16 : Factorise 4x? + y? + 2? 4xy 2yz + 4xz.
+Solution : We have 4x + y? + 2? 4xy 2yz + 4xz = (2x)? + ( yy + (z? + 2(2x)(-y)
++ yz) + 22x\(2)
+= [2x + (-y) + zp (Using Identity V)
+= (Qx y +2 =(Qx-y+2Qx-yt2)
+
+So far, we have dealt with identities involving second degree terms. Now let us
+extend Identity I to compute (x + y)*. We have:
+
+(x+yP = (x ty) (+P
+= (x + yx? + 2xy + y )
+
+= x(x? + 2xy + ) + yr? + 2xy +)
+_ x 2x y xy ry } 2xy? } y
+_ x 3x y 3xy } y
+
+= x+y + 3xy(x + y)
+
+Reprint 2025-26
+
+POLYNOMIALS 39
+
+So, we get the following identity:
+Identity Vi: @tyP=XV4+ yp + 3xy (K+ y)
+Also, by replacing y by y in the Identity VI, we get
+Identity VII: @-y~=x- yp - 3xy(x - y)
+
+= xX3 3x *y + 3xy - yp?
+Example 17 : Write the following cubes in the expanded form:
+
+(i) Ba + 4b) (ii) (Sp 3q) 
+Solution : (i) Comparing the given expression with (x + y)*, we find that
+x = 3a and y = 4b.
+So, using Identity VI, we have:
+(3a + 4b) = (3a) + (4b)3 + 3(3a)(4b)(3a + 4b)
+= 27a> + 64b* + 108a *b + 144ab*
+
+(ii) Comparing the given expression with (x y) , we find that
+
+x= Sp, y= 3q.
+
+So, using Identity VII, we have:
+(Sp 3qy = (Spy Bq) 3(5p)(3q)(Sp 39)
+= 125p? 27q 225p q + 135pq?
+Example 18 : Evaluate each of the following using suitable identities:
+(1) (104)? (ii) (999)?
+Solution : (i) We have
+
+(104)? = (100 + 4)?
+= (100)? + (4)? + 3(100)(4)(100 + 4)
+
+(Using Identity VI)
+= 1000000 + 64 + 124800
+= 1124864
+(11) We have
+(999)? = (1000 1) 
+= (1000)' (1) 3(1000)(1)(1000 1)
+(Using Identity VJ)
+= 1000000000 1 2997000
+= 997002999
+
+Reprint 2025-26
+
+40 MATHEMATICS
+
+Example 19 : Factorise 8x + 27) + 36x y + 54xy*
+
+Solution : The given expression can be written as
+
+(2x) + (By) + 3(4x*)(3y) + 3(2x)(9y )
+= (2x) + By) + 3(2x)By) + 32x) By
+= (2x + 3yyp (Using Identity VI)
+= (2x + 3y)(2x + 3y)(2x + 3y)
+
+2+ y+ 2 xy yz 2x)
+
+On expanding, we get the product as
+
+Now consider (x + y + z)(x
+
+XQ? + + 2? = xy yz 2x) + V(X? + 3? + 2 xy yz zx)
+
++ 20x? + y? + 2 xy yz 2x) = x + xy? + x2? xy xyz ax? + xy
+
++ yy + yr xy yz xyz +972 + yz + 23 xyz yz? xz?
+Hx+ y+ 2 3xyz (On simplification)
+So, we obtain the following identity:
+Identity VIL: e+ y+ 3-3xyz=(et yt ze t+y? + 2- xy - yz - 2)
+Example 20 : Factorise : 8x3 + y + 2723 18xyz
+Solution : Here, we have
+8x3 + ys + 2723 18xyz
+= (2x) + y + 3z) 32x)\(y)3z)
+= (2x + y + 3z)[(2xy + y + (32) (2x)(y) (v)(3z) (2x)(3z)]
+= (2x + y + 3z) (4x? + y? + 92? 2xy 3yz 6xz)
+
+EXERCISE 2.4
+
+1. Use suitable identities to find the following products:
+
+(i) (x+4)(x+10) (ii) (x +8) (x 10) (iti) (3x + 4) (x 5)
+
+3 3
+
+(iv) OF 5)0* 5) (v) (32x) (3 + 2x)
+2. Evaluate the following products without multiplying directly:
+
+(i) 103 x 107 (ii) 95 x 96 (il) 104 x 96
+3. Factorise the following using appropriate identities:
+(i) 9x +6xy +" (ii) 4y 4y+1 (ii) 
+Reprint 2025-26
+
+POLYNOMIALS 41
+
+4.
+
+10.
+
+11.
+
+12.
+
+13.
+14.
+
+15.
+
+Expand each of the following, using suitable identities:
+
+(i) (~+2y+4zy (ii) (Qx- yt+z) (iti) (-2x + 3y + 2z)
+(iv) (3a 7b c) (v) (2x + 5y 3zy (vi) [ie - > + 1
+Factorise:
+
+(i) 4x +9y?+ 1622+ 12xy 24yz 16xz
+
+(ii) 2x?+y? + 822 202 xy t 4/2 yz 8xz
+
+Write the following cubes in expanded form:
+
+3 3
+(i) (Qx+1) (ii) (2a 3bP (iii) [Ss + 1 (iv) E - 2,
+Evaluate the following using suitable identities:
+(i) (99) (ii) (102) (iit) (998)
+Factorise each of the following:
+(i) 8a'+b3 + 12a*b + 6ab? (ii) 8a b? 12a*b + 6ab?
+(ii) 27 - 125a* 135a+225a? (iv) 64a? 27b* 144a b + 108ab*
+1 9 ,
+27Tp? +
+W) 27 6 2? ta?
+
+Verify (e+ y=aty)OP-xyty ) (il) P-V=-y) QO? txy ty )
+Factorise each of the following:
+
+(i) 273 + 12523 (ii) 64m? 34373
+[Hint : See Question 9.]
+
+Factorise : 27x7 +3 +23 9xyz
+Verify that x +3 +23 3xyz = 3 (x+y +z) [ -yyt+(y-zy+- x) |
+Ifx+y+z=0, show that x7 +8 + 2? = 3xyz.
+Without actually calculating the cubes, find the value of each of the following:
+@ (C12) + (7 +(5) 
+(ii) (28) +(-15)8 +(-13)
+
+Give possible expressions for the length and breadth of each of the following
+rectangles, in which their areas are given:
+
+Area : 25a? 35a+ 12 Area : 35y* + 13y 12
+
+(i) (ii)
+
+Reprint 2025-26
+MATHEMATICS
+
+16. What are the possible expressions for the dimensions of the cuboids whose volumes
+are given below?
+
+Volume : 3x? 12x Volume : 12ky? + 8ky 20k
+
+(i) (ii)
+
+2.6 Summary
+
+In this chapter, you have studied the following points:
+
+1.
+
+Sera w FY N
+
+10.
+
+11.
+12.
+13.
+14.
+
+A polynomial p(x) in one variable x is an algebraic expression in x of the form
+
+P(Xx)=ax"ta x"! +... aet+axta,
+
+where a,, @,,4,,...,@, are constants and a, #0.
+
+Ay, 4), ,,..., 4, are respectively the coefficients of x , x, x , ...,x , and is called the degree
+of the polynomial. Each ofa x", a, ,x""', ...,@,, with a, #0, is called a term of the polynomial
+P(x).
+
+A polynomial of one term is called a monomial.
+
+A polynomial of two terms is called a binomial.
+
+A polynomial of three terms is called a trinomial.
+
+A polynomial of degree one is called a linear polynomial.
+
+A polynomial of degree two is called a quadratic polynomial.
+A polynomial of degree three is called a cubic polynomial.
+
+A real number a is a zero of a polynomial p(x) if p(a) = 0. In this case, a is also called a
+root of the equation p(x) = 0.
+
+Every linear polynomial in one variable has a unique zero, a non-zero constant polynomial
+has no zero, and every real number is a zero of the zero polynomial.
+
+Factor Theorem : x a is a factor of the polynomial p(x), if p(a) = 0. Also, if x a is a factor
+of p(x), then p(a) = 0.
+
+(xt ytzpaxr ty? +274 2xy + 2yz + 22x
+
+(xt+yP=xt yt 3xyx+y)
+
+(x yy =x y* 3xy(x-y)
+
++423 -3xyz=(xt+ytz)(C+y+2 xy -yz -zx)
+
+Reprint 2025-26

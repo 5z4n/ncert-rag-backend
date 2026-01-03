@@ -1,0 +1,47 @@
+25th Dec, 2025 
+2:20 AM
+
+11, 12 classes were canceled due to complexity, might add later
+
+6th-10th classes data acquired
+
+directory system organized
+
+
+
+26th Dec, 2025
+4:10 PM
+
+ocr extracted text
+
+installed new libraries
+
+turned pdfs into txt's
+
+but failed 3 pdfs 
+iess403.pdf
+iess404.pdf
+iess405.pdf
+
+
+27th, Dec 2025
+5:30 PM
+
+index.faiss
+metadata.json
+✅ Chunking
+✅ Embeddings
+✅ Indexing
+✅ Retrieval
+🟡 Answer generation (LLM downloading)
+
+api key: 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
+
+31st Dec, 2025
+stuck in debug hell at 1:54am
+
+11:10 AM
+“Built an offline NCERT RAG system with FAISS + MiniLM + Phi-3 via Ollama, optimized for low-VRAM GPUs"
+
+1 Jan, 2026
+8:14 PM

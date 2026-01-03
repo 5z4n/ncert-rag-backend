@@ -1,0 +1,547 @@
+0962CHOR
+
+Cuarpter 8
+
+QUADRILATERALS
+ee
+
+8.1 Properties of a Parallelogram
+
+You have already studied quadrilaterals and their types in Class VII. A quadrilateral
+has four sides, four angles and four vertices. A parallelogram is a quadrilateral in
+
+which both pairs of opposite sides are parallel.
+
+_ D C
+Let us perform an activity.
+
+Cut out a parallelogram from a sheet of paper
+and cut it along a diagonal (see Fig. 8.1). You obtain
+two triangles. What can you say about these
+triangles?
+Place one triangle over the other. Turn one around,
+if necessary. What do you observe? A B
+
+Observe that the two triangles are congruent to Fig. 8.1
+each other.
+Repeat this activity with some more parallelograms. Each time you will observe
+that each diagonal divides the parallelogram into two congruent triangles.
+Let us now prove this result.
+Theorem 8.1 : A diagonal of a parallelogram divides it into two congruent
+triangles.
+
+Proof : Let ABCD be a parallelogram and AC be a diagonal (see Fig. 8.2). Observe
+that the diagonal AC divides parallelogram ABCD into two triangles, namely, A ABC
+and A CDA. We need to prove that these triangles are congruent.
+
+Reprint 2025-26
+
+QUADRILATERALS 105
+
+In A ABC and A CDA, note that BC || AD and AC is a transversal.
+
+So, Z BCA= Z DAC (Pair of alternate angles) D c
+Also, AB || DC and AC is a transversal.
+
+So, Z BAC=Z DCA (Pair of alternate angles)
+
+and AC=CA (Common) B
+
+So, A ABC = ACDA (ASA rule) Fig. 8.2
+
+or, diagonal AC divides parallelogram ABCD into two congruent
+triangles ABC and CDA.
+Now, measure the opposite sides of parallelogram ABCD. What do you observe?
+
+You will find that AB = DC and AD = BC.
+
+This is another property of a parallelogram stated below:
+
+Theorem 8.2 : In a parallelogram, opposite sides are equal.
+
+You have already proved that a diagonal divides the parallelogram into two congruent
+triangles; so what can you say about the corresponding parts say, the corresponding
+sides? They are equal.
+
+So, AB=DC and AD=BC
+Now what is the converse of this result? You already know that whatever is given
+
+in a theorem, the same is to be proved in the converse and whatever is proved in the
+theorem it is given in the converse. Thus, Theorem 8.2 can be stated as given below :
+
+Ifa quadrilateral is a parallelogram, then each pair of its opposite sides is equal. So
+its converse is :
+Theorem 8.3 : If each pair of opposite sides of a quadrilateral is equal, then it
+is a parallelogram.
+
+Can you reason out why? D C
+
+Let sides AB and CD of the quadrilateral ABCD
+be equal and also AD = BC (see Fig. 8.3). Draw
+
+diagonal AC.
+Clearly, A ABC = A CDA (Why?)
+So, ZBAC= Z DCA A B
+and ZBCA= Z DAC (Why?) Fig. 8.3
+
+Can you now say that ABCD is a parallelogram? Why?
+
+Reprint 2025-26
+
+106 MATHEMATICS
+
+You have just seen that in a parallelogram each pair of opposite sides is equal and
+conversely if each pair of opposite sides of a quadrilateral is equal, then it is a
+parallelogram. Can we conclude the same result for the pairs of opposite angles?
+
+Draw a parallelogram and measure its angles. What do you observe?
+Each pair of opposite angles is equal.
+
+Repeat this with some more parallelograms. We arrive at yet another result as
+given below.
+
+Theorem 8.4 : In a parallelogram, opposite angles are equal.
+
+Now, is the converse of this result also true? Yes. Using the angle sum property of
+a quadrilateral and the results of parallel lines intersected by a transversal, we can see
+that the converse is also true. So, we have the following theorem :
+
+Theorem 8.5 : [fin a quadrilateral, each pair of opposite angles is equal, then
+it is a parallelogram.
+
+There is yet another property of a parallelogram. Let us study the same. Draw a
+parallelogram ABCD and draw both its diagonals intersecting at the point O
+(see Fig. 8.4).
+
+Measure the lengths of OA, OB, OC and OD.
+
+What do you observe? You will observe that
+OA=OC and OB=OD.
+
+or, Odis the mid-point of both the diagonals.
+
+Repeat this activity with some more parallelograms. A B
+
+Each time you will find that O is the mid-point of Fig. 8.4
+both the diagonals.
+
+So, we have the following theorem :
+Theorem 8.6 : The diagonals of a parallelogram bisect each other.
+
+Now, what would happen, if in a quadrilateral the diagonals bisect each other?
+Will it be aparallelogram? Indeed this is true.
+
+This result is the converse of the result of Theorem 8.6. It is given below:
+
+Theorem 8.7 : Jf the diagonals of a quadrilateral bisect each other, then it is a
+parallelogram.
+
+You can reason out this result as follows:
+
+Reprint 2025-26
+
+QUADRILATERALS 107
+
+Note that in Fig. 8.5, it is given that OA = OC D C
+
+and OB = OD.
+
+So, A AOB2=ACOD_ (Why?) o
+Therefore, Z ABO = ZCDO_ (Why?)
+
+From this, we get AB || CD Lo
+
+Similarly, BC || AD A B
+Therefore ABCD is a parallelogram. Fig. 8.5
+
+Let us now take some examples.
+
+Example 1 : Show that each angle of a rectangle is a right angle.
+
+Solution : Let us recall what a rectangle is.
+
+A rectangle is a parallelogram in which one angle is a right angle.
+
+Let ABCD be a rectangle in which 7 A = 90 . D C
+We have to show that Z B= 7 C= Z D=90 
+
+We have, AD || BC and AB is a transversal
+(see Fig. 8.6).
+
+So, 2ZA+ZB= 180 (interior angles on the same
+
+side of the transversal) Fig. 8.6
+But, Z A= 90 
+So, Z B= 180 Z A= 180 90 = 90 
+Now, ZC=ZAandZD=2B
+(Opposite angles of the parallellogram)
+So, ZC=90 and Z D=90 .
+
+Therefore, each of the angles of a rectangle is a right angle.
+
+Example 2 : Show that the diagonals of a rhombus are perpendicular to each other.
+Solution : Consider the rhombus ABCD (see Fig. 8.7). D C
+You know that AB = BC = CD = DA (Why?)
+Now, in A AOD and A COD,
+
+OA = OC (Diagonals of a parallelogram
+bisect each other)
+
+OD = OD (Common) A B
+AD = CD Fig. 8.7
+
+xX
+
+Reprint 2025-26
+
+108 MATHEMATICS
+
+Therefore, A AOD =~ A COD
+(SSS congruence rule)
+
+This gives, Z AOD = Z COD (CPCT)
+But, Z AOD + Z COD = 180 (Linear pair)
+So, 2Z AOD = 180 
+or, Z AOD = 90 
+So, the diagonals of a rhombus are perpendicular to each other.
+Example 3 : ABC is an isosceles triangle in which AB = AC. AD bisects exterior
+angle PAC and CD || AB (see Fig. 8.8). Show that
+(7) Z DAC = 2 BCA and_ (ii) ABCD is a parallelogram.
+Solution : (i) A ABC is isosceles in which AB = AC (Given)
+So, ZABC= Z ACB (Angles opposite to equal sides)
+
+Also, Z PAC = Z ABC+ Z ACB
+(Exterior angle of a triangle)
+
+or, Z PAC = 24 ACB (1) 
+Now, AD bisects Z PAC.
+So, Z PAC = 24 DAC (2)
+Therefore,
+2Z DAC = 22 ACB [From (1) and (2)] 5 Cc
+o, ZDAC= ZACB Fig. 8.8
+
+(11) Now, these equal angles form a pair of alternate angles when line segments BC
+and AD are intersected by a transversal AC.
+
+So, BC || AD
+
+Also, BA || CD (Given)
+
+Now, both pairs of opposite sides of quadrilateral ABCD are parallel.
+So, ABCD is a parallelogram.
+
+Example 4 : Two parallel lines / and m are intersected by a transversal p
+(see Fig. 8.9). Show that the quadrilateral formed by the bisectors of interior angles is
+a rectangle.
+
+Reprint 2025-26
+
+QUADRILATERALS 109
+
+Solution : It is given that PS || QR and transversal p intersects them at points A and
+C respectively.
+
+The bisectors of Z PAC and 7 ACQ intersect at B and bisectors of Z ACR and
+Z SAC intersect at D.
+
+We are to show that quadrilateral ABCD is a
+rectangle.
+
+Now, Z PAC = Z ACR
+
+(Alternate angles as / || m and p is a transversal)
+
+1 1
+So, 74 PAC = > Z ACR
+
+i.e., Z BAC = Z ACD
+
+These form a pair of alternate angles for lines AB
+
+and DC with AC as transversal and they are equal also. Fig. 8-9
+So, AB || DC
+Similarly, BC || AD (Considering Z ACB and Z CAD)
+Therefore, quadrilateral ABCD is a parallelogram.
+Also, Z PAC + Z CAS = 180 (Linear pair)
+So ty PACH ZCAS = ~ = 180 =90 
+ 2 2 2
+Or, Z BAC + Z CAD = 90 
+or, Z BAD = 90 
+
+So, ABCD is a parallelogram in which one angle is 90 .
+Therefore, ABCD is a rectangle.
+
+Example 5 : Show that the bisectors of angles of a meen form a rectangle.
+
+Solution : Let P, Q, R and S be the points of
+intersection of the bisectors of Z Aand ZB, ZB
+and ZC, ZC and Z D, and 7 Dand Z A respectively
+of parallelogram ABCD (see Fig. 8.10).
+
+In A ASD, what do you observe? AM
+
+Since DS bisects Z D and AS bisects Z A, therefore,
+
+Reprint 2025-26
+
+110 MATHEMATICS
+
+1 1
+ZDAS+ Z ADS= 5 ZAt 74D
+a (Z A+ ZD)
+| ae
+ 5 x 180 (ZAand Z D are interior angles
+on the same side of the transversal)
+= 90 
+Also, Z DAS + Z ADS + Z DSA= 180 (Angle sum property of a triangle)
+or, 90 + Z DSA = 180 
+Or, Z DSA = 90 
+So, Z PSR = 90 (Being vertically opposite to Z DSA)
+
+Similarly, it can be shown that Z APB = 90 or Z SPQ = 90 (as it was shown for
+Z DSA). Similarly, Z PQR = 90 and Z SRQ = 90 .
+So, PQRS is a quadrilateral in which all angles are right angles.
+
+Can we conclude that it is a rectangle? Let us examine. We have shown that
+Z PSR = Z PQR = 90 and Z SPQ = Z SRQ = 90 . So both pairs of opposite angles
+are equal.
+
+Therefore, PQRS is a parallelogram in which one angle (in fact all angles) is 90 and
+so, PQRS is a rectangle.
+
+EXERCISE 8.1
+
+1. Ifthe diagonals of a parallelogram are equal, then show that it is a rectangle.
+2. Show that the diagonals of a square are equal and bisect each other at right angles.
+
+Diagonal AC of a parallelogram ABCD bisects D C
+Z A(see Fig. 8.11). Show that
+
+(i) it bisects Z C also,
+(ii) ABCD is arhombus.
+
+4. ABCDisarectangle in which diagonal AC bisects A B
+Z Aas wellas Z C. Show that: (i) ABCD is a square Fig. 8.11
+(11) diagonal BD bisects Z Bas wellas Z D.
+
+Reprint 2025-26
+
+QUADRILATERALS 111
+
+5. In parallelogram ABCD, two points P and Q are D
+
+taken on diagonal BD such that DP = BQ NN
+
+(see Fig. 8.12). Show that:
+
+(i) AAPD=ACQB
+
+(ii) AP=CQ
+
+(iii) AAQB=ACPD 2 Lm
+
+(iv) AQ=CP
+
+(v) APCQisa parallelogram
+6. ABCD is a parallelogram and AP and CQ are D C
+
+perpendiculars from vertices A and C on diagonal
+BD (see Fig. 8.13). Show that
+
+(i) AAPB=ACQD
+(i) AP=CQ
+
+C
+Fig. 8.12
+
+7. ABCD is a trapezium in which AB || CD and
+AD = BC (see Fig. 8.14). Show that
+
+(i) ZA=ZB
+
+(i) ZC=ZD
+
+(iii) AABC =A BAD
+
+(iv) diagonal AC = diagonal BD D
+
+[Hint: Extend AB and draw a line through C Fig. 8.14
+
+parallel to DA intersecting AB produced at E.]
+
+8.2 The Mid-point Theorem
+
+You have studied many properties of a triangle as well as a quadrilateral. Now let us
+study yet another result which is related to the mid-point of sides ofa triangle. Perform
+the following activity.
+
+Draw a triangle and mark the mid-points E and F of two sides of the triangle. Join
+the points E and F (see Fig. 8.15).
+
+Measure EF and BC. Measure Z AEF and Z ABC. A
+What do you observe? You will find that :
+EF = > BC and 4 AEF = 2 ABC E F
+so, EF|| BC
+Repeat this activity with some more triangles. B C
+
+So, you arrive at the following theorem: Fig. 8.15
+
+Reprint 2025-26
+
+112 MATHEMATICS
+
+Theorem 8.8 : The line segment joining the mid-points of two sides of a triangle
+is parallel to the third side.
+
+You can prove this theorem using the following
+clue:
+
+Observe Fig 8.16 in which E and F are mid-points
+of AB and AC respectively and CD || BA.
+
+A AEF = ACDF_ (ASA Rule)
+So, EF=DF and BE=AE=DC_ (Why?)
+Therefore, BCDE is a parallelogram. (Why?)
+This gives EF || BC.
+
+1 1
+In this case, also note that EF = 5 ED= > BC.
+
+Can you state the converse of Theorem 8.8? Is the converse true?
+You will see that converse of the above theorem is also true which is stated as
+below:
+
+Theorem 8.9 : The line drawn through the mid-point of one side of a triangle,
+parallel to another side bisects the third side.
+
+In Fig 8.17, observe that E is the mid-point of
+AB, line / is passsing through E and is parallel to BC
+and CM || BA.
+
+Prove that AF = CF by using the congruence of
+A AEF and A CDF.
+
+Example 6 : In A ABC, D, E and F are respectively
+the mid-points of sides AB, BC and CA
+(see Fig. 8.18). Show that A ABC is divided into four
+congruent triangles by joining D, E and F.
+
+Solution : As D and E are mid-points of sides AB
+and BC of the triangle ABC, by Theorem 8.8, B C
+
+DE || AC
+Similarly, DF || BC and EF || AB
+
+Fig. 8.18
+
+Reprint 2025-26
+
+QUADRILATERALS 113
+
+Therefore ADEF, BDFE and DFCE are all parallelograms.
+Now DE is a diagonal of the parallelogram BDFE,
+therefore, A BDE = A FED
+
+Similarly A DAF = A FED
+
+and A EFC = A FED
+
+So, all the four triangles are congruent.
+
+Example 7: J, m and 7 are three parallel lines
+intersected by transversals p and q such that /, m
+and n cut off equal intercepts AB and BC on p
+(see Fig. 8.19). Show that /, m and n cut off equal
+intercepts DE and EF on q also.
+
+Solution : We are given that AB = BC and have
+to prove that DE = EF.
+
+Let us join A to F intersecting m at G..
+
+The trapezium ACED is divided into two triangles; Fig. 8.19
+namely A ACF and A AFD.
+
+In A ACF, it is given that B is the mid-point of AC (AB = BC)
+and BG|| CF (since m || 7).
+So, Gis the mid-point of AF (by using Theorem 8.9)
+
+Now, in A AFD, we can apply the same argument as G is the mid-point of AF,
+GE || AD and so by Theorem 8.9, E is the mid-point of DF,
+
+L.e., DE = EF.
+
+In other words, /, m and n cut off equal intercepts on g also.
+
+EXERCISE 8.2 D R
+1. ABCD isa quadrilateral in which P, Q, R and S are C
+mid-points of the sides AB, BC, CD and DA
+(see Fig 8.20). AC is a diagonal. Show that : Ss 0
+(i) SR||ACandSR= > AC IXY
+(ii) PQ=SR P
+(iii) PQRS isa parallelogram. Fig. 8.20
+
+Reprint 2025-26
+MATHEMATICS
+
+ABCD is arhombus and P, Q, R and S are the mid-points of the sides AB, BC, CD and
+DA respectively. Show that the quadrilateral PQRS is a rectangle.
+
+ABCD isa rectangle and P, Q, R and S are mid-points of the sides AB, BC, CD and DA
+respectively. Show that the quadrilateral PQRS is a rhombus.
+
+ABCD is a trapezium in which AB || DC, BD is a diagonal and E is the mid-point of AD.
+
+A line is drawn through E parallel to AB intersecting BC at F (see Fig. 8.21). Show that
+F is the mid-point of BC.
+
+Fig. 8.21
+
+In a parallelogram ABCD, E and F are the D F Cc
+mid-points of sides AB and CD respectively \ 7
+(see Fig. 8.22). Show that the line segments AF
+
+and EC trisect the diagonal BD.
+
+Fig. 8.22
+
+ABC isa triangle right angled at C. A line through the mid-point M of hypotenuse AB
+and parallel to BC intersects AC at D. Show that
+
+(i) Dis the mid-point of AC (ii) MD LAC
+(ii) CM=MA= > AB
+
+Reprint 2025-26
+
+QUADRILATERALS 115
+
+8.3 Summary
+
+In this chapter, you have studied the following points :
+
+1.
+2.
+
+AW FY
+
+A diagonal ofa parallelogram divides it into two congruent triangles.
+
+Ina parallelogram,
+
+(i) opposite sides are equal (ii) opposite angles are equal
+
+(111) diagonals bisect each other
+
+Diagonals of a rectangle bisect each other and are equal and vice-versa.
+
+Diagonals of a rhombus bisect each other at right angles and vice-versa.
+
+Diagonals of a square bisect each other at right angles and are equal, and vice-versa.
+
+The line-segment joining the mid-points of any two sides of a triangle is parallel to the
+third side and is half of it.
+
+A line through the mid-point of a side of a triangle parallel to another side bisects the third
+side.
+
+Reprint 2025-26

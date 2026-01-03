@@ -1,0 +1,1 @@
+10 = 2.39,23.9 + 100 = 0 .239, 23.9 + 1000 = 0.0239 (c) While dividing two decimal numbers, first shift the decimal point to the right by equal number of places in both, to convert the divisor to a whole number. Then divide. Thus, 2.4 +0.2 =24+2=12. 2024-25

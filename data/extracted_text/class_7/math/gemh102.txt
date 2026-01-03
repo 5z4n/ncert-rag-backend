@@ -1,0 +1,1113 @@
+Fractions and
+Decimals
+
+Chapter 2
+
+2.1 MULTIPLICATION OF FRACTIONS
+
+You know how to find the area of a rectangle. It is equal to length x breadth. If the length
+and breadth of a rectangle are 7 cm and 4 cm respectively, then what will be its area? Its
+area would be 7 x 4 = 28 cm .
+What will be the area of the rectangle if its length and breadth are 7 zm and
+
+1 . oD Lol 15 7 15
+35 cm respectively? You will say it will be 7 5 x 3 5 = XG cm . The numbers >
+and 5 are fractions. To calculate the area of the given rectangle, we need to know how to
+
+multiply fractions. We shall learn that now.
+
+2.1.1 Multiplication of a Fraction by a Whole Number
+
+~ - 1
+| ra DPD Observe the pictures at the left (Fig 2.1). Each shaded part is rm
+Vo
+\ -=j {=== ; partofacircle. How much will the two shaded parts represent together?
+\ I 7 N I 7 1 1
+
+NS .
+~ tee Qy They will represent 7 +7 = 2x .
+
+4 4 4
+Fig 2.1
+6 Combining the two shaded parts, we get Fig 2.2 . What part of a circle does the
+shaded part in Fig 2.2 represent? It represents a part of a circle.
+
+\ l
+NuE7
+
+Fig 2.2
+2024-25
+
+FRACTIONS AND DECIMALS ii RR iT
+
+The shaded portions in Fig 2.1 taken together are the same as the shaded portion in
+Fig 2.2, 1.e., we get Fig 2.3.
+
+\ | boy XY
+Nu 7 NLiLZ NoUjU7
+Fig 2.3
+1 2
+2x -=- 
+
+Can you now tell what this picture will represent? (Fig 2.4)
+
+|
+L 1 _] a L_
+
+Fig 2.4
+And this? (Fig 2.5)
+~ "7 p oto | TOT 7 ~ "7
+AH det HHO RH
+L441 _ L_l=d _] _] _I
+Fig 2.5
+Let us now find 3x5.
+1 1 1 1 =3
+We have WN 54575
+1 1 1 14141 3xl 3
+We also have an 5 = 5 ~5
+<0 jt 3d _ 3
+2 2 2
+Similarly 245 22 Ly
+3 3 :
+Can you tell 3x5 =? ax2=t
+The fractions that we considered till now, i.e., => 3 : 7 and 5 were proper fractions.
+
+EE ee i emarics
+
+For improper fractions also we have,
+
+5 2x5 10
+2x = = 
+3 3 3
+8 7
+3x =7 4x =?
+Try, 7? 5 !
+
+Thus, to multiply a whole number with a proper or an improper fraction, we
+multiply the whole number with the numerator of the fraction, keeping the
+denominator same.
+
+2 9 1 13
+1. Find: (a) 5x3 (b) 5X6 ( ) 3x5 Wd) 7 *6
+
+If the product is an improper fraction express it as a mixed fraction.
+
+f(t 274
+2. Represent pictorially: 2x 5 ~ 5
+
+To multiply a mixed fraction to a whole number, first convert the
+ae Ste mixed fraction to an improper fraction and then multiply.
+Find: (i) 5x2 3x95 = ay 9 57 _g!
+7 Therefore, 7 = 7 = = 8.
+(ii) 15x6 Similarly, 2x4 _ x= =?
+
+Fraction as an operator of 
+
+Observe these figures (Fig 2.6)
+The two squares are exactly similar.
+Each shaded portion represents 3 of 1.
+So, both the shaded portions together will represent 5 of 2.
+Combine the 2 shaded > parts. It represents 1.
+
+1 1
+So, we say 5 of 2 is 1. We can also get it as 5 x2=1.
+
+1 1
+Thus, 5 of 2= 5 x2=1 Fig 2.6
+
+2024-25
+
+FRACTIONS AND DECIMALS iP iii
+
+Also, look at these similar squares (Fig 2.7).
+Each shaded portion represents 3 of 1.
+So, the three shaded portions represent 5 of 3.
+
+Combine the 3 shaded parts.
+1.
+It represents Is 1.e., 2 
+
+Fig 2.7
+
+S f3is >. Al 3
+0, 5 of 3is 5. Also, 5 x3=
+
+Th + f3 + 3 ;
+us, 5 0 = x3=5
+So we see that of represents multiplication.
+
+N | bw
+
+Farida has 20 marbles. Reshma has : th of the number of marbles what.
+
+Farida has. How many marbles Reshma has? As, of indicates multiplication,
+so, Reshma has 5 x 20 =4 marbles.
+
+Similar] h 1 f 161 + x16 o
+imilarly, we have 5 of 16 is 5 =5
+
+Try THESE
+
+1 1 2
+Can you tell, what is (1) 5 of 10?, (41) 7 of 16?, (iii) 5 of 25?
+
+= 8.
+EXAMPLE I Inaclass of 40 students 5 of the total number of studetns like to study
+English, 5 of the total number like to study Mathematics and the remaining
+
+students like to study Science.
+(it) How many students like to study English?
+(ii) How many students like to study Mathematics?
+(ii) What fraction of the total number of students like to study Science?
+
+SOLUTION Total number of students in the class = 40.
+(i) Ofthese 5 of the total number of students like to study English.
+
+2024-25
+
+EE a i emarics
+
+1 1
+Thus, the number of students who like to study English = = of 40 = =X 40 =8.
+
+(i) Try yourself.
+
+(ii) The number of students who like English and Mathematics = 8 + 16 = 24. Thus, the
+number of students who like Science = 40 24 = 16.
+
+Thus, the required fraction is es .
+
+EXERCISE 2.1
+
+1. Which of the drawings (a) to (d) show :
+
+(i) 2x- (ii) 2x2 (iii) 3x5 (iv) 3x2
+
+ODE BI
+
+ Ahi ie
+I A
+(c) | ae (d) \ Wivae
+Le tote Tote i WN
+
+2. Some pictures (a) to (c) are given below. Tell which of them show:
+
+anes
+
+Ko
+
+1 3 1 2 3 1
+(i) 3x 5 (ii) P5735 (iii) xq = 27
+
+0@@ Add AAA
+
+(c)
+
+3. Multiply and reduce to lowest form and convert into a mixed fraction:
+
+. 3 .. 1 we. 6 . 2 2
+@ xs (ii) x. (iii) 2x (iv) 3x (v) 3%4
+
+. 5S . 4 see 4 . 1 3
+ x6 1lx (vil) 20x ix) 13x x) 15x=
+(vi) 5 (vil) xa (viii) 5 (ix) 3 (x) 5
+
+2024-25
+
+FRACTIONS AND DECIMALS iii iii
+
+4. Shade: (i) : of the circles inbox (a) (ii) : of the triangles in box (b)
+(iii) 5 of the squares in box (c).
+OOO AAA
+O00 AAA
+OOO AAA
+OOO
+(a) (b) (c)
+
+. Find:
+
+. Multiply and express as a mixed fraction :
+
+(a) = of (i) 24 (ii) 46 (b) = of (i) 18 (ii) 27
+
+(c) = of (i) 16 (ii) 36 (d) = of (i) 20 ~~ (ii): 35
+
+(a) 3x52 (b) 5x6= (c) 1x27
+1 1 2
+(d) 4x67 (e) 37 x6 (f) 35%8
+. Find: (a) 1 of (i) 22 (ii) 42 (b) 5 of (i) 32 (ii) 92
+2 4 9 8 6 3
+
+. Vidya and Pratap went for a picnic. Their mother gave them a water bottle that
+contained 5 litres of water. Vidya consumed 5 of the water. Pratap consumed the
+
+remaining water.
+(it) How much water did Vidya drink?
+
+(ii) What fraction of the total quantity of water did Pratap drink?
+
+2.1.2 Multiplication of a Fraction by a Fraction
+
+Farida had a9 cm long strip of ribbon. She cut this strip into four equal parts. How did she
+do it? She folded the strip twice. What fraction of the total length will each part represent?
+Each part will be of the strip. She took one part and divided it in two equal parts by
+2024-25
+
+EE CE i emarics
+
+ae a
+
+1 9
+folding the part once. What will one of the pieces represent? It will represent 5 of qo
+
+Nw |e
+x
+a NSENe)
+
+Let us now see how to find the product of two fractions like ; x - .
+
+To do this we first learn to find the products like : x : .
+(a) How do we find 3 of a whole? We divide the whole in three equal parts. Each of
+the three parts represents 3 of the whole. Take one part of these three parts, and
+
+shade it as shown in Fig 2.8.
+
+1 1
+(b) How will you find 5 of this shaded part? Divide this one-third G ) shaded part into
+x 3 (Fig 2.9).
+
+NO] Re
+
+1 1
+two equal parts. Each of these two parts represents 5 of 3 ie.,
+
+Bole
+Take out | part of these two and name it A . A represents 5
+(c) What fraction is A of the whole? For this, divide each of the remaining 3 parts also
+
+in two equal parts. How many such equal parts do you have now?
+There are six such equal parts. A is one of these parts.
+
+1 1
+
+ol 1
+So, A is 6 of the whole. Thus, 5 x 3 = 6"
+How did we decide that A was of the whole? The whole was divided in 6 = 2 X 3
+parts and 1 = 1 x 1 part was taken out of it.
+wh 1 1 1 1x1
+us 2% 37 6 > 2x3
+1 1 xi
+or 2 * 37 2x3
+
+2024-25
+
+FRACTIONS AND DECIMALS
+
+1 1
+The value of 3 x 5 can be found in a similar way. Divide the whole into two equal
+
+parts and then divide one of these parts in three equal parts. Take one of these parts. This
+
+will represent : x : ice. =
+1 1 1 xl ; ;
+Therefore 3 x > = 67 3x2 as discussed earlier.
+1 1 1 1 1
+Hence 7%3 73% 976
+11 1 1 1
+Find 3 x mn and mn x 33 5 x 5 and =x ~ and check whether you get
+11 1 1 1 1 1 1
+3%4 74 %3 2%5 > 5% 2
+
+Fill in these boxes:
+o bete Bt OO
+(ii) x5 =| lA (iv) =xz-[ |-[_]
+EXAMPLE 2 Sushant reads 3 Part of a book in 1 hour. How much part of the book
+
+will he read in 2 hours?
+SOLUTION The part of the book read by Sushant in 1 hour = 3 
+
+1 1 1
+So, the part of the book read by him in a hours = a x5
+Wot uxt
+
+= xX =
+5 3 5x3 15
+
+1 5 5 1
+ind -x -=-x
+Let us now find 7 3 We know that 3 3 5.
+
+1 5 21] 1. 1, 5
+
+= = 5= 
+OX ZF OX BX G 6
+
+So
+
+2024-25
+
+EE Vs emarics
+
+Also. ~ x3 ag ty eS?
+89 6 9x37 NS 9% 3 = 2x3 6
+
+This is also shown by the figures drawn below. Each of these five equal shapes
+(Fig 2.10) are parts of five similar circles. Take one such shape. To obtain this shape
+we first divide a circle in three equal parts. Further divide each of these three parts in
+two equal parts. One part out of it is the shape we considered. What will it represent?
+
+1 1 1 1 5
+It will represent > x > = . The total of such parts would be 5X 7 = 7
+
+2 3 6 6 6
+
+Wecan thus find =x 2 as2 x 2 = <4 e can thus fin 35 SKS = .
+
+. . . Product of Numerators
+So, we find that we multiply two fractions as
+
+Product of Denominators >
+Value of the Products
+
+Try THESE You have seen that the product of two whole numbers is bigger than each of
+
+the two whole numbers. For example, 3 x 4= 12 and 12> 4, 12>3. What
+
+8 4 3 2 _ happens to the value of the product when we multiply two fractions?
+3 7 4 * 3 Letus first consider the product of two proper fractions.
+We have,
+5
+
+3 a
+
+ xX- =
+a)
+x
+Ne)
+Il
+bi | 2 
+
+2024-25
+
+FRACTIONS AND DECIMALS iA Di
+
+You will find that when two proper fractions are multiplied, the product is less
+than each of the fractions. Or, we say the value of the product of two proper fractions
+is smaller than each of the two fractions.
+
+Check this by constructing five more examples.
+
+Let us now multiply two improper fractions.
+
+75 _35 357 355 ae iy mnaieifhevFenett
+3 96 63 62 oduct is greater than each of the fractions
+6 o 24
+EO _ 
+5 3 15
+9 7
+63
+xX = 
+3. 8 24
+ xX = 
+Lag | mere | ee
+
+We find that the product of two improper fractions is greater than each of the
+two fractions.
+
+Or, the value of the product of two improper fractions is more than each of the
+two fractions.
+
+Construct five more examples for yourself and verify the above statement.
+
+Let us now multiply a proper and an improper fraction, say ; and : .
+2 7 414 14. 7 14 2
+We have 3% 5 =]5- Here, 15 <5 and 15 73
+The product obtained is less than the improper fraction and greater than the proper fraction
+involved in the multiplication.
+; 6 2 8 4
+Check it for 5 x 8 3 x 5 
+
+EXERCISE 2.2
+
+1. Find:
+1 1 3 4
+(i) 4 of (a) 4 (b) 5 (c) 3
+. t 2 6 3
+(i) 7 of (a) 9 (b) 5 (c) 10
+
+2024-25
+
+EE a emarics
+
+2. Multiply and reduce to lowest form (if possible) :
+
+ 2y52 207 .. 3,6 .. 93
+@ 5x22 W 5X5 (ii) 2% iv) 5X5
+1s , WS 4yl2
+ ) 3% 3 20 wi 5 9
+. Multiply the following fractions:
+2 1 2.7 3 1 5.3
+i) X5 ii) O X ii) X5 iv) xX2 
+O54 5" 9 (i) 33 ) 6.7
+2 4 3 4 3
+3 =x i) 2 x3 ii) 3-xX=
+(vy) 25% (vi) <3 (vil) 95%
+. Which is greater:
+i) = of = of = ii) ~oft = 2
+@ 7 of FZ or 5 of sy (il) 7 of > or 3 Of D
+
+. Saili plants 4 saplings, in a row, in her garden. The distance between two adjacent
+
+saplings 1s - m. Find the distance between the first and the last sapling.
+
+. Lipika reads a book for I> hours everyday. She reads the entire book in 6 days.
+
+How many hours in all were required by her to read the book?
+
+. Acarruns 16 km using 1 litre of petrol. How much distance will it cover using 2 4
+
+litres of petrol.
+i) Provide th ber in the b h th, 25 = 10
+. (a) (i) Provide the number in the ox[ ], suc at 3 30 
+(ii) The simplest form of the number obtained in| is
+(b) (i) Provide th ber in the b h that 2X 24
+number in x| |, = = .
+1) Provide the numbe ebox{ ], suc at = 75
+
+(ii) The simplest form of the number obtained in| |is
+
+2.2 DIvIsION oF FRACTIONS
+
+John has a paper strip of length 6 cm. He cuts this strip in smaller strips of length 2 cm
+each. You know that he would get 6 + 2 =3 strips.
+
+2024-25
+
+FRACTIONS AND DECIMALS ii Ri i ii
+John cuts another strip of length 6 cm into smaller strips of length zeom each. How
+many strips will he get now? He will get 6 + 5 strips.
+
+15 3
+A paper strip of length > emean be cut into smaller strips of length zom each to give
+
+5 3),
+~+z pieces.
+
+2~2
+So, we are required to divide a whole number by a fraction or a fraction by another
+fraction. Let us see how to do that.
+
+2.2.1 Division of Whole Number by a Fraction
+Let us find it .
+We divide a whole into a number of equal parts such that each part is half of the whole.
+
+1 1
+The number of such half ( 3 ) parts would be 1+ 2 Observe the figure (Fig 2.11). How
+
+many half parts do you see?
+There are two half parts.
+
+me |b
+
+1 2 1
+
+So, 1+ = =2. Also, 1x ~=1x2=2. Thus, 1+ =1~x
+2 1 2
+1 1 ;
+
+Similarly, 3 +7 = number of 7 Parts obtained when each of the 3 whole, are divided Fig 2.11
+into equal parts = 12 (From Fig 2.12)
+Fig 2.12
+
+4 1 4
+Observe also that, 3xo = 3x4 =12. Thus, 347 =3Xo = 12.
+
+1 2
+Find in a similar way, 3 + 3 and 3x a
+
+2024-25
+
+EE es i eMarics
+
+Reciprocal of a fraction
+The number can be obtained by interchanging the numerator and denominator of
+
+1 1 3 1
+5 oF by inverting >: Similarly, 1 is obtained by inverting 3 
+Let us first see about the inverting of such numbers.
+
+Observe these products and fill in the blanks :
+
+Multiply five more such pairs.
+The non-zero numbers whose product with each other is 1, are called the
+
+5. 9 9 5
+reciprocals of each other. So reciprocal of 9 is 5 and the reciprocal of 5 is 9 What
+
+=9
+
+. . 5
+is the receiprocal of 927!
+You will see that the reciprocal of 3 is obtained by inverting it. You get
+
+2 .
+Tung, Discuss AND WRITE
+
+(i) Will the reciprocal of a proper fraction be again a proper fraction?
+(it) Will the reciprocal of an improper fraction be again an improper fraction?
+
+2 = 1x2 = 1x reciprocal of ~
+2 1 2 
+344 = 3x" = 3X reciprocal of =
+ 4 1 4 
+i
+3 5 S -eeeee Seen eee --------So, 2+ 3 = 2X reciprocal of 3 = ax
+7254 4 3
+5 +9 = 5X) ------------------- = 5 X -----------2024-25
+
+FRACTIONS AND DECIMALS iP ii i
+
+Thus, to divide a whole number by any fraction, multiply that whole number by
+the reciprocal of that fraction.
+
+2 4 8 "
+
+Find: () 125 (i) 6 +5 (iii) 229
+
+@ While dividing a whole number by a mixed fraction, first convert the mixed RAN
+
+fraction into improper fraction and then solve it.
+
+2 12 1 10
+
+toes . Find: (i) 654
+2.2.2 Division of a Fraction by a Whole Number 3
+3 4
+@ What will be 73? @i) 7+ or
+Based lier ob i h p +3 72 SENS?!
+ased on our earlier observations we have: aT 4*%37pD74
+2 1
+$0,227 2 2x5 ? What is > =6, 2 289
+3 3.47 7 7
+@ While dividing mixed fractions by whole numbers, convert the mixed fractions into
+improper fractions. That is,
+2225 = 8.5 = -----J , 4223 = gy= ------ : g3.2 a a
+3 3 5 5
+2.2.3 Division of a Fraction by Another Fraction
+We can now find 375 
+16 Ly ocator B= bx 5-5
+375 = 3% teciprocalof = 3*e=798 
+Similarly, +-=5 i alof ~ =? a ?
+imilarly, 7* 3 = 5 xreciprocal of 3 = and, 544 =3
+mt 579 375 Mas 62
+
+2024-25
+
+EE 7 i emarics
+
+EXERCISE 2.3
+
+1. Find:
+(i) 1242 (ii) 1422 (iii) 82 (iv) 425
+wl . 5234
+(v) 3722 (vi) 5=32
+
+2. Find the reciprocal of each of the following fractions. Classify the reciprocals as
+proper fractions, improper fractions and whole numbers.
+
+. 3 . 3 9 .. 6
+@ 5 ji) 3 Ci (vy) <
+12 1 .
+(v) 7 (vi) 8 (vil) rr
+3. Find:
+7 6 1
+(i) 372 di) <+5 (iii) ao! (iv) 4573
+(v) 35+4 (vi) 4227
+4. Find:
+O57 O93 Baz M375 YM P75
+~ 2.yt gt 2 oti yl
+(vi) 7) (vii) 3571) iii) eer
+
+2.3 MULTIPLICATION OF DEcIMAL NUMBERS
+
+Reshma purchased 1 .5kg vegetable at the rate of 8.50 per kg. How much money should
+she pay? Certainly it would be = (8.50 x 1.50). Both 8.5 and 1.5 are decimal numbers.
+So, we have come across a situation where we need to know how to multiply two decimals. Let us now learn the multiplication of two decimal numbers.
+
+First we find 0.1 x 0.1.
+
+1 1 1
+Now, 0.1 = 10 3 0.1 x O1= x75 =
+ixl - _o01
+
+10x10 100 
+
+Let us see it s pictorial representation (Fig 2.13)
+The fraction 10 represents | part out of 10 equal
+
+arts.
+P 2024-25
+
+FRACTIONS AND DECIMALS ii RRR TTT
+The shaded part in the picture represents
+
+10 .
+We know that,
+1 4 A ot ~. So, divide this --* part into 10 equal d tak
+10 * 10 means 10 ! 10 o, divide this 10 part into 10 equal parts and take one
+part out of it.
+Thus, we have, (Fig 2.14).
+on | | | | dT ct tt
+VAL | [| | | tT
+A022 eae
+7A | [| |
+YA | | | | | | | |
+V/Y | | | | tT cL
+Zee
+YA | | | | | } | |
+VAL | tT | | dp Pe
+V/A | tT | tet pt
+Fig 2.14
+The dotted square is one part out of 10 of the 0. part. That is, it represents
+1, 1 1 1.
+10 10 or 0.1 x 0.
+
+Can the dotted square be represented in some other way?
+
+How many small squares do you find in Fig 2.14?
+
+There are 100 small squares. So the dotted square represents one out of 100 or 0.01.
+Hence, 0.1 x 0.1 = 0.01.
+
+Note that 0.1 occurs two times in the product. In 0.1 there is eet fff fd
+
+one digit to the right of the decimal point. In 0.01 there are two
+digits (i.e., 1 + 1) to the right of the decimal point.
+
+Let us now find 0.2 x 0.3.
+We have, 0.2 x 0.3= 75% 10
+
+V/V/V 7) | | |
+i 227
+As we did for ~ , let us divide the square into 10 equal ZALAZA | | |
+
+10 10 
+
+| |
+3
+parts and take three parts out of it, to get ~
+
+10 . Again divide each
+
+2024-25
+
+EE SE i eMarics
+
+2 3
+of these three equal parts into 10 equal parts and take two from each. We get 10 x 10
+
+10 x = or 0.2 x 0.3. (Fig 2.15)
+
+Since there are 6 dotted squares out of 100, so they also reprsent 0.06.
+Thus, 0.2 x 0.3 = 0.06.
+
+Observe that 2 x 3 = 6 and the number of digits to the right of the decimal point in 0.06
+is2(=1+1).
+
+The dotted squares represent
+
+Check whether this applies to 0.1 x 0.1 also.
+Find 0.2 x 0.4 by applying these observations.
+While finding 0.1 x 0.1 and 0.2 x 0.3, you might have noticed that first we multiplied
+
+them as whole numbers ignoring the decimal point. In 0.1 x 0.1, we found 01 x 01 or 1 x
+1. Similarly in 0.2 x 0.3 we found 02 x 03 or 2 x 3.
+
+Then, we counted the number of digits starting from the rightmost digit and moved
+towards left. We then put the decimal point there. The number of digits to be counted is
+obtained by adding the number of digits to the right of the decimal point in the decimal
+numbers that are being multiplied.
+
+Let us now find 1.2 x 2.5.
+
+Multiply 12 and 25. We get 300. Both, in 1.2 and 2.5, there is | digit to the right of the
+decimal point. So, count 1 + 1 =2 digits from the rightmost digit (i.e., 0) in 300 and move
+towards left. We get 3.00 or 3.
+
+Find in a similar way 1.5 x 1.6, 2.4 x 4.2.
+
+While multiplying 2.5 and 1.25, you will first multiply 25 and 125. For placing the
+decimal in the product obtained, you will count 1 + 2=3 (Why?) digits starting from the
+rightmost digit. Thus, 2.5 x 1.25 =3.225
+
+Find 2.7 x 1.35.
+
+1. Find: (i) 2.7x 4 (ii) 1.8 x 1.2 (iii) 2.3 x 4.35
+2. Arrange the products obtained in (1) in descending order.
+
+EXAMPLE 3 The side of an equilateral triangle is 3.5 cm. Find its perimeter.
+SOLUTION All the sides of an equilateral triangle are equal.
+
+2024-25
+
+FRACTIONS AND DECIMALS
+
+So, length of each side = 3.5 cm
+
+Thus, perimeter = 3 x 3.5cm= 10.5 cm
+
+EXAMPLE 4 The length of a rectangle is 7.1 cm and its breadth is 2.5 cm.
+What is the area of the rectangle?
+
+SOLUTION Length of the rectangle = 7.1 cm
+Breadth of the rectangle = 2.5 cm
+Therefore, area of the rectangle = 7.1 x 2.5 cm? = 17.75 cm?
+
+2.3.1 Multiplication of Decimal Numbers by 10, 100 and 1000
+
+23 235
+Reshma observed that 2.3 = 10 whereas 2.35 = 700 Thus, she found that depending
+
+on the position of the decimal point the decimal number can be converted to a fraction with
+denominator 10 or 100. She wondered what would happen ifa decimal number is multiplied
+by 10 or 100 or 1000.
+
+Let us see if we can find a pattern of multiplying numbers by 10 or 100 or 1000.
+
+Have a look at the table given below and fill in the blanks:
+1.76 x 10 = 100 * 10= 17.6 2.35. x10 =_ 12.356 x 10 =__
+1.76 x 100 = 100 * 100 = 176 or 176.0] 2.35 x100=__s |: 12.356 x 100 =___
+1.76 x 1000 = 100 * 1000 = 1760. or | 2.35 x1000 =____} 12.356 x 1000 =
+0.5 x 10= 79 x 10=5 ; O05x100=_ ; O5x1000=__
+
+Observe the shift of the decimal point of the products in the table. Here the numbers are
+multiplied by 10,100 and 1000. In 1.76 x 10= 17.6, the digits are same 1.e., 1,7 and 6. Do
+you observe this in other products also? Observe 1.76 and 17.6. To which side has the
+decimal point shifted, right or left? The decimal point has shifted to the right by one place.
+Note that 10 has one zero over 1.
+
+In 1.76x100 = 176.0, observe 1.76 and 176.0. To which side and by how many
+digits has the decimal point shifted? The decimal point has shifted to the right by two
+places.
+
+Note that 100 has two zeros over one.
+
+Do you observe similar shifting of decimal point in other products also?
+
+2024-25
+
+EE ee VT eMarics
+
+So we say, when a decimal number is multiplied by 10, 100 or 1000, the digits in
+
+the product are same as in the decimal number but the decimal point in the product
+is shifted to the right by as, many of places as there are zeros over one.
+
+Based on these observations we can now say
+Try THESE
+0.07 x 10 = 0.7, 0.07 x 100 = 7 and 0.07 x 1000 = 70.
+
+Find: (i) 0.3 x 10
+
+Gi) 1.2x 100
+Gi) 56.3 x 1000
+
+Can you now tell 2.97x 10=? 2.97x100=? 2.97 x 1000 =?
+
+Can you now help Reshma to find the total amount 1.e., 8.50 x
+150, that she has to pay?
+
+EXERCISE 2.4
+
+. Find:
+(i) 0.2 x6 (ii) 8x 4.6 (ii) 2.715 (iv) 20.1 x4
+(v) 0.05 x 7 (vi) 211.02 x4 (vii) 2 x 0.86
+. Find the area of rectangle whose length is 5.7cm and breadth is 3 cm.
+. Find:
+(i) 1.310 (ii) 36.8 x 10 (ii) 153.7x 10 (av) 168.07 x 10
+(v) 31.1100 (vi) 156.1 x 100 (vii) 3.62100 viti) 43.07 x 100
+(ix) 0.5 x 10 (x) 0.08 x 10 (xi) 0.9 x 100 (xii) 0.03 x 1000
+
+. Atwo-wheeler covers a distance of 55.3 km in one litre of petrol. How much distance
+will it cover in 10 litres of petrol?
+
+. Find:
+(i) 2.5x0.3 (ii) 0.1 x 51.7 (iii) 0.2 x 316.8 (iv) 1.3x3.1
+(v) 0.5 x 0.05 (vi) 11.2 x 0.15 (vii) 1.07 x 0.02
+(vit) 10.05 x 1.05 (ix) 101.01x*0.01 (x) 100.01 x 1.1
+
+2.4 Drvision oF DeEcimaAL NuMBERS
+
+Savita was preparing a design to decorate her classroom. She needed a few coloured
+strips of paper of length 1.9 cm each. She had a strip of coloured paper of length 9.5 cm.
+How many pieces of the required length will she get out of this strip? She thought it would
+
+be - cm. Is she correct?
+
+Both 9.5 and 1.9 are decimal numbers. So we need to know the division of
+
+decimal numbers too!
+
+2.4.1 Division by 10, 100 and 1000
+
+Let us find the division of a decimal number by 10, 100 and 1000.
+Consider 31.5 = 10.
+
+2024-25
+
+FRACTIONS AND DECIMALS ii PE RTT
+
+31.5 +10 315 4 31 3.15
+ ee 10 10 ~ 100 
+Similarly, 31.5100 =x I 3b = 0.315
+10 100 1000
+
+Let us see if we can find a pattern for dividing numbers by 10, 100 or 1000. This may
+help us in dividing numbers by 10, 100 or 1000 in a shorter way.
+31.5 + 10 = 3.15 231.5+10=__ 15+10=__ | 29.36+10=__
+31.5+100=0.315 | 231.5+10=__ 15+100=__ | 29.36+100=__
+
+31.5 +1000 = 0.0315] 231.5 + 1000 =___ | 1.5+1000=___ | 29.36 +1000 =___
+
+Take 31.5 + 10 = 3.15. In 31.5 and 3.15, the digits are
+same i.e., 3, 1, and 5 but the decimal point has shifted in the
+
+quotient. To which side and by how many digits? The decimal ; ;
+
+point has shifted to the left by one place. Note that 10 has one we ee ae
+
+zero over 1. f a Gi) 235.4 +100
+Consider now 31.5 + 100 = 0.315. In 31.5 and 0.315 the a (iii) 235.4 + 1000
+
+digits are same, but what about the decimal point in the quotient?
+
+It has shifted to the left by two places. Note that 100 has two
+
+zeros over].
+
+So we can say that, while dividing a number by 10, 100 or 1000, the digits of the
+number and the quotient are same but the decimal point in the quotient shifts to the
+
+left by as many places as there are zeros over 1. Using this observation let us now
+quickly find: 2.38 = 10 = 0.238, 2.38 + 100 = 0.0238, 2.38 + 1000 = 0.00238
+
+2.4.2 Division of a Decimal Number by a Whole Number
+
+Let us find . Remember we also write it as 6.4 + 2. Try THESE
+
+Qi) 35.7+3=?;
+64 64 = 1 @) 25.5+3=?
+
+So, 6.4+2 = To +2= 10 2 as learnt in fractions.
+
+64x1 1x64 1 = 64 ~= #1 32
+= = = x = x 32 =a 3.2
+10x2 10x2 10 2 10 10
+Or, let us first divide 64 by 2. We get 32. There is one digit to the right of the decimal
+point in 6.4. Place the decimal in 32 such that there would be one digit to its
+
+right. We get 3.2 again.
+
+To find 19.5 +5, first find 195 +5. We get 39. There is one digit to the :
+right of the decimal point in 19.5. Place the decimal point in 39 such that there @) 43.15+5=%;
+would be one digit to its right. You will get 3.9. (ii) 82.44+6=?
+
+yp
+
+q
+
+2024-25
+
+EE a i emarics
+
+1296 1296 1 1 1296 1
+x 324 3.94
+
+= +4- X = x =
+Find: (i) 15.5+5 Now, 12.96 = 4 100 100 4 100 4 100
+(i) 126.35 +7 Or, divide 1296 by 4. You get 324. There are two digits to the right of
+the decimal in 12.96. Making similar placement of the decimal in 324, you
+will get 3.24.
+
+Note that here and in the next section, we have considered only those divisions in
+which, ignoring the decimal, the number would be completely divisible by another number
+to give remainder zero. Like, in 19.5 + 5, the number 195 when divided by 5, leaves
+remainder zero.
+
+However, there are situations in which the number may not be completely divisible by
+another number, i.e., we may not get remainder zero. For example, 195 +7. We deal with
+such situations in later classes.
+
+EXAMPLE 5 Find the average of 4.2, 3.8 and 7.6.
+SOLUTION Theaverage of 4.2, 3.8 and 7.6 is cee = =5.2.
+
+2.4.3 Division of a-Decimal Number by another Decimal
+Number
+
+25.5
+Let us find 05 1e., 25.5 + 0.5.
+
+255. 5 255 10
+
+< =- = x = a =
+Wehave 25.5 +0.5 10 10 105 51. Thus, 25.5+0.5=51
+
+What do you observe? For ~ , we find that there is one digit to the right of the
+
+5.5
+0.5 
+decimal in 0.5. This could be converted to whole number by dividing by 10. Accordingly
+25.5 was also converted to a fraction by dividing by 10.
+
+Or, we say the decimal point was shifted by one place to the right in 0.5 to make it 5.
+So, there was a shift of one decimal point to the right in 25.5 also to make it 255.
+
+22.5 225 _
+
+Find 20.3 and 15.2 ina similar wa 1.19 28
+Y- Find: (i) 0.25 (11) 002 (iii) 14
+
+0.7 0.8
+Let us now find 20.55 = 1.5.
+3.96 2.31
+
+We can write it is as 205.5 + 15, as discussed above. We get 13.7. Find 04 03"
+
+2024-25
+
+FRACTIONS AND DECIMALS Si i iii it
+
+2. .
+. We can write it as = (How?) and we get the quotient
+
+Consider now, on
+
+as 134.9. How will you find ne ? We know that 27 can be written as 27.00.
+
+27 _ 27.00 _ 2700 _ 4
+0.03 0.03 3 ~
+
+So,
+
+EXAMPLE 6. Eachside of aregular polygon is 2.5 cm in length. The perimeter of the
+polygon is 12.5cm. How many sides does the polygon have?
+
+SOLUTION The perimeter of a regular polygon is the sum of the lengths of all its
+equal sides = 12.5 cm.
+; 12.5 125
+Length of each side =2.5cm. Thus, the number of sides = 35 = 35 =5
+
+The polygon has 5 sides.
+
+EXAMPLE 7 Acarcoversa distance of 89.1 km in 2.2 hours. What is the average
+distance covered by it in 1 hour?
+
+SOLUTION Distance covered by the car = 89.1 km.
+Time required to cover this distance = 2.2 hours.
+
+EXERCISE 2.5
+
+1. Find:
+(i) 0.4+2 ji) 0.35+5 (iii) 2.48+4 (iv) 65.4+6
+(v) 651.2+4 (vi) 14.49+7 (vii) 3.96+4 (viii) 0.80 +5 tt
+2. Find:
+(i) 4.8+10 fi) 52.5+10 (ii) 0.7 +10 (iv) 33.1+10 x
+(v) 272.23+10 (vi) 0.56+10 (vii) 3.97 +10
+3. Find:
+(i) 2.7+ 100 ji) 0.3 + 100 (iii) 0.78 + 100
+(iv) 432.6+100 (v) 23.6+100 (vi) 98.53 + 100
+4. Find:
+
+(i) 7.9 + 1000 (i) 26.3 + 1000 (ui) 38.53 + 1000
+(iv) 128.9+ 1000 (v) 0.5 + 1000
+
+2024-25
+
+EE es i emarics
+
+. Find:
+
+(i) 7+3.5 (i) 36+0.2 (ii) 3.25 + 0.5 (iv) 30.94+0.7
+(v) 0.5+0.25 (vi) 7.75 + 0.25 (vil) 76.5 + 0.15 (vii) 37.8 + 1.4
+(ix) 2.73 + 1.3
+
+. Avehicle covers a distance of 43.2 km in 2.4 litres of petrol. How much distance will
+it cover in one litre of petrol?
+
+WHAT HAVE WE DISCUSSED?
+
+. Wehave learnt how to multiply fractions. Two fractions are multiplied by multiplying
+their numerators and denominators seperately and writing the product as
+5 2x5 10
+
+product of numerators x
+3. 7 3x7 21
+
+- . For example,
+product of denominators P
+
+. A fraction acts as an operator of . For example, ; of 2 is : x2=1.
+
+. (a) The product of two proper fractions is less than each of the fractions that are
+multiplied.
+
+(b) The product of a proper and an improper fraction is less than the improper
+fraction and greater than the proper fraction.
+
+(c) The product of two imporper fractions is greater than the two fractions.
+
+. A reciprocal of a fraction is obtained by inverting it upside down.
+
+. Wehave seen how to divide two fractions.
+
+(a) While dividing a whole number by a fraction, we multiply the whole number
+with the reciprocal of that fraction.
+For example, 22S=2x2= 
+
+(b) While dividing a fraction by a whole number we multiply the fraction by the
+reciprocal of the whole number.
+
+For example, 2 7 a2 yh 2
+3 7 21
+
+(c) While dividing one fraction by another fraction, we multuiply the first fraction by
+the reciprocal of the other. So, 2 + 5 = 2 x U = 4 .
+3 7 3 5 15
+. Wealso learnt how to multiply two decimal numbers. While multiplying two decimal
+numbers, first multiply them as whole numbers. Count the number of digits to the right
+of the decimal point in both the decimal numbers. Add the number of digits counted.
+Put the decimal point in the product by counting the digits from its rightmost place.
+The count should be the sum obtained earlier.
+
+For example, 0.5 x 0.7 = 0.35
+
+2024-25
+
+7.
+
+8.
+
+FRACTIONS AND DECIMALS ii iii
+
+To multiply a decimal number by 10, 100 or 1000, we move the decimal point in the
+number to the right by as many places as there are zeros over 1.
+
+Thus 0.53 x 10=5.3, 0.53 x 100=53, 0.53 x 1000 = 530
+
+We have seen how to divide decimal numbers.
+
+(a) To divide a decimal number by a whole number, we first divide them as whole
+numbers. Then place the decimal point in the quotient as in the decimal number.
+For example, 8.4+4=2.1
+Note that here we consider only those divisions in which the remainder is zero.
+
+(b) To divide a decimal number by 10, 100 or 1000, shift the digits in the decimal
+number to the left by as many places as there are zeros over 1, to get the
+quotient.
+So, 23.9 + 10 = 2.39,23.9 + 100 = 0 .239, 23.9 + 1000 = 0.0239
+
+(c) While dividing two decimal numbers, first shift the decimal point to the right by
+equal number of places in both, to convert the divisor to a whole number. Then
+divide. Thus, 2.4 +0.2 =24+2=12.
+
+2024-25

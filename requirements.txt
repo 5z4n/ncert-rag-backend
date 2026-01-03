@@ -1,0 +1,4428 @@
+it looks like this rn {Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\faizan> tree E:\NCERT_RAG /F
+Folder PATH listing for volume SSD 2
+Volume serial number is 7ABC-DF30
+E:\NCERT_RAG
+│   progress.txt
+│   README.md
+│   requirements.txt
+│
+├───app
+│   │   api.py
+│   │   auth.py
+│   │   schemas.py
+│   │   __init__.py
+│   │
+│   ├───core
+│   │       config.py
+│   │
+│   └───__pycache__
+│           api.cpython-313.pyc
+│           __init__.cpython-313.pyc
+│
+├───data
+│   ├───chunks
+│   │   ├───class_10
+│   │   │   ├───english
+│   │   │   │   ├───book1
+│   │   │   │   │   ├───jeff101
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff102
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │       chunk_010.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff103
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff104
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │       chunk_010.txt
+│   │   │   │   │   │       chunk_011.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff105
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │       chunk_010.txt
+│   │   │   │   │   │       chunk_011.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff106
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │       chunk_010.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff107
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │       chunk_007.txt
+│   │   │   │   │   │       chunk_008.txt
+│   │   │   │   │   │       chunk_009.txt
+│   │   │   │   │   │       chunk_010.txt
+│   │   │   │   │   │       chunk_011.txt
+│   │   │   │   │   │
+│   │   │   │   │   ├───jeff108
+│   │   │   │   │   │       chunk_000.txt
+│   │   │   │   │   │       chunk_001.txt
+│   │   │   │   │   │       chunk_002.txt
+│   │   │   │   │   │       chunk_003.txt
+│   │   │   │   │   │       chunk_004.txt
+│   │   │   │   │   │       chunk_005.txt
+│   │   │   │   │   │       chunk_006.txt
+│   │   │   │   │   │
+│   │   │   │   │   └───jeff109
+│   │   │   │   │           chunk_000.txt
+│   │   │   │   │           chunk_001.txt
+│   │   │   │   │           chunk_002.txt
+│   │   │   │   │           chunk_003.txt
+│   │   │   │   │           chunk_004.txt
+│   │   │   │   │           chunk_005.txt
+│   │   │   │   │           chunk_006.txt
+│   │   │   │   │           chunk_007.txt
+│   │   │   │   │           chunk_008.txt
+│   │   │   │   │           chunk_009.txt
+│   │   │   │   │           chunk_010.txt
+│   │   │   │   │           chunk_011.txt
+│   │   │   │   │           chunk_012.txt
+│   │   │   │   │           chunk_013.txt
+│   │   │   │   │           chunk_014.txt
+│   │   │   │   │           chunk_015.txt
+│   │   │   │   │           chunk_016.txt
+│   │   │   │   │           chunk_017.txt
+│   │   │   │   │
+│   │   │   │   └───book2
+│   │   │   │       ├───jefp101
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp102
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp103
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp104
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp105
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp106
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │       chunk_005.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp107
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │       chunk_005.txt
+│   │   │   │       │       chunk_006.txt
+│   │   │   │       │
+│   │   │   │       ├───jefp108
+│   │   │   │       │       chunk_000.txt
+│   │   │   │       │       chunk_001.txt
+│   │   │   │       │       chunk_002.txt
+│   │   │   │       │       chunk_003.txt
+│   │   │   │       │       chunk_004.txt
+│   │   │   │       │       chunk_005.txt
+│   │   │   │       │       chunk_006.txt
+│   │   │   │       │
+│   │   │   │       └───jefp109
+│   │   │   │               chunk_000.txt
+│   │   │   │               chunk_001.txt
+│   │   │   │               chunk_002.txt
+│   │   │   │               chunk_003.txt
+│   │   │   │               chunk_004.txt
+│   │   │   │               chunk_005.txt
+│   │   │   │               chunk_006.txt
+│   │   │   │               chunk_007.txt
+│   │   │   │               chunk_008.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │   ├───jemh101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh110
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh111
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh112
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───jemh113
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   └───jemh114
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │   ├───jesc101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc110
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc111
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │
+│   │   │   │   ├───jesc112
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   └───jesc113
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │       ├───book1
+│   │   │       │   ├───jess101
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │
+│   │   │       │   ├───jess102
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │
+│   │   │       │   ├───jess103
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │
+│   │   │       │   ├───jess104
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │
+│   │   │       │   ├───jess105
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │
+│   │   │       │   ├───jess106
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │
+│   │   │       │   └───jess107
+│   │   │       │           chunk_000.txt
+│   │   │       │           chunk_001.txt
+│   │   │       │           chunk_002.txt
+│   │   │       │           chunk_003.txt
+│   │   │       │           chunk_004.txt
+│   │   │       │           chunk_005.txt
+│   │   │       │           chunk_006.txt
+│   │   │       │           chunk_007.txt
+│   │   │       │           chunk_008.txt
+│   │   │       │           chunk_009.txt
+│   │   │       │           chunk_010.txt
+│   │   │       │
+│   │   │       ├───book2
+│   │   │       │   ├───jess201
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │
+│   │   │       │   ├───jess202
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │       chunk_015.txt
+│   │   │       │   │       chunk_016.txt
+│   │   │       │   │       chunk_017.txt
+│   │   │       │   │       chunk_018.txt
+│   │   │       │   │       chunk_019.txt
+│   │   │       │   │
+│   │   │       │   ├───jess203
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │
+│   │   │       │   ├───jess204
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │       chunk_015.txt
+│   │   │       │   │       chunk_016.txt
+│   │   │       │   │
+│   │   │       │   └───jess205
+│   │   │       │           chunk_000.txt
+│   │   │       │           chunk_001.txt
+│   │   │       │           chunk_002.txt
+│   │   │       │           chunk_003.txt
+│   │   │       │           chunk_004.txt
+│   │   │       │           chunk_005.txt
+│   │   │       │           chunk_006.txt
+│   │   │       │           chunk_007.txt
+│   │   │       │           chunk_008.txt
+│   │   │       │           chunk_009.txt
+│   │   │       │           chunk_010.txt
+│   │   │       │           chunk_011.txt
+│   │   │       │           chunk_012.txt
+│   │   │       │           chunk_013.txt
+│   │   │       │           chunk_014.txt
+│   │   │       │           chunk_015.txt
+│   │   │       │           chunk_016.txt
+│   │   │       │           chunk_017.txt
+│   │   │       │
+│   │   │       ├───book3
+│   │   │       │   ├───jess301
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │       chunk_015.txt
+│   │   │       │   │       chunk_016.txt
+│   │   │       │   │       chunk_017.txt
+│   │   │       │   │       chunk_018.txt
+│   │   │       │   │       chunk_019.txt
+│   │   │       │   │       chunk_020.txt
+│   │   │       │   │       chunk_021.txt
+│   │   │       │   │
+│   │   │       │   ├───jess302
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │       chunk_015.txt
+│   │   │       │   │       chunk_016.txt
+│   │   │       │   │       chunk_017.txt
+│   │   │       │   │       chunk_018.txt
+│   │   │       │   │       chunk_019.txt
+│   │   │       │   │       chunk_020.txt
+│   │   │       │   │
+│   │   │       │   ├───jess303
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │       chunk_015.txt
+│   │   │       │   │       chunk_016.txt
+│   │   │       │   │       chunk_017.txt
+│   │   │       │   │       chunk_018.txt
+│   │   │       │   │       chunk_019.txt
+│   │   │       │   │       chunk_020.txt
+│   │   │       │   │       chunk_021.txt
+│   │   │       │   │       chunk_022.txt
+│   │   │       │   │       chunk_023.txt
+│   │   │       │   │
+│   │   │       │   ├───jess304
+│   │   │       │   │       chunk_000.txt
+│   │   │       │   │       chunk_001.txt
+│   │   │       │   │       chunk_002.txt
+│   │   │       │   │       chunk_003.txt
+│   │   │       │   │       chunk_004.txt
+│   │   │       │   │       chunk_005.txt
+│   │   │       │   │       chunk_006.txt
+│   │   │       │   │       chunk_007.txt
+│   │   │       │   │       chunk_008.txt
+│   │   │       │   │       chunk_009.txt
+│   │   │       │   │       chunk_010.txt
+│   │   │       │   │       chunk_011.txt
+│   │   │       │   │       chunk_012.txt
+│   │   │       │   │       chunk_013.txt
+│   │   │       │   │       chunk_014.txt
+│   │   │       │   │       chunk_015.txt
+│   │   │       │   │       chunk_016.txt
+│   │   │       │   │       chunk_017.txt
+│   │   │       │   │       chunk_018.txt
+│   │   │       │   │       chunk_019.txt
+│   │   │       │   │       chunk_020.txt
+│   │   │       │   │
+│   │   │       │   └───jess305
+│   │   │       │           chunk_000.txt
+│   │   │       │           chunk_001.txt
+│   │   │       │           chunk_002.txt
+│   │   │       │           chunk_003.txt
+│   │   │       │           chunk_004.txt
+│   │   │       │           chunk_005.txt
+│   │   │       │           chunk_006.txt
+│   │   │       │           chunk_007.txt
+│   │   │       │           chunk_008.txt
+│   │   │       │           chunk_009.txt
+│   │   │       │           chunk_010.txt
+│   │   │       │           chunk_011.txt
+│   │   │       │           chunk_012.txt
+│   │   │       │           chunk_013.txt
+│   │   │       │           chunk_014.txt
+│   │   │       │           chunk_015.txt
+│   │   │       │           chunk_016.txt
+│   │   │       │           chunk_017.txt
+│   │   │       │           chunk_018.txt
+│   │   │       │           chunk_019.txt
+│   │   │       │           chunk_020.txt
+│   │   │       │           chunk_021.txt
+│   │   │       │
+│   │   │       └───book4
+│   │   │           ├───jess401
+│   │   │           │       chunk_000.txt
+│   │   │           │       chunk_001.txt
+│   │   │           │       chunk_002.txt
+│   │   │           │       chunk_003.txt
+│   │   │           │       chunk_004.txt
+│   │   │           │       chunk_005.txt
+│   │   │           │       chunk_006.txt
+│   │   │           │       chunk_007.txt
+│   │   │           │       chunk_008.txt
+│   │   │           │       chunk_009.txt
+│   │   │           │       chunk_010.txt
+│   │   │           │
+│   │   │           ├───jess402
+│   │   │           │       chunk_000.txt
+│   │   │           │       chunk_001.txt
+│   │   │           │       chunk_002.txt
+│   │   │           │       chunk_003.txt
+│   │   │           │       chunk_004.txt
+│   │   │           │       chunk_005.txt
+│   │   │           │       chunk_006.txt
+│   │   │           │       chunk_007.txt
+│   │   │           │       chunk_008.txt
+│   │   │           │       chunk_009.txt
+│   │   │           │       chunk_010.txt
+│   │   │           │       chunk_011.txt
+│   │   │           │       chunk_012.txt
+│   │   │           │       chunk_013.txt
+│   │   │           │
+│   │   │           ├───jess403
+│   │   │           │       chunk_000.txt
+│   │   │           │       chunk_001.txt
+│   │   │           │       chunk_002.txt
+│   │   │           │       chunk_003.txt
+│   │   │           │       chunk_004.txt
+│   │   │           │       chunk_005.txt
+│   │   │           │       chunk_006.txt
+│   │   │           │       chunk_007.txt
+│   │   │           │       chunk_008.txt
+│   │   │           │       chunk_009.txt
+│   │   │           │       chunk_010.txt
+│   │   │           │       chunk_011.txt
+│   │   │           │       chunk_012.txt
+│   │   │           │       chunk_013.txt
+│   │   │           │
+│   │   │           ├───jess404
+│   │   │           │       chunk_000.txt
+│   │   │           │       chunk_001.txt
+│   │   │           │       chunk_002.txt
+│   │   │           │       chunk_003.txt
+│   │   │           │       chunk_004.txt
+│   │   │           │       chunk_005.txt
+│   │   │           │       chunk_006.txt
+│   │   │           │       chunk_007.txt
+│   │   │           │       chunk_008.txt
+│   │   │           │       chunk_009.txt
+│   │   │           │       chunk_010.txt
+│   │   │           │       chunk_011.txt
+│   │   │           │       chunk_012.txt
+│   │   │           │       chunk_013.txt
+│   │   │           │       chunk_014.txt
+│   │   │           │       chunk_015.txt
+│   │   │           │
+│   │   │           └───jess405
+│   │   │                   chunk_000.txt
+│   │   │                   chunk_001.txt
+│   │   │                   chunk_002.txt
+│   │   │                   chunk_003.txt
+│   │   │                   chunk_004.txt
+│   │   │                   chunk_005.txt
+│   │   │                   chunk_006.txt
+│   │   │                   chunk_007.txt
+│   │   │                   chunk_008.txt
+│   │   │                   chunk_009.txt
+│   │   │
+│   │   ├───class_6
+│   │   │   ├───english
+│   │   │   │   ├───fepr101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───fepr102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───fepr103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │
+│   │   │   │   ├───fepr104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   └───fepr105
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │           chunk_012.txt
+│   │   │   │           chunk_013.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │   ├───fegp101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │
+│   │   │   │   ├───fegp109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   └───fegp110
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │           chunk_012.txt
+│   │   │   │           chunk_013.txt
+│   │   │   │           chunk_014.txt
+│   │   │   │           chunk_015.txt
+│   │   │   │           chunk_016.txt
+│   │   │   │           chunk_017.txt
+│   │   │   │           chunk_018.txt
+│   │   │   │           chunk_019.txt
+│   │   │   │           chunk_020.txt
+│   │   │   │           chunk_021.txt
+│   │   │   │           chunk_022.txt
+│   │   │   │           chunk_023.txt
+│   │   │   │           chunk_024.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │   ├───fecu101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu110
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │
+│   │   │   │   ├───fecu111
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   └───fecu112
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │       ├───fees101
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │       chunk_013.txt
+│   │   │       │
+│   │   │       ├───fees102
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │
+│   │   │       ├───fees103
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │
+│   │   │       ├───fees104
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │
+│   │   │       ├───fees105
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │
+│   │   │       ├───fees106
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │
+│   │   │       ├───fees107
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │
+│   │   │       ├───fees108
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │
+│   │   │       ├───fees109
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │
+│   │   │       ├───fees110
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │
+│   │   │       ├───fees111
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │
+│   │   │       ├───fees112
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │
+│   │   │       ├───fees113
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │
+│   │   │       └───fees114
+│   │   │               chunk_000.txt
+│   │   │               chunk_001.txt
+│   │   │               chunk_002.txt
+│   │   │               chunk_003.txt
+│   │   │               chunk_004.txt
+│   │   │               chunk_005.txt
+│   │   │
+│   │   ├───class_7
+│   │   │   ├───english
+│   │   │   │   ├───gepr101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │
+│   │   │   │   ├───gepr102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │       chunk_026.txt
+│   │   │   │   │
+│   │   │   │   ├───gepr103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │       chunk_026.txt
+│   │   │   │   │
+│   │   │   │   ├───gepr104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │
+│   │   │   │   ├───gepr105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │
+│   │   │   │   └───gepr1ps
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │   ├───gemh101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh110
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh111
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │
+│   │   │   │   ├───gemh112
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │
+│   │   │   │   └───gemh113
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │   ├───gecu101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu110
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───gecu111
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   └───gecu112
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │           chunk_012.txt
+│   │   │   │           chunk_013.txt
+│   │   │   │           chunk_014.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │       ├───gees101
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │
+│   │   │       ├───gees102
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │
+│   │   │       ├───gees103
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │
+│   │   │       ├───gees104
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │
+│   │   │       ├───gees105
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │       chunk_013.txt
+│   │   │       │       chunk_014.txt
+│   │   │       │       chunk_015.txt
+│   │   │       │       chunk_016.txt
+│   │   │       │
+│   │   │       ├───gees106
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │
+│   │   │       ├───gees107
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │
+│   │   │       ├───gees108
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │
+│   │   │       ├───gees109
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │       chunk_013.txt
+│   │   │       │       chunk_014.txt
+│   │   │       │
+│   │   │       ├───gees110
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │
+│   │   │       ├───gees111
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │
+│   │   │       └───gees112
+│   │   │               chunk_000.txt
+│   │   │               chunk_001.txt
+│   │   │               chunk_002.txt
+│   │   │               chunk_003.txt
+│   │   │               chunk_004.txt
+│   │   │               chunk_005.txt
+│   │   │               chunk_006.txt
+│   │   │               chunk_007.txt
+│   │   │               chunk_008.txt
+│   │   │               chunk_009.txt
+│   │   │               chunk_010.txt
+│   │   │               chunk_011.txt
+│   │   │               chunk_012.txt
+│   │   │
+│   │   ├───class_8
+│   │   │   ├───english
+│   │   │   │   ├───hepr101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │       chunk_026.txt
+│   │   │   │   │       chunk_027.txt
+│   │   │   │   │
+│   │   │   │   ├───hepr102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │       chunk_026.txt
+│   │   │   │   │       chunk_027.txt
+│   │   │   │   │       chunk_028.txt
+│   │   │   │   │       chunk_029.txt
+│   │   │   │   │       chunk_030.txt
+│   │   │   │   │       chunk_031.txt
+│   │   │   │   │
+│   │   │   │   ├───hepr103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │       chunk_026.txt
+│   │   │   │   │       chunk_027.txt
+│   │   │   │   │       chunk_028.txt
+│   │   │   │   │       chunk_029.txt
+│   │   │   │   │
+│   │   │   │   ├───hepr104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │       chunk_020.txt
+│   │   │   │   │       chunk_021.txt
+│   │   │   │   │       chunk_022.txt
+│   │   │   │   │       chunk_023.txt
+│   │   │   │   │       chunk_024.txt
+│   │   │   │   │       chunk_025.txt
+│   │   │   │   │       chunk_026.txt
+│   │   │   │   │       chunk_027.txt
+│   │   │   │   │       chunk_028.txt
+│   │   │   │   │
+│   │   │   │   └───hepr105
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │           chunk_012.txt
+│   │   │   │           chunk_013.txt
+│   │   │   │           chunk_014.txt
+│   │   │   │           chunk_015.txt
+│   │   │   │           chunk_016.txt
+│   │   │   │           chunk_017.txt
+│   │   │   │           chunk_018.txt
+│   │   │   │           chunk_019.txt
+│   │   │   │           chunk_020.txt
+│   │   │   │           chunk_021.txt
+│   │   │   │           chunk_022.txt
+│   │   │   │           chunk_023.txt
+│   │   │   │           chunk_024.txt
+│   │   │   │           chunk_025.txt
+│   │   │   │           chunk_026.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │   ├───hegp101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───hegp102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │
+│   │   │   │   ├───hegp103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │       chunk_018.txt
+│   │   │   │   │       chunk_019.txt
+│   │   │   │   │
+│   │   │   │   ├───hegp104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │
+│   │   │   │   ├───hegp105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │
+│   │   │   │   ├───hegp106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │
+│   │   │   │   └───hegp107
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │           chunk_012.txt
+│   │   │   │           chunk_013.txt
+│   │   │   │           chunk_014.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │   ├───hecu101
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu102
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu103
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu104
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu105
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu106
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu107
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu108
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu109
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu110
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu111
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │       chunk_015.txt
+│   │   │   │   │       chunk_016.txt
+│   │   │   │   │       chunk_017.txt
+│   │   │   │   │
+│   │   │   │   ├───hecu112
+│   │   │   │   │       chunk_000.txt
+│   │   │   │   │       chunk_001.txt
+│   │   │   │   │       chunk_002.txt
+│   │   │   │   │       chunk_003.txt
+│   │   │   │   │       chunk_004.txt
+│   │   │   │   │       chunk_005.txt
+│   │   │   │   │       chunk_006.txt
+│   │   │   │   │       chunk_007.txt
+│   │   │   │   │       chunk_008.txt
+│   │   │   │   │       chunk_009.txt
+│   │   │   │   │       chunk_010.txt
+│   │   │   │   │       chunk_011.txt
+│   │   │   │   │       chunk_012.txt
+│   │   │   │   │       chunk_013.txt
+│   │   │   │   │       chunk_014.txt
+│   │   │   │   │
+│   │   │   │   └───hecu113
+│   │   │   │           chunk_000.txt
+│   │   │   │           chunk_001.txt
+│   │   │   │           chunk_002.txt
+│   │   │   │           chunk_003.txt
+│   │   │   │           chunk_004.txt
+│   │   │   │           chunk_005.txt
+│   │   │   │           chunk_006.txt
+│   │   │   │           chunk_007.txt
+│   │   │   │           chunk_008.txt
+│   │   │   │           chunk_009.txt
+│   │   │   │           chunk_010.txt
+│   │   │   │           chunk_011.txt
+│   │   │   │           chunk_012.txt
+│   │   │   │           chunk_013.txt
+│   │   │   │           chunk_014.txt
+│   │   │   │           chunk_015.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │       ├───hees101
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │
+│   │   │       ├───hees102
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │       chunk_013.txt
+│   │   │       │       chunk_014.txt
+│   │   │       │       chunk_015.txt
+│   │   │       │       chunk_016.txt
+│   │   │       │       chunk_017.txt
+│   │   │       │       chunk_018.txt
+│   │   │       │       chunk_019.txt
+│   │   │       │       chunk_020.txt
+│   │   │       │
+│   │   │       ├───hees103
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │
+│   │   │       ├───hees104
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │       chunk_013.txt
+│   │   │       │       chunk_014.txt
+│   │   │       │       chunk_015.txt
+│   │   │       │       chunk_016.txt
+│   │   │       │       chunk_017.txt
+│   │   │       │       chunk_018.txt
+│   │   │       │       chunk_019.txt
+│   │   │       │       chunk_020.txt
+│   │   │       │
+│   │   │       ├───hees105
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │
+│   │   │       ├───hees106
+│   │   │       │       chunk_000.txt
+│   │   │       │       chunk_001.txt
+│   │   │       │       chunk_002.txt
+│   │   │       │       chunk_003.txt
+│   │   │       │       chunk_004.txt
+│   │   │       │       chunk_005.txt
+│   │   │       │       chunk_006.txt
+│   │   │       │       chunk_007.txt
+│   │   │       │       chunk_008.txt
+│   │   │       │       chunk_009.txt
+│   │   │       │       chunk_010.txt
+│   │   │       │       chunk_011.txt
+│   │   │       │       chunk_012.txt
+│   │   │       │       chunk_013.txt
+│   │   │       │
+│   │   │       └───hees107
+│   │   │               chunk_000.txt
+│   │   │               chunk_001.txt
+│   │   │               chunk_002.txt
+│   │   │               chunk_003.txt
+│   │   │               chunk_004.txt
+│   │   │               chunk_005.txt
+│   │   │               chunk_006.txt
+│   │   │               chunk_007.txt
+│   │   │               chunk_008.txt
+│   │   │               chunk_009.txt
+│   │   │               chunk_010.txt
+│   │   │               chunk_011.txt
+│   │   │
+│   │   └───class_9
+│   │       ├───english
+│   │       │   ├───book1
+│   │       │   │   ├───iebe101
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │       chunk_007.txt
+│   │       │   │   │       chunk_008.txt
+│   │       │   │   │       chunk_009.txt
+│   │       │   │   │       chunk_010.txt
+│   │       │   │   │       chunk_011.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe102
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │       chunk_007.txt
+│   │       │   │   │       chunk_008.txt
+│   │       │   │   │       chunk_009.txt
+│   │       │   │   │       chunk_010.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe103
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe104
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │       chunk_007.txt
+│   │       │   │   │       chunk_008.txt
+│   │       │   │   │       chunk_009.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe105
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │       chunk_007.txt
+│   │       │   │   │       chunk_008.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe106
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │       chunk_007.txt
+│   │       │   │   │       chunk_008.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe107
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │       chunk_007.txt
+│   │       │   │   │       chunk_008.txt
+│   │       │   │   │       chunk_009.txt
+│   │       │   │   │       chunk_010.txt
+│   │       │   │   │
+│   │       │   │   ├───iebe108
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │
+│   │       │   │   └───iebe109
+│   │       │   │           chunk_000.txt
+│   │       │   │           chunk_001.txt
+│   │       │   │           chunk_002.txt
+│   │       │   │           chunk_003.txt
+│   │       │   │           chunk_004.txt
+│   │       │   │           chunk_005.txt
+│   │       │   │           chunk_006.txt
+│   │       │   │           chunk_007.txt
+│   │       │   │
+│   │       │   ├───book2
+│   │       │   │   ├───iemo101
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo102
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo103
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo104
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo105
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │       chunk_005.txt
+│   │       │   │   │       chunk_006.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo106
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo107
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │
+│   │       │   │   ├───iemo108
+│   │       │   │   │       chunk_000.txt
+│   │       │   │   │       chunk_001.txt
+│   │       │   │   │       chunk_002.txt
+│   │       │   │   │       chunk_003.txt
+│   │       │   │   │       chunk_004.txt
+│   │       │   │   │
+│   │       │   │   └───iemo109
+│   │       │   │           chunk_000.txt
+│   │       │   │           chunk_001.txt
+│   │       │   │           chunk_002.txt
+│   │       │   │           chunk_003.txt
+│   │       │   │           chunk_004.txt
+│   │       │   │
+│   │       │   └───book3
+│   │       │       ├───iewe101
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │       chunk_008.txt
+│   │       │       │       chunk_009.txt
+│   │       │       │
+│   │       │       ├───iewe102
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │       chunk_008.txt
+│   │       │       │       chunk_009.txt
+│   │       │       │
+│   │       │       ├───iewe103
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │       chunk_008.txt
+│   │       │       │
+│   │       │       ├───iewe104
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │
+│   │       │       ├───iewe105
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │
+│   │       │       ├───iewe106
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │       chunk_008.txt
+│   │       │       │
+│   │       │       ├───iewe107
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │       chunk_006.txt
+│   │       │       │       chunk_007.txt
+│   │       │       │       chunk_008.txt
+│   │       │       │
+│   │       │       ├───iewe108
+│   │       │       │       chunk_000.txt
+│   │       │       │       chunk_001.txt
+│   │       │       │       chunk_002.txt
+│   │       │       │       chunk_003.txt
+│   │       │       │       chunk_004.txt
+│   │       │       │       chunk_005.txt
+│   │       │       │
+│   │       │       └───iewe109
+│   │       │               chunk_000.txt
+│   │       │               chunk_001.txt
+│   │       │               chunk_002.txt
+│   │       │               chunk_003.txt
+│   │       │               chunk_004.txt
+│   │       │               chunk_005.txt
+│   │       │               chunk_006.txt
+│   │       │               chunk_007.txt
+│   │       │
+│   │       ├───math
+│   │       │   ├───iemh101
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │       chunk_014.txt
+│   │       │   │
+│   │       │   ├───iemh102
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │
+│   │       │   ├───iemh103
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │
+│   │       │   ├───iemh104
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │
+│   │       │   ├───iemh105
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │
+│   │       │   ├───iemh106
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │
+│   │       │   ├───iemh107
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │
+│   │       │   ├───iemh108
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │
+│   │       │   ├───iemh109
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │
+│   │       │   ├───iemh110
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │
+│   │       │   ├───iemh111
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │
+│   │       │   └───iemh112
+│   │       │           chunk_000.txt
+│   │       │           chunk_001.txt
+│   │       │           chunk_002.txt
+│   │       │           chunk_003.txt
+│   │       │           chunk_004.txt
+│   │       │           chunk_005.txt
+│   │       │           chunk_006.txt
+│   │       │
+│   │       ├───science
+│   │       │   ├───iesc101
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │
+│   │       │   ├───iesc102
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │
+│   │       │   ├───iesc103
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │
+│   │       │   ├───iesc104
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │
+│   │       │   ├───iesc105
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │
+│   │       │   ├───iesc106
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │
+│   │       │   ├───iesc107
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │       chunk_014.txt
+│   │       │   │
+│   │       │   ├───iesc108
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │       chunk_014.txt
+│   │       │   │
+│   │       │   ├───iesc109
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │       chunk_014.txt
+│   │       │   │
+│   │       │   ├───iesc110
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │       chunk_014.txt
+│   │       │   │
+│   │       │   ├───iesc111
+│   │       │   │       chunk_000.txt
+│   │       │   │       chunk_001.txt
+│   │       │   │       chunk_002.txt
+│   │       │   │       chunk_003.txt
+│   │       │   │       chunk_004.txt
+│   │       │   │       chunk_005.txt
+│   │       │   │       chunk_006.txt
+│   │       │   │       chunk_007.txt
+│   │       │   │       chunk_008.txt
+│   │       │   │       chunk_009.txt
+│   │       │   │       chunk_010.txt
+│   │       │   │       chunk_011.txt
+│   │       │   │       chunk_012.txt
+│   │       │   │       chunk_013.txt
+│   │       │   │
+│   │       │   └───iesc112
+│   │       │           chunk_000.txt
+│   │       │           chunk_001.txt
+│   │       │           chunk_002.txt
+│   │       │           chunk_003.txt
+│   │       │           chunk_004.txt
+│   │       │           chunk_005.txt
+│   │       │           chunk_006.txt
+│   │       │           chunk_007.txt
+│   │       │           chunk_008.txt
+│   │       │           chunk_009.txt
+│   │       │           chunk_010.txt
+│   │       │           chunk_011.txt
+│   │       │           chunk_012.txt
+│   │       │
+│   │       └───social_science
+│   │           ├───book1
+│   │           │   ├───iess101
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │
+│   │           │   ├───iess102
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │
+│   │           │   ├───iess103
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │
+│   │           │   ├───iess104
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │       chunk_014.txt
+│   │           │   │
+│   │           │   ├───iess105
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │
+│   │           │   └───iess106
+│   │           │           chunk_000.txt
+│   │           │           chunk_001.txt
+│   │           │           chunk_002.txt
+│   │           │           chunk_003.txt
+│   │           │           chunk_004.txt
+│   │           │           chunk_005.txt
+│   │           │           chunk_006.txt
+│   │           │           chunk_007.txt
+│   │           │
+│   │           ├───book2
+│   │           │   ├───iess201
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │       chunk_014.txt
+│   │           │   │       chunk_015.txt
+│   │           │   │
+│   │           │   ├───iess202
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │
+│   │           │   ├───iess203
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │
+│   │           │   └───iess204
+│   │           │           chunk_000.txt
+│   │           │           chunk_001.txt
+│   │           │           chunk_002.txt
+│   │           │           chunk_003.txt
+│   │           │           chunk_004.txt
+│   │           │           chunk_005.txt
+│   │           │           chunk_006.txt
+│   │           │           chunk_007.txt
+│   │           │           chunk_008.txt
+│   │           │           chunk_009.txt
+│   │           │           chunk_010.txt
+│   │           │           chunk_011.txt
+│   │           │
+│   │           ├───book3
+│   │           │   ├───iess301
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │       chunk_014.txt
+│   │           │   │       chunk_015.txt
+│   │           │   │       chunk_016.txt
+│   │           │   │       chunk_017.txt
+│   │           │   │       chunk_018.txt
+│   │           │   │       chunk_019.txt
+│   │           │   │       chunk_020.txt
+│   │           │   │
+│   │           │   ├───iess302
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │       chunk_014.txt
+│   │           │   │       chunk_015.txt
+│   │           │   │       chunk_016.txt
+│   │           │   │       chunk_017.txt
+│   │           │   │       chunk_018.txt
+│   │           │   │       chunk_019.txt
+│   │           │   │       chunk_020.txt
+│   │           │   │       chunk_021.txt
+│   │           │   │       chunk_022.txt
+│   │           │   │
+│   │           │   ├───iess303
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │       chunk_014.txt
+│   │           │   │       chunk_015.txt
+│   │           │   │       chunk_016.txt
+│   │           │   │       chunk_017.txt
+│   │           │   │       chunk_018.txt
+│   │           │   │       chunk_019.txt
+│   │           │   │
+│   │           │   ├───iess304
+│   │           │   │       chunk_000.txt
+│   │           │   │       chunk_001.txt
+│   │           │   │       chunk_002.txt
+│   │           │   │       chunk_003.txt
+│   │           │   │       chunk_004.txt
+│   │           │   │       chunk_005.txt
+│   │           │   │       chunk_006.txt
+│   │           │   │       chunk_007.txt
+│   │           │   │       chunk_008.txt
+│   │           │   │       chunk_009.txt
+│   │           │   │       chunk_010.txt
+│   │           │   │       chunk_011.txt
+│   │           │   │       chunk_012.txt
+│   │           │   │       chunk_013.txt
+│   │           │   │       chunk_014.txt
+│   │           │   │       chunk_015.txt
+│   │           │   │       chunk_016.txt
+│   │           │   │       chunk_017.txt
+│   │           │   │
+│   │           │   └───iess305
+│   │           │           chunk_000.txt
+│   │           │           chunk_001.txt
+│   │           │           chunk_002.txt
+│   │           │           chunk_003.txt
+│   │           │           chunk_004.txt
+│   │           │           chunk_005.txt
+│   │           │           chunk_006.txt
+│   │           │           chunk_007.txt
+│   │           │           chunk_008.txt
+│   │           │           chunk_009.txt
+│   │           │           chunk_010.txt
+│   │           │           chunk_011.txt
+│   │           │           chunk_012.txt
+│   │           │           chunk_013.txt
+│   │           │           chunk_014.txt
+│   │           │           chunk_015.txt
+│   │           │           chunk_016.txt
+│   │           │
+│   │           └───book4
+│   │               ├───iess401
+│   │               │       chunk_000.txt
+│   │               │       chunk_001.txt
+│   │               │       chunk_002.txt
+│   │               │       chunk_003.txt
+│   │               │       chunk_004.txt
+│   │               │       chunk_005.txt
+│   │               │       chunk_006.txt
+│   │               │       chunk_007.txt
+│   │               │       chunk_008.txt
+│   │               │       chunk_009.txt
+│   │               │       chunk_010.txt
+│   │               │       chunk_011.txt
+│   │               │       chunk_012.txt
+│   │               │       chunk_013.txt
+│   │               │       chunk_014.txt
+│   │               │       chunk_015.txt
+│   │               │       chunk_016.txt
+│   │               │       chunk_017.txt
+│   │               │
+│   │               ├───iess402
+│   │               │       chunk_000.txt
+│   │               │       chunk_001.txt
+│   │               │       chunk_002.txt
+│   │               │       chunk_003.txt
+│   │               │       chunk_004.txt
+│   │               │       chunk_005.txt
+│   │               │       chunk_006.txt
+│   │               │       chunk_007.txt
+│   │               │       chunk_008.txt
+│   │               │       chunk_009.txt
+│   │               │       chunk_010.txt
+│   │               │       chunk_011.txt
+│   │               │       chunk_012.txt
+│   │               │       chunk_013.txt
+│   │               │       chunk_014.txt
+│   │               │
+│   │               ├───iess403
+│   │               │       chunk_000.txt
+│   │               │       chunk_001.txt
+│   │               │       chunk_002.txt
+│   │               │       chunk_003.txt
+│   │               │       chunk_004.txt
+│   │               │       chunk_005.txt
+│   │               │       chunk_006.txt
+│   │               │       chunk_007.txt
+│   │               │       chunk_008.txt
+│   │               │       chunk_009.txt
+│   │               │       chunk_010.txt
+│   │               │       chunk_011.txt
+│   │               │       chunk_012.txt
+│   │               │       chunk_013.txt
+│   │               │       chunk_014.txt
+│   │               │       chunk_015.txt
+│   │               │       chunk_016.txt
+│   │               │       chunk_017.txt
+│   │               │       chunk_018.txt
+│   │               │       chunk_019.txt
+│   │               │       chunk_020.txt
+│   │               │
+│   │               ├───iess404
+│   │               │       chunk_000.txt
+│   │               │       chunk_001.txt
+│   │               │       chunk_002.txt
+│   │               │       chunk_003.txt
+│   │               │       chunk_004.txt
+│   │               │       chunk_005.txt
+│   │               │       chunk_006.txt
+│   │               │       chunk_007.txt
+│   │               │       chunk_008.txt
+│   │               │       chunk_009.txt
+│   │               │       chunk_010.txt
+│   │               │       chunk_011.txt
+│   │               │       chunk_012.txt
+│   │               │       chunk_013.txt
+│   │               │       chunk_014.txt
+│   │               │       chunk_015.txt
+│   │               │       chunk_016.txt
+│   │               │       chunk_017.txt
+│   │               │       chunk_018.txt
+│   │               │
+│   │               └───iess405
+│   │                       chunk_000.txt
+│   │                       chunk_001.txt
+│   │                       chunk_002.txt
+│   │                       chunk_003.txt
+│   │                       chunk_004.txt
+│   │                       chunk_005.txt
+│   │                       chunk_006.txt
+│   │                       chunk_007.txt
+│   │                       chunk_008.txt
+│   │                       chunk_009.txt
+│   │                       chunk_010.txt
+│   │                       chunk_011.txt
+│   │                       chunk_012.txt
+│   │                       chunk_013.txt
+│   │                       chunk_014.txt
+│   │                       chunk_015.txt
+│   │                       chunk_016.txt
+│   │                       chunk_017.txt
+│   │
+│   ├───embeddings
+│   │       chunks_embeddings.pkl
+│   │
+│   ├───extracted_text
+│   │   ├───class_10
+│   │   │   ├───english
+│   │   │   │   ├───book1
+│   │   │   │   │       jeff101.txt
+│   │   │   │   │       jeff102.txt
+│   │   │   │   │       jeff103.txt
+│   │   │   │   │       jeff104.txt
+│   │   │   │   │       jeff105.txt
+│   │   │   │   │       jeff106.txt
+│   │   │   │   │       jeff107.txt
+│   │   │   │   │       jeff108.txt
+│   │   │   │   │       jeff109.txt
+│   │   │   │   │
+│   │   │   │   └───book2
+│   │   │   │           jefp101.txt
+│   │   │   │           jefp102.txt
+│   │   │   │           jefp103.txt
+│   │   │   │           jefp104.txt
+│   │   │   │           jefp105.txt
+│   │   │   │           jefp106.txt
+│   │   │   │           jefp107.txt
+│   │   │   │           jefp108.txt
+│   │   │   │           jefp109.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │       jemh101.txt
+│   │   │   │       jemh102.txt
+│   │   │   │       jemh103.txt
+│   │   │   │       jemh104.txt
+│   │   │   │       jemh105.txt
+│   │   │   │       jemh106.txt
+│   │   │   │       jemh107.txt
+│   │   │   │       jemh108.txt
+│   │   │   │       jemh109.txt
+│   │   │   │       jemh110.txt
+│   │   │   │       jemh111.txt
+│   │   │   │       jemh112.txt
+│   │   │   │       jemh113.txt
+│   │   │   │       jemh114.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │       jesc101.txt
+│   │   │   │       jesc102.txt
+│   │   │   │       jesc103.txt
+│   │   │   │       jesc104.txt
+│   │   │   │       jesc105.txt
+│   │   │   │       jesc106.txt
+│   │   │   │       jesc107.txt
+│   │   │   │       jesc108.txt
+│   │   │   │       jesc109.txt
+│   │   │   │       jesc110.txt
+│   │   │   │       jesc111.txt
+│   │   │   │       jesc112.txt
+│   │   │   │       jesc113.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │       ├───book1
+│   │   │       │       jess101.txt
+│   │   │       │       jess102.txt
+│   │   │       │       jess103.txt
+│   │   │       │       jess104.txt
+│   │   │       │       jess105.txt
+│   │   │       │       jess106.txt
+│   │   │       │       jess107.txt
+│   │   │       │
+│   │   │       ├───book2
+│   │   │       │       jess201.txt
+│   │   │       │       jess202.txt
+│   │   │       │       jess203.txt
+│   │   │       │       jess204.txt
+│   │   │       │       jess205.txt
+│   │   │       │
+│   │   │       ├───book3
+│   │   │       │       jess301.txt
+│   │   │       │       jess302.txt
+│   │   │       │       jess303.txt
+│   │   │       │       jess304.txt
+│   │   │       │       jess305.txt
+│   │   │       │
+│   │   │       └───book4
+│   │   │               jess401.txt
+│   │   │               jess402.txt
+│   │   │               jess403.txt
+│   │   │               jess404.txt
+│   │   │               jess405.txt
+│   │   │
+│   │   ├───class_6
+│   │   │   ├───english
+│   │   │   │       fepr101.txt
+│   │   │   │       fepr102.txt
+│   │   │   │       fepr103.txt
+│   │   │   │       fepr104.txt
+│   │   │   │       fepr105.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │       fegp101.txt
+│   │   │   │       fegp102.txt
+│   │   │   │       fegp103.txt
+│   │   │   │       fegp104.txt
+│   │   │   │       fegp105.txt
+│   │   │   │       fegp106.txt
+│   │   │   │       fegp107.txt
+│   │   │   │       fegp108.txt
+│   │   │   │       fegp109.txt
+│   │   │   │       fegp110.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │       fecu101.txt
+│   │   │   │       fecu102.txt
+│   │   │   │       fecu103.txt
+│   │   │   │       fecu104.txt
+│   │   │   │       fecu105.txt
+│   │   │   │       fecu106.txt
+│   │   │   │       fecu107.txt
+│   │   │   │       fecu108.txt
+│   │   │   │       fecu109.txt
+│   │   │   │       fecu110.txt
+│   │   │   │       fecu111.txt
+│   │   │   │       fecu112.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │           fees101.txt
+│   │   │           fees102.txt
+│   │   │           fees103.txt
+│   │   │           fees104.txt
+│   │   │           fees105.txt
+│   │   │           fees106.txt
+│   │   │           fees107.txt
+│   │   │           fees108.txt
+│   │   │           fees109.txt
+│   │   │           fees110.txt
+│   │   │           fees111.txt
+│   │   │           fees112.txt
+│   │   │           fees113.txt
+│   │   │           fees114.txt
+│   │   │
+│   │   ├───class_7
+│   │   │   ├───english
+│   │   │   │       gepr101.txt
+│   │   │   │       gepr102.txt
+│   │   │   │       gepr103.txt
+│   │   │   │       gepr104.txt
+│   │   │   │       gepr105.txt
+│   │   │   │       gepr1ps.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │       gemh101.txt
+│   │   │   │       gemh102.txt
+│   │   │   │       gemh103.txt
+│   │   │   │       gemh104.txt
+│   │   │   │       gemh105.txt
+│   │   │   │       gemh106.txt
+│   │   │   │       gemh107.txt
+│   │   │   │       gemh108.txt
+│   │   │   │       gemh109.txt
+│   │   │   │       gemh110.txt
+│   │   │   │       gemh111.txt
+│   │   │   │       gemh112.txt
+│   │   │   │       gemh113.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │       gecu101.txt
+│   │   │   │       gecu102.txt
+│   │   │   │       gecu103.txt
+│   │   │   │       gecu104.txt
+│   │   │   │       gecu105.txt
+│   │   │   │       gecu106.txt
+│   │   │   │       gecu107.txt
+│   │   │   │       gecu108.txt
+│   │   │   │       gecu109.txt
+│   │   │   │       gecu110.txt
+│   │   │   │       gecu111.txt
+│   │   │   │       gecu112.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │           gees101.txt
+│   │   │           gees102.txt
+│   │   │           gees103.txt
+│   │   │           gees104.txt
+│   │   │           gees105.txt
+│   │   │           gees106.txt
+│   │   │           gees107.txt
+│   │   │           gees108.txt
+│   │   │           gees109.txt
+│   │   │           gees110.txt
+│   │   │           gees111.txt
+│   │   │           gees112.txt
+│   │   │
+│   │   ├───class_8
+│   │   │   ├───english
+│   │   │   │       hepr101.txt
+│   │   │   │       hepr102.txt
+│   │   │   │       hepr103.txt
+│   │   │   │       hepr104.txt
+│   │   │   │       hepr105.txt
+│   │   │   │
+│   │   │   ├───math
+│   │   │   │       hegp101.txt
+│   │   │   │       hegp102.txt
+│   │   │   │       hegp103.txt
+│   │   │   │       hegp104.txt
+│   │   │   │       hegp105.txt
+│   │   │   │       hegp106.txt
+│   │   │   │       hegp107.txt
+│   │   │   │
+│   │   │   ├───science
+│   │   │   │       hecu101.txt
+│   │   │   │       hecu102.txt
+│   │   │   │       hecu103.txt
+│   │   │   │       hecu104.txt
+│   │   │   │       hecu105.txt
+│   │   │   │       hecu106.txt
+│   │   │   │       hecu107.txt
+│   │   │   │       hecu108.txt
+│   │   │   │       hecu109.txt
+│   │   │   │       hecu110.txt
+│   │   │   │       hecu111.txt
+│   │   │   │       hecu112.txt
+│   │   │   │       hecu113.txt
+│   │   │   │
+│   │   │   └───social_science
+│   │   │           hees101.txt
+│   │   │           hees102.txt
+│   │   │           hees103.txt
+│   │   │           hees104.txt
+│   │   │           hees105.txt
+│   │   │           hees106.txt
+│   │   │           hees107.txt
+│   │   │
+│   │   └───class_9
+│   │       ├───english
+│   │       │   ├───book1
+│   │       │   │       iebe101.txt
+│   │       │   │       iebe102.txt
+│   │       │   │       iebe103.txt
+│   │       │   │       iebe104.txt
+│   │       │   │       iebe105.txt
+│   │       │   │       iebe106.txt
+│   │       │   │       iebe107.txt
+│   │       │   │       iebe108.txt
+│   │       │   │       iebe109.txt
+│   │       │   │
+│   │       │   ├───book2
+│   │       │   │       iemo101.txt
+│   │       │   │       iemo102.txt
+│   │       │   │       iemo103.txt
+│   │       │   │       iemo104.txt
+│   │       │   │       iemo105.txt
+│   │       │   │       iemo106.txt
+│   │       │   │       iemo107.txt
+│   │       │   │       iemo108.txt
+│   │       │   │       iemo109.txt
+│   │       │   │
+│   │       │   └───book3
+│   │       │           iewe101.txt
+│   │       │           iewe102.txt
+│   │       │           iewe103.txt
+│   │       │           iewe104.txt
+│   │       │           iewe105.txt
+│   │       │           iewe106.txt
+│   │       │           iewe107.txt
+│   │       │           iewe108.txt
+│   │       │           iewe109.txt
+│   │       │
+│   │       ├───math
+│   │       │       iemh101.txt
+│   │       │       iemh102.txt
+│   │       │       iemh103.txt
+│   │       │       iemh104.txt
+│   │       │       iemh105.txt
+│   │       │       iemh106.txt
+│   │       │       iemh107.txt
+│   │       │       iemh108.txt
+│   │       │       iemh109.txt
+│   │       │       iemh110.txt
+│   │       │       iemh111.txt
+│   │       │       iemh112.txt
+│   │       │
+│   │       ├───science
+│   │       │       iesc101.txt
+│   │       │       iesc102.txt
+│   │       │       iesc103.txt
+│   │       │       iesc104.txt
+│   │       │       iesc105.txt
+│   │       │       iesc106.txt
+│   │       │       iesc107.txt
+│   │       │       iesc108.txt
+│   │       │       iesc109.txt
+│   │       │       iesc110.txt
+│   │       │       iesc111.txt
+│   │       │       iesc112.txt
+│   │       │
+│   │       └───social_science
+│   │           ├───book1
+│   │           │       iess101.txt
+│   │           │       iess102.txt
+│   │           │       iess103.txt
+│   │           │       iess104.txt
+│   │           │       iess105.txt
+│   │           │       iess106.txt
+│   │           │
+│   │           ├───book2
+│   │           │       iess201.txt
+│   │           │       iess202.txt
+│   │           │       iess203.txt
+│   │           │       iess204.txt
+│   │           │
+│   │           ├───book3
+│   │           │       iess301.txt
+│   │           │       iess302.txt
+│   │           │       iess303.txt
+│   │           │       iess304.txt
+│   │           │       iess305.txt
+│   │           │
+│   │           └───book4
+│   │                   iess401.txt
+│   │                   iess402.txt
+│   │                   iess403.txt
+│   │                   iess404.txt
+│   │                   iess405.txt
+│   │
+│   ├───faiss_index
+│   │       index.faiss
+│   │
+│   └───raw_pdfs
+│       ├───class_10
+│       │   ├───english
+│       │   │   ├───book1
+│       │   │   │       jeff101.pdf
+│       │   │   │       jeff102.pdf
+│       │   │   │       jeff103.pdf
+│       │   │   │       jeff104.pdf
+│       │   │   │       jeff105.pdf
+│       │   │   │       jeff106.pdf
+│       │   │   │       jeff107.pdf
+│       │   │   │       jeff108.pdf
+│       │   │   │       jeff109.pdf
+│       │   │   │
+│       │   │   └───book2
+│       │   │           jefp101.pdf
+│       │   │           jefp102.pdf
+│       │   │           jefp103.pdf
+│       │   │           jefp104.pdf
+│       │   │           jefp105.pdf
+│       │   │           jefp106.pdf
+│       │   │           jefp107.pdf
+│       │   │           jefp108.pdf
+│       │   │           jefp109.pdf
+│       │   │
+│       │   ├───math
+│       │   │       jemh101.pdf
+│       │   │       jemh102.pdf
+│       │   │       jemh103.pdf
+│       │   │       jemh104.pdf
+│       │   │       jemh105.pdf
+│       │   │       jemh106.pdf
+│       │   │       jemh107.pdf
+│       │   │       jemh108.pdf
+│       │   │       jemh109.pdf
+│       │   │       jemh110.pdf
+│       │   │       jemh111.pdf
+│       │   │       jemh112.pdf
+│       │   │       jemh113.pdf
+│       │   │       jemh114.pdf
+│       │   │
+│       │   ├───science
+│       │   │       jesc101.pdf
+│       │   │       jesc102.pdf
+│       │   │       jesc103.pdf
+│       │   │       jesc104.pdf
+│       │   │       jesc105.pdf
+│       │   │       jesc106.pdf
+│       │   │       jesc107.pdf
+│       │   │       jesc108.pdf
+│       │   │       jesc109.pdf
+│       │   │       jesc110.pdf
+│       │   │       jesc111.pdf
+│       │   │       jesc112.pdf
+│       │   │       jesc113.pdf
+│       │   │
+│       │   └───social_science
+│       │       ├───book1
+│       │       │       jess101.pdf
+│       │       │       jess102.pdf
+│       │       │       jess103.pdf
+│       │       │       jess104.pdf
+│       │       │       jess105.pdf
+│       │       │       jess106.pdf
+│       │       │       jess107.pdf
+│       │       │
+│       │       ├───book2
+│       │       │       jess201.pdf
+│       │       │       jess202.pdf
+│       │       │       jess203.pdf
+│       │       │       jess204.pdf
+│       │       │       jess205.pdf
+│       │       │
+│       │       ├───book3
+│       │       │       jess301.pdf
+│       │       │       jess302.pdf
+│       │       │       jess303.pdf
+│       │       │       jess304.pdf
+│       │       │       jess305.pdf
+│       │       │
+│       │       └───book4
+│       │               jess401.pdf
+│       │               jess402.pdf
+│       │               jess403.pdf
+│       │               jess404.pdf
+│       │               jess405.pdf
+│       │
+│       ├───class_6
+│       │   ├───english
+│       │   │       fepr101.pdf
+│       │   │       fepr102.pdf
+│       │   │       fepr103.pdf
+│       │   │       fepr104.pdf
+│       │   │       fepr105.pdf
+│       │   │
+│       │   ├───math
+│       │   │       fegp101.pdf
+│       │   │       fegp102.pdf
+│       │   │       fegp103.pdf
+│       │   │       fegp104.pdf
+│       │   │       fegp105.pdf
+│       │   │       fegp106.pdf
+│       │   │       fegp107.pdf
+│       │   │       fegp108.pdf
+│       │   │       fegp109.pdf
+│       │   │       fegp110.pdf
+│       │   │
+│       │   ├───science
+│       │   │       fecu101.pdf
+│       │   │       fecu102.pdf
+│       │   │       fecu103.pdf
+│       │   │       fecu104.pdf
+│       │   │       fecu105.pdf
+│       │   │       fecu106.pdf
+│       │   │       fecu107.pdf
+│       │   │       fecu108.pdf
+│       │   │       fecu109.pdf
+│       │   │       fecu110.pdf
+│       │   │       fecu111.pdf
+│       │   │       fecu112.pdf
+│       │   │
+│       │   └───social_science
+│       │           fees101.pdf
+│       │           fees102.pdf
+│       │           fees103.pdf
+│       │           fees104.pdf
+│       │           fees105.pdf
+│       │           fees106.pdf
+│       │           fees107.pdf
+│       │           fees108.pdf
+│       │           fees109.pdf
+│       │           fees110.pdf
+│       │           fees111.pdf
+│       │           fees112.pdf
+│       │           fees113.pdf
+│       │           fees114.pdf
+│       │
+│       ├───class_7
+│       │   ├───english
+│       │   │       gepr101.pdf
+│       │   │       gepr102.pdf
+│       │   │       gepr103.pdf
+│       │   │       gepr104.pdf
+│       │   │       gepr105.pdf
+│       │   │       gepr1ps.pdf
+│       │   │
+│       │   ├───math
+│       │   │       gemh101.pdf
+│       │   │       gemh102.pdf
+│       │   │       gemh103.pdf
+│       │   │       gemh104.pdf
+│       │   │       gemh105.pdf
+│       │   │       gemh106.pdf
+│       │   │       gemh107.pdf
+│       │   │       gemh108.pdf
+│       │   │       gemh109.pdf
+│       │   │       gemh110.pdf
+│       │   │       gemh111.pdf
+│       │   │       gemh112.pdf
+│       │   │       gemh113.pdf
+│       │   │
+│       │   ├───science
+│       │   │       gecu101.pdf
+│       │   │       gecu102.pdf
+│       │   │       gecu103.pdf
+│       │   │       gecu104.pdf
+│       │   │       gecu105.pdf
+│       │   │       gecu106.pdf
+│       │   │       gecu107.pdf
+│       │   │       gecu108.pdf
+│       │   │       gecu109.pdf
+│       │   │       gecu110.pdf
+│       │   │       gecu111.pdf
+│       │   │       gecu112.pdf
+│       │   │
+│       │   └───social_science
+│       │           gees101.pdf
+│       │           gees102.pdf
+│       │           gees103.pdf
+│       │           gees104.pdf
+│       │           gees105.pdf
+│       │           gees106.pdf
+│       │           gees107.pdf
+│       │           gees108.pdf
+│       │           gees109.pdf
+│       │           gees110.pdf
+│       │           gees111.pdf
+│       │           gees112.pdf
+│       │
+│       ├───class_8
+│       │   ├───english
+│       │   │       hepr101.pdf
+│       │   │       hepr102.pdf
+│       │   │       hepr103.pdf
+│       │   │       hepr104.pdf
+│       │   │       hepr105.pdf
+│       │   │
+│       │   ├───math
+│       │   │       hegp101.pdf
+│       │   │       hegp102.pdf
+│       │   │       hegp103.pdf
+│       │   │       hegp104.pdf
+│       │   │       hegp105.pdf
+│       │   │       hegp106.pdf
+│       │   │       hegp107.pdf
+│       │   │
+│       │   ├───science
+│       │   │       hecu101.pdf
+│       │   │       hecu102.pdf
+│       │   │       hecu103.pdf
+│       │   │       hecu104.pdf
+│       │   │       hecu105.pdf
+│       │   │       hecu106.pdf
+│       │   │       hecu107.pdf
+│       │   │       hecu108.pdf
+│       │   │       hecu109.pdf
+│       │   │       hecu110.pdf
+│       │   │       hecu111.pdf
+│       │   │       hecu112.pdf
+│       │   │       hecu113.pdf
+│       │   │
+│       │   └───social_science
+│       │           hees101.pdf
+│       │           hees102.pdf
+│       │           hees103.pdf
+│       │           hees104.pdf
+│       │           hees105.pdf
+│       │           hees106.pdf
+│       │           hees107.pdf
+│       │
+│       └───class_9
+│           ├───english
+│           │   ├───book1
+│           │   │       iebe101.pdf
+│           │   │       iebe102.pdf
+│           │   │       iebe103.pdf
+│           │   │       iebe104.pdf
+│           │   │       iebe105.pdf
+│           │   │       iebe106.pdf
+│           │   │       iebe107.pdf
+│           │   │       iebe108.pdf
+│           │   │       iebe109.pdf
+│           │   │
+│           │   ├───book2
+│           │   │       iemo101.pdf
+│           │   │       iemo102.pdf
+│           │   │       iemo103.pdf
+│           │   │       iemo104.pdf
+│           │   │       iemo105.pdf
+│           │   │       iemo106.pdf
+│           │   │       iemo107.pdf
+│           │   │       iemo108.pdf
+│           │   │       iemo109.pdf
+│           │   │
+│           │   └───book3
+│           │           iewe101.pdf
+│           │           iewe102.pdf
+│           │           iewe103.pdf
+│           │           iewe104.pdf
+│           │           iewe105.pdf
+│           │           iewe106.pdf
+│           │           iewe107.pdf
+│           │           iewe108.pdf
+│           │           iewe109.pdf
+│           │
+│           ├───math
+│           │       iemh101.pdf
+│           │       iemh102.pdf
+│           │       iemh103.pdf
+│           │       iemh104.pdf
+│           │       iemh105.pdf
+│           │       iemh106.pdf
+│           │       iemh107.pdf
+│           │       iemh108.pdf
+│           │       iemh109.pdf
+│           │       iemh110.pdf
+│           │       iemh111.pdf
+│           │       iemh112.pdf
+│           │
+│           ├───science
+│           │       iesc101.pdf
+│           │       iesc102.pdf
+│           │       iesc103.pdf
+│           │       iesc104.pdf
+│           │       iesc105.pdf
+│           │       iesc106.pdf
+│           │       iesc107.pdf
+│           │       iesc108.pdf
+│           │       iesc109.pdf
+│           │       iesc110.pdf
+│           │       iesc111.pdf
+│           │       iesc112.pdf
+│           │
+│           └───social_science
+│               ├───book1
+│               │       iess101.pdf
+│               │       iess102.pdf
+│               │       iess103.pdf
+│               │       iess104.pdf
+│               │       iess105.pdf
+│               │       iess106.pdf
+│               │
+│               ├───book2
+│               │       iess201.pdf
+│               │       iess202.pdf
+│               │       iess203.pdf
+│               │       iess204.pdf
+│               │
+│               ├───book3
+│               │       iess301.pdf
+│               │       iess302.pdf
+│               │       iess303.pdf
+│               │       iess304.pdf
+│               │       iess305.pdf
+│               │
+│               └───book4
+│                       iess401.pdf
+│                       iess402.pdf
+│                       iess403.pdf
+│                       iess404.pdf
+│                       iess405.pdf
+│
+├───models
+│   ├───embedding_model
+│   └───ollama
+│           OllamaSetup.exe
+│
+└───rag
+    ├───main
+    │   │   embed.py
+    │   │   index.py
+    │   │   local_llm.py
+    │   │   retrieve.py
+    │   │
+    │   └───__pycache__
+    │           answer.cpython-313.pyc
+    │           local_llm.cpython-313.pyc
+    │           retrieve.cpython-313.pyc
+    │
+    └───utlis
+            check_imports.py
+            chunker.py
+            ocr.py
+            text_audit.py
+            text_cleaner.py
+
+PS C:\Users\faizan>}

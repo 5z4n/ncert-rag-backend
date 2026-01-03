@@ -1,0 +1,687 @@
+Perimeter and
+Area eg
+
+Chapter 9
+
+9.1 AREA OF A PARALLELOGRAM
+
+We come across many shapes other than squares and rectangles.
+How will you find the area of a land which is a parallelogram in shape?
+Let us find a method to get the area of a parallelogram.
+
+Can a parallelogram be converted into a rectangle of equal area?
+
+Draw a parallelogram on a graph paper as shown in Fig 9.1(4). Cut out the
+parallelogram. Draw a line from one vertex of the parallelogram perpendicular to the
+opposite side [Fig 9.1(11)]. Cut out the triangle. Move the triangle to the other side of the
+parallelogram.
+
+@) (ii) (iit)
+Fig 9.1
+
+What shape do you get? You get a rectangle.
+Is the area of the parallelogram equal to the area
+
+of the rectangle formed? : Loh ~> breadth
+Yes, area of the parallelogram = area of the ral q ~ height
+rectangle formed me L dats
+
+What are the length and the breadth of the
+
+rectangle?
+
+Fig 9.2
+
+2024-25
+
+PERIMETER AND AREA ii
+
+We find that the length of the rectangle formed is equal to the base of the parallelogram
+and the breadth of the rectangle is equal to the height of the parallelogram (Fig 9.2).
+Now, Area of parallelogram = Area of rectangle
+
+= length x breadth =/xb
+
+But the length / and breadth b of the rectangle are exactly the
+base b and the height h, respectively of the parallelogram.
+Thus, the area of parallelogram = base x height = b xh.
+
+Any side of a parallelogram can be chosen as base of the
+parallelogram. The perpendicular dropped on that side from the opposite
+vertex is known as height (altitude). In the parallelogram ABCD, DEis height ~~
+Cc perpendicular to AB. Here AB is the A
+base and DE is the height of the
+parallelogram.
+
+In this parallelogram ABCD, BF is the
+
+perpendicular to opposite side AD. Here AD is the
+base and BF is the height.
+
+Consider the following parallelograms (Fig 9.2).
+
+EET
+
+Fig 9.3
+
+Find the areas of the parallelograms by counting the squares enclosed within the figures
+and also find the perimeters by measuring the sides.
+
+2024-25
+
+EE CE emarics
+
+Complete the following table:
+
+Parallelogram Perimeter
+[sis | sonis | Segunie |
+
+You will find that all these parallelograms have equal areas but different perimeters. Now,
+consider the following parallelograms with sides 7 cm and 5 cm (Fig 9.4).
+
+Fig 9.4
+Find the perimeter and area of each of these parallelograms. Analyse your results.
+You will find that these parallelograms have different areas but equal perimeters.
+To find the area of a parallelogram, you need to know only the base and the
+corresponding height of the parallelogram.
+
+2024-25
+
+PERIMETER AND AREA ii, yo
+
+Try THESE
+
+Find the area of following parallelograms:
+
+8 cm
+8 cm
+
+(ii) Inaparallelogram ABCD, AB =7.2 cm and the perpendicular from C on AB is 4.5 cm.
+
+9.2 AREA OF A TRIANGLE
+
+A gardener wants to know the cost of covering the whole of a triangular
+garden with grass.
+
+In this case we need to know the area of the triangular region.
+Let us find a method to get the area of a triangle.
+
+Draw a scalene triangle on a piece of paper. Cut out the triangle.
+Place this triangle on another piece of paper and cut out another
+triangle of the same size.
+
+So now you have two scalene triangles of the same size.
+
+Are both the triangles congruent?
+
+Superpose one triangle on the other so that they match.
+You may have to rotate one of the two triangles.
+
+Now place both the triangles such that a pair of corresponding
+sides is joined as shown in Fig 9.5.
+
+Is the figure thus formed a parallelogram?
+Compare the area of each triangle to the area of the
+parallelogram.
+
+Compare the base and height of the triangles with the base
+and height of the parallelogram.
+
+You will find that the sum of the areas of both the triangles is
+equal to the area of the parallelogram. The base and the height
+of the triangle are the same as the base and the height of the
+parallelogram, respectively.
+Area of each triangle = Oy (Area of parallelogram)
+Oy (base X height) (Since area of a parallelogram = base X height)
+
+1 1
+5 (bxh) (or 5 bh , in short)
+
+2024-25
+
+CE emarics
+
+1. Try the above activity with different types of triangles.
+
+2. Take different parallelograms. Divide each of the parallelograms into two triangles
+by cutting along any of its diagonals. Are the triangles congruent?
+
+In the figure (Fig 9.6) all the triangles are on the base
+AB =6cm.
+
+What can you say about the height of each of the
+
+triangles corresponding to the base AB?
+
+Can we say all the triangles are equal in area? Yes.
+
+Are the triangles congruent also? No.
+
+We conclude that all the congruent triangles
+are equal in area but the triangles equal in area Fig 9.6
+need not be congruent.
+
+oo Consider the obtuse-angled triangle ABC of base 6 cm (Fig 9.7).
+
+Its height AD which is perpendicular from the vertex A is outside the
+triangle.
+
+a Can you find the area of the triangle?
+
+Bt is a GS parallelogram are 4 cm and 3 cm respectively. Find the
+HG EG GG TE Ec area of the parallelogram (Fig 9.8).
+Fig 9.7
+
+SOLUTION Given that length of base (b) = 4 cm, height (h) = 3 cm
+Area of the parallelogram = b x h
+=4cmX3cm=12 cm 
+
+EXAMPLE 2 Find the height x if the area of the
+parallelogram is 24 cm? and the base is 4cm
+4cm. Fig 9.8
+SOLUTION Area of parallelogram = b x h
+ Therefore,24 = 4 x x (Fig 9.9)
+Nas
+or 4 =xor x=6cm
+
+Fig 9.9 So, the height of the parallelogram is 6 cm.
+
+2024-25
+
+PERIMETER AND AREA ii. oo
+
+EXAMPLE 3The two sides of the parallelogram ABCD are 6 cm and 4 cm. The height
+corresponding to the base CD is 3 cm (Fig 9.10). Find the
+
+(i) area of the parallelogram. (ii) the height corresponding to the base AD.
+SOLUTION
+(i) Area of parallelogram = b x h
+
+=6cmx3cm=18 cm
+
+(il) base (b) = 4cm, height = x (say),
+Area = 18 cm? A
+Area of parallelogram = b x x
+18=4
+xx %
+ _y, ry
+4 D 6cm C
+Therefore, x=4.5cm Fig 9.10
+
+Thus, the height corresponding to base AD is 4.5 cm.
+EXAMPLE 4 Find the area of the following triangles (Fig 9.11).
+
+P
+Q S 4cm R
+(i) Fig 9.11
+SOLUTION
+; ; 1 1
+(i) Areaoftriangle = 5 Dh = 5 X QR X PS
+= 7 4 omx2 om =4cm?
+1 1
+(i) Areaoftriangle = 5 Ph = 5 x MN x LO
+= 3 <3emx 2 cm = 3 cm?
+
+2024-25
+
+EE semarics
+
+EXAMPLE 5 Find BC, ifthe area of the triangle ABC A
+is 36 cm and the height AD is 3 cm
+(Fig 9.12).
+SOLUTION _ Height =3 cm, Area=36 cm? B C
+Fig 9.12
+Area of the triangle ABC = > bh
+or 36 = 5X63 ie., b=
+So, BC =24cm
+
+EXAMPLE 6 In APQR, PR=8cm, QR=4
+cm and PL =5 cm (Fig 9.13).
+
+(i) the area of the APQR :
+ji) QM a
+SOLUTION
+
+(i) QR = base =4cm, PL=height =5 cm
+Area of the triangle PQR = 5 bh
+
+I
+(ii) PR=base =8 cm QM = height =? Area = 10 cm?
+
+4cmx5cm = 10cm?
+
+1 1
+Area of triangle = 3X Pxh ie, 10= 7X 8xh
+
+| 10
+mA nit
+
+=2.5. So, QM = 2.5 cm
+
+N|]n
+
+2024-25
+
+PERIMETER AND AREA iii i
+
+EXERCISE 9.1
+
+1. Find the area of each of the following parallelograms:
+
+ys em
+
+=
+
+(b) (c)
+
+gt
+
+(e)
+
+2. Find the area of each of the following triangles:
+
+4cm 3cm 3 cm
+
+(a) (b) (c) (d)
+
+3. Find the missing values:
+
+[SRO [Base [Han [Area the Paral
+ee
+
+fr
+fe
+Pa [seem > [1638em?
+
+2024-25
+
+EE ee i Hemarics
+
+4. Find the missing values:
+[Base | Height | Arcaofriangle] 0
+
+Pisem | [tow
+22cm 170.5 cm? s M R
+Fig 9.14
+
+5. PQRS is a parallelogram (Fig 9.14). QM is the
+height from Q to SR and QN is the height from Q
+to PS. If SR = 12 cm and QM = 7.6 cm. Find: M
+
+(a) the area of the parallegram PQRS
+(b) QN, if PS = 8 cm |
+
+A B
+6. DLand BM are the heights on sides AB and AD - 9.15
+respectively of parallelogram ABCD (Fig 9.15). If ,
+the area of the parallelogram is 1470 cm , AB = 35 cm and AD =
+49 cm, find the length of BM and DL.
+
+7. AABC is right angled at A (Fig 9.16). AD is perpendicular to BC. If AB =5 cm,
+BC = 13 cm and AC = 12 cm, Find the area of AABC. Also find the length of
+
+B D 43cm Cc
+Fig 9.16 Fig 9.17
+
+8. AABC is isosceles with AB = AC =7.5 cm and BC = 9 cm (Fig 9.17). The height
+AD from A to BC, is 6 cm. Find the area of AABC. What will be the height from C
+to AB i.e., CE?
+
+9.3 CIRCLES
+
+A racing track is semi-circular at both ends (Fig 9.18).
+Can you find the distance covered by an athlete if
+
+he takes two rounds of a racing track? We need to find
+
+a method to find the distances around when a shape is
+circular.
+
+Fig 9.18
+
+2024-25
+
+PERIMETER AND AREA ii Er
+
+9.3.1 Circumference of a Circle
+
+Tanya cut different cards, in curved shape from a cardboard. She wants to put lace around
+to decorate these cards. What length of the lace does she require for each? (Fig 9.19)
+
+0 Oo 
+
+(a)
+Fig oe.
+
+You cannot measure the curves with the help of a ruler, as these figures are not straight . Fig 9.20
+What can you do?
+
+Here is a way to find the length of lace required for shape in
+Fig 9.19(a). Mark a point on the edge of the card and place the
+card on the table. Mark the position of the point on the table also B
+(Fig 9. 20).
+Now roll the circular card on the table along a straight line till Fig 9.21
+
+the marked point again touches the table. Measure the distance
+along the line. This is the length of the lace required (Fig 9.21). It is also the distance along
+the edge of the card from the marked point back to the marked point.
+
+You can also find the distance by putting a string on the edge of the circular object and
+taking all round it.
+
+The distance around a circular region is known as its circumference.
+
+Take a bottle cap, a bangle or any other circular object and find the circumference.
+
+Now, can you find the distance covered by the athlete on the track by this method?
+
+Still, it will be very difficult to find the distance around the track or any other circular .
+object by measuring through string. Moreover, the measurement will not be accurate. LAL . d
+
+So, we need some formula for this, as we have for rectilinear figures or shapes. 2a
+
+Let us see if there is any relationship between the diameter and the circumference of
+the circles.
+
+Consider the following table: Draw six circles of different radii and find their circumference
+by using string. Also find the ratio of the circumference to the diameter.
+
+Circle Diameter | Circumference Ratio of Circumference
+to Diameter
+
+3.5cm 7.0cm 22.0cm Sa 3.14
+
+2024-25
+
+EE i emarics
+
+7.0cm 14.0cm 44.0cm =3.14
+
+[oa [ate [ge
+==
+io
+
+What do you infer from the above table? Is this ratio approximately the same? Yes.
+
+Can you say that the circumference of a circle is always more than three times its
+diameter? Yes.
+This ratio is a constant and is denoted by 7 (pi). Its approximate value is = or 3.14.
+So, we can say that d = 1 where C represents circumference of the circle and d 
+
+its diameter.
+
+or C=ud
+
+We know that diameter (d) of a circle is twice the radius (7) 1.e., d= 2r
+
+So, C=1d=n x 2r or C = 2mr.
+
+Try THESE
+
+In Fig 9.22
+
+(a) Which square has the larger perimeter? 7 N
+(b) Which is larger, perimeter of smaller square or the ~ Z|
+circumference of the circle? Fig 9.22
+
+Take one each of quarter plate and half plate. Roll once each of
+these on a table-top. Which plate covers more distance in one
+complete revolution? Which plate will take less number of revolutions
+to cover the length of the table-top?
+
+2024-25
+
+PERIMETER AND AREA
+
+EXAMPLE 7 Whatis the circumference of acircle of diameter 10 cm (Take t= 3.14)?
+
+SOLUTION _ Diameter of the circle (d)= 10cm
+
+Circumference of circle = 1d
+=3.14x10cm=31.4cm
+So, the circumference of the circle of diameter 10 cmis 31.4cm.
+
+EXAMPLE 8 What is the circumference of a circular disc of radius 14 cm?
+[Use t= 2)
+SOLUTION _ Radius of circular disc (r) = 14cm
+Circumference of disc = 27r
+
+= 2x=x14 cm= 88cm
+So, the circumference of the circular disc is 88 cm.
+
+EXAMPLE 9 Theradius of acircular pipe is 10 cm. What length of a tape is required
+to wrap once around the pipe (7 = 3.14)?
+SOLUTION _ Radius of the pipe (r)=10cm
+Length of tape required is equal to the circumference of the pipe.
+Circumference of the pipe = 27r
+=2x3.14x 10cm
+= 62.8cm
+Therefore, length of the tape needed to wrap once around the pipe is 62.8 cm.
+
+. 22
+EXAMPLE 10Find the perimeter of the given shape (Fig 9.23) (Take n= > ).
+
+SOLUTION _Inthisshape we need to find the circumference of semicircles on each side
+of the square. Do you need to find the perimeter of the square also? No.
+The outer boundary, of this figure is made up of semicircles. Diameter of
+each semicircle is 14 cm.
+
+We know that:
+
+Circumference of the circle = 1d
+Circumference of the semicircle = > Td
+
+= xX =
+7 x 14cm =22 cm
+
+Circumference of each of the semicircles is 22 cm
+
+Therefore, perimeter of the given figure = 4 x 22cm =88cm Fig 9.23
+
+2024-25
+
+EE Hemarics
+
+EXAMPLE 11 Sudhanshu divides a circular disc of radius 7 cm in two equal parts.
+What is the perimeter of each semicircular shape disc? (Use 1 = Fz)
+
+SOLUTION To find the perimeter of the semicircular disc (Fig 9.24), we need to find
+(i) Circumference of semicircular shape (ii) Diameter
+Given that radius (r) = 7 cm. We know that the circumference of circle = 27r
+a: the circumference of the semicircle 5 x2tr =r
+= 7 x 7com=22 cm
+
+Fig 9.24 So, the diameter of the circle = 2r=2x7cem=14cm
+Thus, perimeter of each semicircular disc = 22 cm + 14cm =36 cm
+
+9.3.2 Area of Circle
+
+\ Consider the following:
+= Nes \ i @ =A farmer dug a flower bed of radius 7 m at the centre of a field. He needs
+> \ ) to purchase fertiliser. If 1 kg of fertiliser is required for | square metre
+: area, how much fertiliser should he purchase?
+e
+
+What will be the cost of polishing a circular table-top of radius 2 m at the
+rate of = 10 per square metre?
+Ke .. Can you tell what we need to find in such cases, Area or Perimeter? In such cases
+SS =~ we need to find the area of the circular region. Let us find the area of a circle,
+using graph paper.
+
+Draw a circle of radius 4 cm on a graph paper (Fig 9.25). Find the area by counting
+
+the number of squares enclosed.
+As the edges are not straight, we get a rough estimate of the area of circle by this method.
+
+7 \
+
+There is another way of finding the area of a circle.
+Draw a circle and shade one half of the circle [Fig 9.26(i)]. Now fold the circle into
+eighths and cut along the folds [Fig 9.26(ii)].
+
+DB
+Fig 9.26
+Arrange the separate pieces as shown, in Fig 9.27, which is roughly a parallelogram.
+The more sectors we have, the nearer we reach an appropriate parallelogram.
+
+2024-25
+
+Fig 9.25
+
+Fig 9.27
+
+PERIMETER AND AREA ii ey
+
+As done above if we divide the circle in 64 sectors, and arrange these sectors. It
+gives nearly a rectangle (Fig 9.28).
+
+ _ _ 5 Circumference >|
+Fig 9.28
+
+What is the breadth of this rectangle? The breadth of this rectangle is the radius of the
+circle, 1e., 7 .
+
+As the whole circle is divided into 64 sectors and on each side we have 32 sectors, the
+length of the rectangle is the length of the 32 sectors, which is half of the circumference.
+(Fig 9.28)
+
+Area of the circle = Area of rectangle thus formed =/ xb
+= (Half of circumference) x radius = 5 2mr ) xr=mr
+So, the area of the circle = 17 
+
+Try THESE
+
+Draw circles of different radii on a graph paper. Find the area by counting the
+number of squares. Also find the area by using the formula. Compare the two answers.
+
+EXAMPLE 1]2Find the area of a circle of radius 30 cm (use 1 = 3.14).
+
+SOLUTION _ Radius, r=30cm
+Area of the circle = 177 = 3.14 x 30? = 2,826 cm?
+
+EXAMPLE 13Diameter of a circular garden is 9.8 m. Find its area.
+
+SOLUTION Diameter, d= 9.8 m. Therefore, radius r= 9.8 +2=4.9m
+22 22
+Area of the circle = 1 = 7 x (4.9) m= > x 4.94.9 m?= 75.46 m2
+
+EXAMPLE 14 The adjoining figure shows two circles with the same centre. The
+radius of the larger circle is 10 cm and the radius of the smaller
+circle is 4cm.
+
+Find: (a) the area of the larger circle
+
+(b) the area of the smaller circle
+
+(c) the shaded area between the two circles. (w= 3.14)
+2024-25
+
+EE i emarics
+
+SOLUTION
+
+(a)
+
+(b)
+
+(c)
+
+<< 10 cm 9.
+. Find the circumference of the circles with the following radius: (Take 1 = )
+
+Radius of the larger circle = 10cm
+So, area of the larger circle = mr?
+=3.14x 10x 10 =314 cm 
+Radius of the smaller circle = 4cm
+Area of the smaller circle =r?
+=3.14x4x4=50.24 cm 
+Area of the shaded region = (314 50.24) cm? = 263.76 cm?
+
+EXERCISE 9.2
+(a) 14cm (b) 28mm (c) 21cm
+
+. Find the area of the following circles, given that:
+(a) radius = 14mm (Take t= 7) (b) diameter =49 m
+(c) radius =5 cm
+
+. Ifthe circumference of acircular sheet is 154 m, find its radius. Also find the area of
+the sheet. (Take 7= 7)
+
+A gardener wants to fence a circular garden of diameter 21m. Find the length of the
+rope he needs to purchase, if he makes 2 rounds of fence. Also find the cost of the
+rope, if it costs % 4 per meter. (Take 1 = z)
+From a circular sheet of radius 4 cm, a circle of radius 3 cm is removed. Find the area
+of the remaining sheet. (Take 1 = 3.14)
+
+Saima wants to put a lace on the edge of a circular table cover of diameter 1.5 m.
+Find the length of the lace required and also find its cost if one meter of the lace costs
+
+= 15. (Take m = 3.14)
+7. Find the perimeter of the adjoining figure, which is a semicircle including
+its diameter.
+8. Find the cost of polishing a circular table-top of diameter 1.6 m, if the rate
+of polishing is = 15/m?. (Take m= 3.14)
+Shazli took a wire of length 44 cm and bent it into the shape of a circle.
+
+Find the radius of that circle. Also find its area. If the same wire is bent into the shape
+of a square, what will be the length of each of its sides? Which figure encloses more
+area, the circle or the square? (Take 1 = z)
+
+. From a circular card sheet of radius 14 cm, two circles of radius 3.5 cm and a
+
+rectangle of length 3 cm and breadth 1cm are removed. (as shown in the adjoining
+figure). Find the area of the remaining sheet. (Take 7 = Fz)
+
+2024-25
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+17.
+
+PERIMETER AND AREA ii Er or
+
+A circle of radius 2 cm is cut out from a square piece of an aluminium sheet of side
+6cm. What is the area of the left over aluminium sheet? (Take 1 = 3.14)
+
+The circumference of a circle is 31.4 cm. Find the radius and the area of the circle?
+(Take 1 = 3.14)
+
+A circular flower bed is surrounded by a path 4 m wide. The diameter of the flower
+bed is 66 m. What is the area of this path? (1 = 3.14) (66m 
+
+A circular flower garden has an area of 314 m?. A sprinkler at the centre of the ay
+garden can cover an area that has a radius of 12 m. Will the sprinkler water the entire
+garden? (Take m = 3.14)
+
+Find the circumference of the inner and the outer circles, shown in the adjoining figure? Lea
+(Take m = 3.14) Ca
+How many times a wheel of radius 28 cm must rotate to go 352 m? (Take T= Fz)
+
+The minute hand of a circular clock is 15 cm long. How far does the tip of the minute
+hand move in | hour. (Take 7 = 3.14)
+
+WHaT HAVE WE DISCUSSED?
+
+Area of a parallelogram = base x height
+Area of a triangle = 5 (area of the parallelogram generated from it)
+
+1 .
+=3% base x height
+The distance around a circular region is known as its circumference.
+Circumference of a circle = 1d, where d is the diameter of a circle and 7= 7
+
+or 3.14 (approximately).
+Area of a circle = 17 , where r is the radius of the circle.
+
+$= o _ 
+
+2024-25

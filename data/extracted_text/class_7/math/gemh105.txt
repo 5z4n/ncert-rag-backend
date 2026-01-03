@@ -1,0 +1,535 @@
+Lines and
+Angles
+
+Chapter 5
+
+5.1 INTRODUCTION
+
+You already know how to identify different lines, line segments and angles in a given
+shape. Can you identify the different line segments and angles formed in the following
+figures? (Fig 5.1)
+
+calsind
+
+(iv)
+Fig 5.1
+Can you also identify whether the angles made are acute or obtuse or right?
+
+Recall that a line segment has two end points. If we extend the two end points in either
+direction endlessly, we get a line. Thus, we can say that a line has no end points. On the other
+hand, recall that a ray has one end point (namely its starting point). For example, look at the
+figures given below: Q
+
+(i)
+
+Fig 5.2
+Here, Fig 5.2 (1) shows a line segment, Fig 5.2 (ii) shows a line and Fig 5.2 (iii) is that
+of aray. A line segment PQ is generally denoted by the symbol PQ, a line AB is denoted by
+
+the symbol AB and the ray OP is denoted by OP . Give some examples of line segments and
+rays from your daily life and discuss them with your friends.
+
+2024-25
+
+LINES AND ANGLES
+
+Again recall that an angle is formed when lines or line segments meet. In Fig 5.1,
+observe the corners. These corners are formed when two lines or line segments intersect
+at a point. For example, look at the figures given below:
+
+A
+P
+
+B C R oR.
+A
+
+Ke
+
+[
+
+(i) (ii) i
+Fig 5.3
+In Fig 5.3 (i) line segments AB and BC intersect at B to form angle y, ah
+ABC, and again line segments BC and AC intersect at C to form angle
+ACB and so on. Whereas, in Fig 5.3 (11) lines PQ and RS intersect at O Ftay Tass
+
+represented by the symbol ZABC. Thus, in Fig 5.3 (i), the three angles and identify the acute, obtuse
+formed are ZABC, ZBCA and ZBAC, and in Fig 5.3 (ii), the four andright angles found in them.
+angles formed are ZPOS, ZSOQ, ZQOR and ZPOR. You have already
+
+studied how to classify the angles as acute, obtuse or right angle.
+
+Note: While referring to the measure of an angle ABC, we shall write mZABC as simply
+ZABC. The context will make it clear, whether we are referring to the angle or its
+measure.
+
+5.2 RELATED ANGLES
+5.2.1 Complementary Angles
+
+When the sum of the measures of two angles is 90 , the angles are called complementary
+angles.
+30 35 
+@) (ii) (iit) (iv)
+Are these two angles complementary? Are these two angles complementary?
+Yes No
+
+Fig 5.4
+
+Whenever two angles are complementary, each angle is said to be the complement
+of the other angle. In the above diagram (Fig 5.4), the 30 angle is the complement of the
+ 60 angle and vice versa.
+
+2024-25
+
+MATHEMATICS
+
+(> Tuink, Discuss AND WRITE
+
+\we \ 1. Cantwo acute angles be complement to each other?
+
+(1 VY 2. Can two obtuse angles be complement to each other?
+=. 3. Cantwo right angles be complement to each other?
+
+Try THESE
+1. Which pairs of following angles are complementary? (Fig 5.5)
+75 
+(i) (ii)
+A4g 35 55 
+(iit) (iv)
+Fig 5.5
+2. What is the measure of the complement of each of the following angles?
+(i) 45 (it) 65 (iit) 41 (iv) 54 
+3. The difference in the measures of two complementary angles is 12 . Find the measures of
+the angles.
+5.2.2 Supplementary Angles
+Let us now look at the following pairs of angles (Fig 5.6):
+60 120 68 112
+(i) (ii)
+
+2024-25
+
+LINES AND ANGLES
+135 
+(ai) Fig 5.6 (iv)
+
+Do you notice that the sum of the measures of the angles in each of the above pairs
+(Fig 5.6) comes out to be 180 ? Such pairs of angles are called supplementary angles.
+When two angles are supplementary, each angle is said to be the supplement of the other.
+
+Tuink, Discuss AND WRITE
+
+1. Can two obtuse angles be supplementary?
+2. Can two acute angles be supplementary?
+
+3. Can two right angles be supplementary?
+
+Try THESE
+1.Find the pairs of supplementary angles in Fig 5.7:
+
+50 65"
+110 105 
+@ (il)
+50 45 
+130 45 
+(ii) Fig 5.7 (iv)
+
+2024-25
+
+MATHEMATICS
+
+2. What will be the measure of the supplement of each one of the following angles?
+(i) 100 (ii) 90 (iii) 55 (iv) 125 
+
+3. Among two supplementary angles the measure of the larger angle is 44 more
+than the measure of the smaller. Find their measures.
+
+EXERCISE 5.1
+1. Find the complement of each of the following angles:
+63 57 
+@) (il) (iit)
+2. Find the supplement of each of the following angles:
+87 
+@ (it) (iti)
+
+3. Identify which of the following pairs of angles are complementary and which are
+supplementary.
+(i) 65 , 115 (ii) 63 , 27 (ii) 112 , 68 
+
+(iv) 130 , 50 (v) 45 , 45 (vi) 80 , 10 
+
+4. Find the angle which is equal to its complement.
+
+Find the angle which is equal to its supplement.
+
+6. Inthe given figure, 71 and 22 are supplementary
+angles.
+
+If Z1 is decreased, what changes should take place
+in Z2 so that both the angles still remain 1
+
+supplementary.
+7. Can two angles be supplementary if both of them are:
+
+(i) acute? (ii) obtuse? (ii) right?
+
+2024-25
+
+LINES AND ANGLES
+
+8. Anangle is greater than 45 . Is its complementary angle greater than 45 or equal to
+45 or less than 45 ?
+
+9. Fillin the blanks:
+(i) Iftwo angles are complementary, then the sum of their measures is
+(i) Iftwo angles are supplementary, then the sum of their measures 1s
+(ii) If two adjacent angles are supplementary, they form a
+10. Inthe adjoining figure, name the following pairs of angles.
+
+(i) Obtuse vertically opposite angles A E
+
+(ii) Adjacent complementary angles 
+(ii) Equal supplementary angles 4 D
+(iv) Unequal supplementary angles B O 
+
+(v) Adjacent angles that do not form a linear pair
+
+5.3 Pairs or LINES
+
+5.3.1 Intersecting Lines
+
+NZ
+
+ZS
+
+Q
+Re
+
+y,
+MX
+re
+>
+
+ S
+
+Fig 5.8
+
+The blackboard on its stand, the letter Y made up of line segments and the grill-door of
+a window (Fig 5.8), what do all these have in common? They are examples of intersecting
+lines.
+
+Two lines / and m intersect if they have a point in common. This common point O is
+their point of intersection.
+
+THINK, DISCUSS AND WRITE
+
+In Fig 5.9, AC and BE intersect at P.
+
+AC and BC intersect at C, AC and EC intersect at C.
+
+Try to find another ten pairs of intersecting line segments.
+Should any two lines or line segments necessarily
+
+intersect? Can you find two pairs of non-intersecting
+
+line segments in the figure?
+
+Can two lines intersect in more than one point?
+
+Think about it.
+
+2024-25
+
+EE a is emarics
+
+1. Find examples from your surroundings where lines intersect at right angles.
+
+2. Find the measures of the angles made by the intersecting lines at the vertices of an
+equilateral triangle.
+
+3. Draw any rectangle and find the measures of angles at the four vertices made by
+the intersecting lines.
+
+4. Iftwo lines intersect, do they always intersect at right angles?
+
+5.3.2 Transversal
+
+You might have seen a road crossing two or more roads or a railway line crossing several
+other lines (Fig 5.10). These give an idea of a transversal.
+
+(i) Fig 5.10 (it)
+A line that intersects two or more lines at distinct points is called a transversal.
+In the Fig 5.11, p is a transversal to the lines / and m.
+
+P
+
+Fig 5.11 Fig 5.12
+
+In Fig 5.12 the line p is not a transversal, although it cuts two lines / and m. Can
+you say, why ?
+
+2024-25
+
+LINES AND ANGLES iit is
+
+5.3.3. Angles made by a Transversal
+
+In Fig 5.13, you see lines / and m cut by transversal p. The eight
+angles marked 1| to 8 have their special names:
+1. Suppose two lines are given.
+
+Dp How many transversals can you
+1 i draw for these lines?
+
+Si 2. Ifaline is a transversal to three
+3 4 lines, how many points of
+intersections are there?
+
+5 3. Try to identify a few transversals
+ax in your surroundings.
+
+23, 24, 25, 26
+Z1, 22, 27, 28
+
+Pairs of Corresponding angles Zland 45, 22 and 246,
+Z3and 27, 24 and 48
+
+Pairs of Alternate interior angles Z3 and 46, 24 and 45
+Pairs of Alternate exterior angles Z1 and Z8, Z2 and 27
+
+Pairs of interior angles on the Z3 and Z5, 24 and 46
+same side of the transversal
+
+Note: Corresponding angles (like 71 and Z5 in Fig 5.14) include
+
+(i) different vertices (ii) are on the same side of the transversal and
+(iii) are in corresponding positions (above or below, left or right) relative to the
+
+two lines.
+
+I
+
+3 2
+5 8
+Fig 5.14
+
+Alternate interior angles (like 23 and 46 in Fig 5.15) 3
+(i) have different vertices
+(il) are on opposite sides of the transversal and 6 5
+
+(ii) lie between the two lines. Fig 5.15
+
+2024-25
+
+EE a i emarics
+
+Try THESE
+
+Name the pairs of angles in each figure:
+
+py ?
+>
+ft
+woe D WwW
+
+5.3.4 Transversal of Parallel Lines
+
+Do you remember what parallel lines are? They are lines on a plane that do not meet
+anywhere. Can you identify parallel lines in the following figures? (Fig 5.16)
+
+Fig 5.16
+
+Transversals of parallel lines give rise to quite interesting results.
+
+Take a ruled sheet of paper. Draw (in thick colour) two parallel lines / and m.
+Draw a transversal t to the lines / and m. Label 21 and 22 as shown [Fig 5.17()]. &
+Place a tracing paper over the figure drawn. Trace the lines /, m and t.
+
+Slide the tracing paper along , until / coincides with m.
+
+You find that 71 on the traced figure coincides with 22 of the original figure.
+In fact, you can see all the following results by similar tracing and sliding activity. J
+(i) Zl= 22 (i) Z23= 24 (iii) Z5= 6 (iv) Z7= 8 LY
+
+2024-25
+
+LINES AND ANGLES iit oi
+
+t
+l
+YQ]
+\}
+
+(i) Fig 5.17 (iv)
+
+G)
+
+This activity illustrates the following fact:
+
+If two parallel lines are cut by a transversal, each pair of corresponding angles are
+equal in measure.
+
+We use this result to get another interesting result. Look at Fig 5.18.
+
+When ft cuts the parallel lines, /, m, we get, 23 = Z7 (vertically opposite angles).
+But 27 = Z8 (corresponding angles). Therefore, 23 = 28 57 ]
+
+You can similarly show that 271 = 26. Thus, we 3,1
+have the following result :
+
+If two parallel lines are cut by a transversal, each 6 8 m
+pair of alternate interior angles are equal. 42
+
+This second result leads to another interesting
+property. Again, from Fig 5.18. Fig 5.18
+
+2024-25
+
+EE a i emarics
+
+23+ Z1 =180 (23 and 21 form a linear pair)
+
+But 21 = 46 (A pair of alternate interior angles)
+
+Therefore, we can say that 23 + 26 = 180 .
+
+Similarly, 71+ 28 = 180 . Thus, we obtain the following result:
+
+If two parallel lines are cut by a transversal, then each pair of interior angles on the same
+side of the transversal are supplementary.
+
+You can very easily remember these results if you can look for relevant shapes .
+
+The F-shape stands for corresponding angles:
+
+at
+
+ !|
+
+The Z - shape stands for alternate angles.
+
+Draw a pair of parallel lines and a transversal. Verify the above three statements by actually measuring
+the angles.
+
+2024-25
+
+LINES AND ANGLES iit
+
+Try THESE
+60 g
+x
+m y
+a b
+Lines / || m; Lines a ll D; L,, L, be two lines
+tis a transversal cis a transversal tis a transversal
+Zx=? Zy=? IsZ1=22?
+t
+1 m I
+ Zz
+60 t
+m
+X,
+Lines / Il m; Lines / || m; Lines / Il m, p Il q;
+tis a transversal tis atransversal Find a, b, c, d
+Zz=? x=?
+
+5.4 CHECKING FOR PARALLEL LINES
+If two lines are parallel, then you know that a transversal gives rise to
+pairs of equal corresponding angles, equal alternate interior angles
+and interior angles on the same side of the transversal being
+supplementary.
+When two lines are given, is there any method to check if they are
+parallel or not? You need this skill in many life-oriented situations.
+A draftsman uses a carpenter s square and a straight edge (ruler)
+to draw these segments (Fig 5.19). He claims they are parallel. How?
+Are you able to see that he has kept the corresponding angles to Fig 5.19
+be equal? (What is the transversal here?)
+Thus, when a transversal cuts two lines, such that pairs of
+corresponding angles are equal, then the lines have to be parallel.
+Look at the letter Z(Fig 5.20). The horizontal segments here are
+parallel, because the alternate angles are equal. ZA
+When a transversal cuts two lines, such that pairs of alternate
+interior angles are equal, the lines have to be parallel. Fig 5.20
+
+2024-25
+
+EE i ematics
+
+Draw a line / (Fig 5.21).
+
+Draw a line m, perpendicular to /. Again draw a line p, )
+
+such that p is perpendicular to m.
+
+Thus, p is perpendicular to a perpendicular to /.
+
+You find p Il 1. How? This is because you draw p such Fig 5.21
+that 71 + 22 = 180 .
+
+Thus, when a transversal cuts two lines, such that pairs of interior angles on the
+same side of the transversal are supplementary, the lines have to be parallel.
+
+Try THESE
+t t
+/
+50 50 
+50 _ m
+Is J | m? Why? Is J ll m ? Why? If / || m, what is Zx?
+
+EXERCISE 5.2
+
+1. State the property that is used in each of the
+following statements?
+
+(i) If allb, then Z1 = ZS.
+(i) If 24= 46, then alld.
+(i) If 24+ 25 = 180 , then all D.
+2. Inthe adjoining figure, identify
+(i) the pairs of corresponding angles.
+
+(ii) the pairs of alternate interior angles.
+
+(ii) the pairs of interior angles on the same
+side of the transversal.
+(iv) the vertically opposite angles.
+
+3. Inthe adjoining figure, p Il g. Find the unknown
+angles.
+
+2024-25
+
+LINES AND ANGLES
+
+4. Find the value of x in each of the following figures if / Il m.
+
+. Inthe given figure, the arms of two angles are parallel.
+
+. Inthe given figures below, decide whether / is parallel to m.
+
+t
+(i)
+
+If ZABC = 70 , then find
+(i) ZDGC
+(ii) ZDEF
+
+nN 1 n
+] 72 
+44 
+m 98 
+(i) (iv)
+
+WuaT HAVE WE DISCUSSED?
+
+. Werecallthat (i) A line-segment has two end points.
+
+(ii) Aray has only one end point (its initial point); and
+(ii) A line has no end points on either side.
+
+. When two lines /and m meet, we say they intersect; the meeting point is called the
+
+point of intersection.
+
+When lines drawn on a sheet of paper do not meet, however far produced, we call
+them to be parallel lines.
+
+2024-25

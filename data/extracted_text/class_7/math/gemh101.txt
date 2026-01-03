@@ -1,0 +1,968 @@
+Chapter 1
+
+Integers ira
+
+1.1 PROPERTIES OF ADDITION AND SUBTRACTION OF
+INTEGERS
+We have learnt about whole numbers and integers in Class VI. We have also learnt about
+
+addition and subtraction of integers.
+
+1.1.1 Closure under Addition
+
+We have learnt that sum of two whole numbers is again a whole number. For example,
+17 +24=41 which is again a whole number. We know that, this property is known as the
+
+closure property for addition of the whole numbers.
+Let us see whether this property is true for integers or not.
+Following are some pairs of integers. Observe the following table and complete it.
+
+Statement Observation
+@) 17+23=40 Result is an integer
+@i) (-10)+3=___
+(ii) ( 75)+18=_
+(iv) 19+( 25) =-6 Result is an integer
+(v) 27+(-27)=__
+(vi) ( 20)+0=_
+
+(vil) (~ 35) +( 10) =___
+
+What do you observe? Is the sum of two integers always an integer?
+
+Did you find a pair of integers whose sum is not an integer?
+
+Since addition of integers gives integers, we say integers are closed under addition.
+In general, for any two integers a and b, a + b is an integer.
+
+2024-25
+
+EE ee sr emarics
+
+1.1.2 Closure under Subtraction
+
+What happens when we subtract an integer from another integer? Can we say that their
+difference is also an integer?
+
+Observe the following table and complete it:
+
+Statement Observation
+
+Gi) 7-9=-2 Result is an integer
+
+@) 17 (-21)=__ OO
+(ii) (- 8) -(-14) =6 Result is an integer
+(iv) ( 21)-(- 10) =___
+
+(v) 32-(-17)=
+(vi) ( 18)-( 18) =__
+(vil) ( 29)-O=____
+
+What do you observe? Is there any pair of integers whose difference is not an integer?
+Can we Say integers are closed under subtraction? Yes, we can see that integers are
+closed under subtraction.
+
+Thus, ifa and b are two integers then a- b is also an intger. Do the whole numbers
+satisfy this property?
+
+1.1.3 Commutative Property
+We know that 3 +5 =5 +3 =8, that is, the whole numbers can be added in any order. In
+other words, addition is commutative for whole numbers.
+Can we say the same for integers also?
+We have 5 + ( 6) = 1 and (-6)+5=-1
+So, 5+ ( 6) =( 6)+5
+Are the following equal?
+(i) ( 8) +( 9) and ( 9) + (- 8)
+(ii) ( 23) +32 and 32 + ( 23)
+(ii) ( 45)+0 and 0 + ( 45)
+
+Try this with five other pairs of integers. Do you find any pair of integers for which the
+sums are different when the order is changed? Certainly not. We say that addition is
+commutative for integers.
+
+2024-25
+
+INTEGERS i
+
+In general, for any two integers a and b, we can say
+at+b=b+a
+
+@ We know that subtraction is not commutative for whole numbers. Is it commutative
+for integers?
+Consider the integers 5 and ( 3).
+Is 5 (3) the same as ( 3) -5? No, because 5 (-3) =5 +3 = 8, and (-3) 5
+=-3-5=-8.
+Take atleast five different pairs of integers and check this.
+
+We conclude that subtraction is not commutative for integers.
+
+1.1.4 Associative Property
+
+Observe the following examples:
+
+Consider the integers 3, 2 and 5.
+
+Look at ( 5) + [(-3) + (-2)] and [( 5) + (-3)] + (2).
+
+In the first sum ( 3) and ( 2) are grouped together and in the second ( 5) and ( 3)
+are grouped together. We will check whether we get different results.
+
+(3) +2) (2) (5) +)
+
+ 10 5 0 -10 -8 0
+(-5) + [(-3) + (-2)] [(-5) + (-3)] + 2)
+In both the cases, we get 10.
+ie., (-5) + [-3) + @2)] = [(-5) + -2)] + C3)
+Similarly consider 3 , | and 7.
+(-3)+ [1+ (-7)]=-3 + =
+[((-3) + 1] + (<7) =-2 + =
+Is (-3) + [1 + (-7)] same as [(-3) + 1] + (-7)?
+Take five more such examples. You will not find any example for which the sums are
+different. Addition is associative for integers.
+
+In general for any integers a, b andc, we can say
+at+(b+c)=(at+b)+c
+
+2024-25
+
+EE Ss emarics
+
+1. Write a pair of integers whose sum gives
+
+1.1.5 Additive Identity
+
+When we add zero to any whole number, we get the same whole number. Zero is an
+additive identity for whole numbers. Is it an additive identity again for integers also?
+
+Observe the following and fill in the blanks:
+
+(i) (-8)+0 =-8 (i) O+( 8)=-8
+(i) (-23)+0=_ (iv) 0+ (-37) =-37
+(v) 0+(-59)=_ (vii) O+_ = - 43
+(vi) 61+ =-61 (viii) +0=
+
+The above examples show that zero is an additive identity for integers.
+You can verify it by adding zero to any other five integers.
+In general, for any integer a
+
+a+O=a=O0+a
+
+(a) anegative integer (b) zero
+(c) aninteger smaller than both the integers. (d) aninteger smaller than only one of the integers.
+(e) aninteger greater than both the integers.
+
+. Write a pair of integers whose difference gives
+
+(a) anegative integer. (b) zero.
+
+(c) aninteger smaller than both the integers. (d) aninteger greater than only one of the integers.
+(e) aninteger greater than both the integers.
+
+EXAMPLE 1 Write downa pair of integers whose
+(a) sumis 3 (b) difference is 5
+
+(c) difference is 2 (d) sumisO
+
+SOLUTION (a) (-l)+(2)=-3 or (5)+2=-3
+(b) (-9)-C4)=5 or (-2)-3=-5
+(c) (-7)-C9)=2 or 1-Cl=2
+(d) (-10)+10=0 or 5+(-5)=0
+
+Can you write more pairs in these examples?
+
+2024-25
+
+. Write down a pair of integers whose:
+
+. Fillin the blanks to make the following statements true:
+
+INTEGERS i
+
+EXERCISE 1.1
+
+(a) sumis 7 (b) difference is 10 (c) sumisO
+
+. (a) Write a pair of negative integers whose difference gives 8.
+
+(b) Write a negative integer and a positive integer whose sum is 5.
+
+(c) Write anegative integer and a positive integer whose difference is 3.
+
+. Inaquiz, team A scored 40, 10,0 and team B scored 10, 0, 40 in three successive
+rounds. Which team scored more? Can we say that we can add integers in
+any order?
+
+@ (5S) + 8)=C8) t Gece )
+
+(i) 53 4+ we. = 53
+(ii) I7 +... =0
+(iv) [13 +(-12)] +(e. )=13+[C-12)+ (-7)]
+
+(vy) ( 4)+ [15+ (-3)] =[-44 15] 4 oe.
+
+1.2 MULTIPLICATION OF INTEGERS
+
+We can add and subtract integers. Let us now learn how to multiply integers.
+
+1.2.1 Multiplication of a Positive and a Negative Integer
+
+We know that multiplication of whole numbers is repeated addition. For example,
+
+54+54+5=3x5=15
+
+Can you represent addition of integers in the same way?
+yourep S y Try THESE
+
+We have from the following number line, ( 5) + ( 5) + (-5) =-15
+
+Find:
+4x ( 8),
+- et = SS ES 8 x (-2),
+ 20 15 10 5 0 3 x (-7),
+10 x 1)
+But we can also write using number line.
+
+(-5) + (5) + (5) =3 x5)
+
+Therefore, 3 x (-5) =-15
+
+2024-25
+
+EE es i eMarics
+
+Similarly ( 4)+ 4)+(-4)+C 4)+@ 4)=5x (C4) =-20
+
+ _$ EEE
+
+20 16 12 -8 4 0
+
+And (-3) + (3) + (-3) +3) = =
+Also, (7) +(-1)+(-T)= =
+
+Let us see how to find the product of a positive integer and a negative integer without
+using number line.
+
+Let us find 3 x ( 5) in a different way. First find 3 x 5 and then put minus sign ( )
+before the product obtained. You get 15. That is we find (3 x 5) to get -15.
+
+Similarly, 5 x ( 4) = (5x4) = 20.
+Find ina similar way,
+4x(-8)=_ = X(T) = =
+6x(-5)= = 2x(-9)= =
+Using this method we thus have,
+10x (43) 0x 4) = 430
+Find: Till now we multiplied integers as (positive integer) x (negative integer).
+ eI) Let us now multiply them as (negative integer) x (positive integer).
+@ 12x32) We first find -3 x 5.
+(iit) 7 x ( 22)
+
+To find this, observe the following pattern:
+
+We have, 3x5=15
+2x5=10=15-5
+1x5=5=10-5
+0x5=0=5-5
+
+So, -1x5=0-5=-5
+
+ 2x5=-5-5=-10
+ 3x5=-10-5=-15
+
+We already have 3 x (-5) =-15
+
+So we get (-3) x 5 =-15 =3 x (-5)
+
+Using such patterns, we also get ( 5) x 4= 20 =5 x ( 4)
+
+Using patterns, find ( 4) x 8, ( 3) x 7, (- 6) x 5 and ( 2) x9
+
+Check whether, ( 4) x 8=4 x ( 8), (-3) x 7=3 x (-7), (-6) x 5 =6x ( 5)
+
+2024-25
+
+INTEGERS
+
+and (-2)x9=2~x(-9)
+Using this we get, ( 33) x 5 = 33 x (-5) =-165
+
+We thus find that while multiplying a positive integer and a negative integer, we
+multiply them as whole numbers and put a minus sign ( ) before the product. We
+thus get a negative integer.
+
+1. Find: (a) 15 x(-16) (b) 21 x(-32)
+(c) ( 42)x 12 (d) -55 x 15
+2. Checkif (a) 25 x (-21)=(-25)x21 = (b) (-23) x 20=23 x (20)
+
+Write five more such examples.
+
+In general, for any two positive integers a and b we can say
+ax ( b) =(-a) x b=-(axb)
+
+1.2.2 Multiplication of two Negative Integers
+Can you find the product ( 3) x ( 2)?
+Observe the following:
+
+-3x4=-12
+
+-3 x3 =-9 =-12-(-3)
+
+ 3 x2 =-6=-9-(-3)
+
+3x | =-3 = 6-(-3)
+
+-3x0=0 =-3-(-3)
+
+3 x-1=0-(-3)=04+3=3
+
+ 3 x -2=3-(-3)=34+3=6
+
+Do you see any pattern? Observe how the products change.
+
+Based on this observation, complete the following:
+
+ 3x3= 3x-4=_ 
+Now observe these products and fill in the blanks:
+-4x4=-16
+ -4x3=-12 =-16+4
+-4x2=_ = -124+4
+
+2024-25
+
+EE Ee i emarics
+
+-4x1l=
+
+~4x0=
+-4x (-I)=___ (i) Starting from (5) x 4, find (-5) x (-6)
+-4x(-2)=__ Gi) Starting from ( 6) x 3, find ( 6) x (7)
+ 4x (3)=____
+
+From these patterns we observe that,
+(-3) x (-l)=3 =3x1
+(-3) x (-2)=6=3x2
+(-3) x (-3)=9=3 x3
+
+and ( 4)x(-l)=4=4x1
+
+So, (-4)x(-2)=4x2 =__
+(-4)x(3)=_ =
+
+So observing these products we can say that the product of two negative integers is
+a positive integer. We multiply the two negative integers as whole numbers and put
+the positive sign before the product.
+
+Thus, we have (-10) x (-12) = + 120 = 120
+Similarly ( 15) x (-6) = + 90 = 90
+In general, for any two positive integers a and b,
+
+(-a)x( b)=axb
+
+Find: ( 31) x ( 100), ( 25) x ( 72), (-83) x ( 28)
+
+Game 1
+
+(i) Take a board marked from 104 to 104 as shown in the figure.
+
+(i) Take a bag containing two blue and two red dice. Number of dots on the blue
+dice indicate positive integers and number of dots on the red dice indicate negative
+integers.
+
+(iit) Every player will place his/her counter at zero.
+
+(tv) Each player will take out two dice at a time from the bag and throw them.
+
+(v) After every throw, the player has to multiply the numbers marked on the dice.
+
+2024-25
+
+INTEGERS i
+
+Sn
+N
+cn
+F/G |<
+ly} |
+AN}t]/ st
+st} W| | 0
+1} ty
+va)
+a ae)
+wit) tS
+|
+Nom Kee)
+|
+tI N
+all =)
+vai
+Big
+WY |
+|
+|
+
+=92[ -91 |-90 | 89 |-88| 87] -86| ~85] s4| 83)
+=95 | 96-97 [98 | -99| = 100] 101 | -102 | -103] 104
+
+(vi) Ifthe product is a positive integer then the player will move his counter towards
+
+[13 | 74-75 [-76 | =r7] 78] 79] 20| si] -82_
+
+zr
+
+104; if the product is a negative integer then the player will move his counter
+
+towards 104.
+
+(vii) The player who reaches either -104 or 104 first is the winner.
+
+2024-25
+
+EE, i emarics
+
+1.3 PROPERTIES OF MULTIPLICATION OF INTEGERS
+
+1.3.1 Closure under Multiplication
+1. Observe the following table and complete it:
+
+What do you observe? Can you find a pair of integers whose product is not an integer?
+No. This gives us an idea that the product of two integers is again an integer. So we can
+say that integers are closed under multiplication.
+
+In general,
+ax bisan integer, for all integers a and b.
+
+Find the product of five more pairs of integers and verify the above statement.
+1.3.2 Commutativity of Multiplication
+
+We know that multiplication is commutative for whole numbers. Can we say, multiplication
+is also commutative for integers?
+
+Observe the following table and complete it:
+
+Statement 1 Statement 2
+
+3 x ( 4) =-12 (-4) x3 =-12 3x (-4) =(-4) x3
+
+(-15) x (-10) = 150 (-10) x (-15) = 150
+
+(-35) x (-12) = (-12) x (-35) =
+(-1) x (-15) =
+
+2024-25
+
+INTEGERS i
+
+What are your observations? The above examples suggest multiplication is
+commutative for integers. Write five more such examples and verify.
+
+In general, for any two integers a and b,
+
+axb=bxa
+
+1.3.3 Multiplication by Zero
+
+We know that any whole number when multiplied by zero gives zero. Observe the following
+products of negative integers and zero. These are obtained from the patterns done earlier.
+
+(-3) x0=0
+0x (-4)=0
+-5x0=__
+0x (-6)=___
+
+This shows that the product of a negative integer and zero is zero.
+In general, for any integer a,
+ax0=0xa=0
+
+1.3.4 Multiplicative Identity
+
+We know that | is the multiplicative identity for whole numbers.
+
+Check that 1 is the multiplicative identity for integers as well. Observe the following
+products of integers with 1.
+
+(-3)x1=-3 1x5=5
+
+(-4)x1l=__ Ix8=_
+Ix(5)=_ 3x1=___
+1x(-6)=___ Tx1l=_
+
+This shows that 1 is the multiplicative identity for integers also.
+In general, for any integer a we have,
+
+axl=1xa=a
+
+What happens when we multiply any integer with 1? Complete the following:
+
+(-3) x (1) =3
+3 x (-1) =-3
+
+0 is the additive identity whereas 1 is the
+(6) x Cl) = ___ multiplicative identity for integers. We get
+(-1) x 13 =___ additive inverse of an integer a when we multiply
+(-1) x (-25)= (-1) toa,ie. ax (-l1)=(-1) Xa=-a
+18 x (-1)=
+
+What do you observe?
+
+Can we say 1 is a multiplicative identity of integers? No.
+2024-25
+
+EE, i emarics
+
+1.3.5 Associativity for Multiplication
+
+Consider 3, 2 and 5.
+Look at [( 3) x (-2)] x 5 and ( 3) x [(-2) x 5].
+
+In the first case ( 3) and ( 2) are grouped together and in the second ( 2) and 5 are
+grouped together.
+
+We see that [(-3) x (-2)] x 5=6x5=30
+and (-3) x [( 2) x 5] = (-3) x (-10) = 30 oF
+So, we get the same answer in both the cases. *
+Thus, [(-3) x (-2)] x 5=(-3) x [(-2) x 5]
+Look at this and complete the products:
+[(7) x (-6)] x4= x4=
+7x [(-6) x4] =7x =
+Is [7 x (-6)] x 4=7 x [( 6) x 4]?
+Does the grouping of integers affect the product of integers? No.
+
+In general, for any three integers a, b andc
+(ax b)xc=ax(bxc)
+
+Take any five values for a, b and c each and verify this property.
+
+Thus, like whole numbers, the product of three integers does not depend upon
+the grouping of integers and this is called the associative property for multiplication
+of integers.
+
+1.3.6 Distributive Property
+
+We know
+16 x (10+ 2) = (16 x 10) + (16 x 2) [Distributivity of multiplication over addition]
+Let us check if this is true for integers also.
+Observe the following:
+(a) (-2) x (3+5)=-2x8=-16
+and = [( 2) x 3] + [(-2) x 5] = (- 6) + (10) =-16
+So, (-2) x (3. +5) =[(-2) x 3] + [(-2) x 5]
+(b) ( 4) x [(-2) + 7] = ( 4) x 5 =-20
+and = [( 4) x (-2)]+[(-4) x 7]= 8 +(-28) =-20
+So, ( 4) x [(-2) +7] =[C 4) x -2)] + 1-4) x 7]
+(c) (~8) x [(-2) + (-D] = (- 8) x (3) = 24
+and = [( 8) x (-2)] + [- 8) x (-l] = 16 +8 =24
+So, ( 8) x [(-2) +(-]I)] =[- 8) x (-2)] +[C 8) x CD]
+
+2024-25
+
+INTEGERS i
+
+Can we say that the distributivity of multiplication over addition is true for integers
+also? Yes.
+
+In general, for any integers a, b and c,
+
+ax(b+c)=axb+axc
+
+Take atleast five different values for each of a, b and c and verify the above Distributive
+property.
+
+en)
+
+(i) Is 10 x [((6+ (-2)] = 10x 6+ 10x (-2)?
+(i) Is ( 15) x [((-7) + (-1)] = 15) x (-7) + 15) x (-1)?
+
+Now consider the following:
+Can we say 4 x (3-8) =4x3-4~x 8?
+Let us check:
+4x (3-8) =4x (-5) =-20
+4x3-4x8=12 -32=-20
+So, 4x(3-8)=4x3-4.x8.
+Look at the following:
+(-5) x [(-4) (-6)] =(-S) x2 = -10
+[(-5) x ( 4)] -[(-5) x (- 6)] =20 -30= -10
+So, (-5)x[(-4) (-6)] =[(-5) x (-4)] -[(-5) x (-9)]
+Check this for ( 9) x [ 10 ( 3)] and [(-9) x 10 ] [ (-9) x (-3)]
+You will find that these are also equal.
+
+In general, for any three integers a, b and c,
+ax(b-c)=axb-axc
+
+Take atleast five different values for each of a, b and c and verify this property.
+
+Try THESE
+
+(i) Is 10 x (6 (-2)] = 10 x 6-10 x (2)?
+qi) Is (-15) x [-7)- (I) = C15) x C7) - C15) x Cl)?
+
+2024-25
+
+EE, is emarics
+
+1. Find each of the following products:
+
+(a)
+(c)
+(e)
+(g)
+(0)
+
+2. Verify the following:
+
+(a)
+(b)
+
+EXERCISE 1.2
+
+3 x (-1) (b) (-1) x 225
+
+(-21) x (-30) (d) (-316)x C1)
+
+(-15) x 0 x (-18) (f) (-12) x (-11) x (10)
+
+9 x ( 3) x ( 6) (h) (18) x5) x C4)
+(-1) x (-2) x (-3) x4 @ (3)xC6)xC2)x Cb
+
+18 x [7 + (-3)] = [18 x 7] + [18 x -3)]
+(21) x[-4) +6) =1-2) x C4] +(-2) x (-6)]
+
+3. (i) Forany integer a, what is ( 1) x a equal to?
+
+(ii) Determine the integer whose product with ( 1) is
+
+(a) -22 (b) 37 (c) O
+
+4. Starting from ( 1) x 5, write various products showing some pattern to show
+(-1) x (-l)=1.
+
+1.4 Drvision oF INTEGERS
+We know that division is the inverse operation of multiplication. Let us see an example for
+whole numbers.
+
+Since 3 x 5=15
+
+So 15+5=3and15+3=5
+
+Similarly, 4 x 3 = 12 gives 12 +4=3 and 12+3=4
+
+We can say for each multiplication statement of whole numbers there are two division
+statements.
+
+Can you write multiplication statement and its corresponding divison statements for
+
+integers?
+
+@ Observe the following and complete it.
+
+Multiplication Statement
+2 x ( 6) = (-12) (-12) + ( 6) =2 , (-12)+2=(-6)
+
+( 4) x 5 = (20) (-20) +5 = (- 4) (20)+(--4=5
+
+( 8) x (-9) = 72 72+ = yO
+
+(-3) x (-7) =
+
+(-8)x4=_
+
+5 x (-9) =
+
+(-10) x (-5) =
+
+2024-25
+
+INTEGERS i
+
+(-12) +2 =(-6)
+
+Find:
+
+(-20) * 5S=(-4) (a) (-100)+5 = (b) (81) +9
+(32) =4=(- 8) ( ) (75)=5 @) (32)+2
+(- 45) +5 =(-9)
+
+We observe that when we divide a negative integer by a positive integer, we divide
+them as whole numbers and then put a minus sign ( ) before the quotient.
+
+@ We also observe that: Can we say that
+72 + (-8)=-9 and 50+ (-10)=-5 ( 48) = 8 = 48 ( 8)?
+72 + (-9)=-8 50 + (-5)=-10 Let us check. We know that
+
+ 48)+8=-6
+So we can say that when we divide a positive integer by a negative Cc
+. a . and 48 +( 8)=-6
+integer, we first divide them as whole numbers and then put a minus
+. . So ( 48) + 8 = 48 + ( 8)
+sign ( ) before the quotient.
+
+wee Check this for
+In general, for any two positive integers a and b (). 90 = (45) and (90) = 45
+a~ (-b)=(-a)= b where b # 0 (ii) (-136) +4 and 136 + ( 4)
+
+Find: (a) 125+(-25) (b)80+(-5) (c)64+(-16)
+@ Lastly, we observe that
+(-12) + ( 6) =2;(-20) + ( 4) =5; (-32) + (-8)=4; (- 45) + --9)=5
+So, we can say that when we divide a negative integer by a negative integer, we first
+
+divide them as whole numbers and then put a positive sign (+).
+In general, for any two positive integers a and b
+
+(-a) + (-b)=a~ b where b# 0
+
+Find: (a) (36) = (4) (b) (201) = (3) (c) (-325) + (-13) be
+
+1.5 PROPERTIES OF DIVISION OF INTEGERS z
+Observe the following table and complete it: ww
+What do you observe? We observe that integers are not closed under division.
+
+(-8)+(-4) =2 Result is an integer
+
+_4
+
+(-4)+(C 8)= Result is not an integer} 3 ~ (-8)=
+
+2024-25
+
+EE, i ematics
+
+Justify it by taking five more examples of your own.
+
+@ We know that division is not commutative for whole numbers. Let us check it for
+
+integers also.
+
+You can see from the table that ( 8) + (-4) # (-4) + 8).
+Is (-9) + 3 the same as 3 + (9)?
+
+Is ( 30) + (6) the same as ( 6) + ( 30)?
+
+Can we say that division is commutative for integers? No.
+You can verify it by taking five more pairs of integers.
+
+Like whole numbers, any integer divided by zero is meaningless and zero divided by
+an integer other than zero is equal to zero i.e., for any integer a, a + Ois not defined
+but0 +a=0 fora #0.
+
+When we divide a whole number by | it gives the same whole number. Let us check
+whether it is true for negative integers also.
+
+Observe the following :
+( 8)+1=(C8) (-11l)+1=-11 (-13) +1 =-13
+(-25)+1l=___ (-37) +1 =___ ( 48)+1=___
+
+This shows that negative integer divided by 1 gives the same negative integer.
+So, any integer divided by I gives the same integer.
+
+In general, for any integer a,
+a+l=a
+
+What happens when we divide any integer by (1)? Complete the following table
+
+(-8)+C1)=8 11+(-1)=-l1 13+(-1l)=_
+(25)+(CD=_ 37) #1) = __ 48+ (-1)=___
+What do you observe?
+
+We can say that if any integer is divided by ( 1) it does not give the same integer.
+
+Can we say [( 16) + 4] + ( 2) is the same as ( 16) + [4 + (-2)]?
+We know that [(-16) + 4] = (-2) =(-4) + 2) =2
+
+Md. aA
+
+(i) a+(-1)=- a? for any integer a.
+
+So [( 16) + 4] + (-2) #(-16) + [4+ (2)]
+
+Can you say that division is associative for integers? No.
+
+Take different values of aandcheck. Verify it by taking five more examples of your own.
+
+2024-25
+
+INTEGERS
+
+EXAMPLE 2 Inatest (+5) marks are given for every correct answer and ( 2) marks
+are given for every incorrect answer. (i) Radhika answered all the questions
+and scored 30 marks though she got 10 correct answers. (ii) Jay also
+answered all the questions and scored ( 12) marks though he got 4
+correct answers. How many incorrect answers had they attempted?
+
+SOLUTION
+
+(i) Marks given for one correct answer = 5
+So, marks given for 10 correct answers = 5 x 10 =50
+Radhika s score = 30
+Marks obtained for incorrect answers = 30 50 = 20
+Marks given for one incorrect answer = ( 2)
+Therefore, number of incorrect answers = ( 20) + (-2) = 10
+(ii) Marks given for 4 correct answers = 5 X 4= 20
+
+Jay s score = 12
+
+Marks obtained for incorrect answers = 12 20 =- 32
+Marks given for one incorrect answer = ( 2)
+Therefore number of incorrect answers = ( 32) + (-2) = 16
+EXAMPLE 3 A shopkeeper earns a profit of = 1 by selling one pen and incurs a loss
+of 40 paise per pencil while selling pencils of her old stock.
+
+(i) Inaparticular month she incurs a loss of 5. In this period, she sold 45 pens. How
+many pencils did she sell in this period?
+
+(ii) Inthe next month she earns neither profit nor loss. If she sold 70 pens, how many
+pencils did she sell?
+
+StatlousRs /
+oe ri 7 >
+
+SOLUTION
+
+(i) Profit earned by selling one pen = 1
+Profit earned by selling 45 pens = = 45, which we denote by +% 45
+Total loss given = 5, which we denote by =5
+
+Profit earned + Loss incurred = Total loss
+Therefore, Loss incurred = Total Loss Profit earned
+= ( 5 45) =? (50) = 5000 paise
+Loss incurred by selling one pencil = 40 paise which we write as 40 paise
+So, number of pencils sold = ( 5000) + ( 40) = 125
+
+2024-25
+
+EE, SE i emiarics
+
+(ii) Inthe next month there is neither profit nor loss.
+
+So, Profit earned + Loss incurred = 0
+i.e., Profit earned = Loss incurred.
+Now, profit earned by selling 70 pens == 70
+
+Hence, loss incurred by selling pencils = % 70 which we indicate by 
+
+= 70 or 7,000 paise.
+
+Total number of pencils sold = (7000) + ( 40) = 175 pencils.
+
+EXERCISE 1.3
+
+. Evaluate each of the following:
+
+(a) (-30) +10 (b) 50 +(-5) (c) ( 36)+(-9)
+
+(d) ( 49) + (49) (e) 13+[(-2)+1] (f) O+(12)
+
+(g) (-31)+[(-30)+(D]
+
+(h) [(-36)+12]+3 @ [6)+5)]+1C2)+1]
+
+. Verify thata+(b+c)#(a+b)+(a~+c) for each of the following values of a, b and c.
+
+(a) a=12,b=-4,c=2 (b) a=(-10),b=1,c=1
+. Fillin the blanks:
+
+(a) 369+ ss = 369 (b) (-75)+___ = -1
+
+(c) (-206)+__ = (d) 87+___ = 87
+
+(e) _ + 1 =- 87 () _ +48 =-1
+
+(g) 20+__ = -2 (h) _ + (4) =-3
+
+. Write five pairs of integers (a, b) such that a+b = 3. One such pair is (6, 2)
+because 6 + ( 2) = ( 3).
+
+. The temperature at 12 noon was 10 C above zero. If it decreases at the rate of 2 C
+per hour until midnight, at what time would the temperature be 8 C below zero?
+What would be the temperature at mid-night?
+
+. Inaclass test (+ 3) marks are given for every correct answer and ( 2) marks
+are given for every incorrect answer and no marks for not attempting any
+question. (i) Radhika scored 20 marks. If she has got 12 correct answers, how
+many questions has she attempted incorrectly? (11) Mohini scores 5 marks in this
+test, though she has got 7 correct answers. How many questions has she
+attempted incorrectly?
+
+. Anelevator descends into a mine shaft at the rate of 6 m/min. If the descent starts
+from 10 m above the ground level, how long will it take to reach 350 m.
+
+2024-25
+
+INTEGERS iE
+
+WHuaT HAVE WE DISCUSSED?
+
+. Wenow study the properties satisfied by addition and subtraction.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Integers are closed for addition and subtraction both. That is, a + b and
+a- bare again integers, where a and bare any integers.
+
+Addition is commutative for integers, i.e, a+ b=b +a for all integers
+aand b.
+
+Addition is associative for integers, i.e., (a +b)+c=a+(b+c) for all integers
+a, band c.
+
+Integer 0 is the identity under addition. That is, a+0=0+a=a for every
+
+integer a.
+
+. Westudied, how integers could be multiplied, and found that product of a positive
+
+and a negative integer is a negative integer, whereas the product of two negative
+
+integers is a positive integer. For example, 2 x 7= 14 and 3 x 8 =24.
+
+. Product of even number of negative integers is positive, whereas the product of odd
+
+number of negative integers is negative.
+
+. Integers show some properties under multiplication.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Integers are closed under multiplication. That is, a x b is an integer for any two
+integers a and b.
+
+Multiplication is commutative for integers. That is, ax b=b xa for any integers
+aand b.
+
+The integer | is the identity under multiplication, 1.e., 1 x a=ax 1 =a for any
+integer a.
+
+Multiplication is associative for integers, 1.e., (a x b) x c=ax (bx c) for any
+three integers a, b and c.
+
+. Under addition and multiplication, integers show a property called distributive
+
+property. That is, ax (b+c)=axb+axc for any three integers a, b and c.
+
+. The properties of commutativity, associativity under addition and multiplication, and
+
+the distributive property help us to make our calculations easier.
+
+. Wealso learnt how to divide integers. We found that,
+
+(a)
+
+(b)
+
+When a positive integer is divided by a negative integer, the quotient obtained is
+negative and vice-versa.
+Division of a negative integer by another negative integer gives positive as quotient.
+
+. Forany integer a, we have
+
+(a)
+
+a~0is not defined (b) a+lz=a
+-25
