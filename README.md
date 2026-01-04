@@ -28,34 +28,14 @@ Ollama – Local LLM inference (offline)
 
 Cloudflare Tunnel – Temporary public access for demos
 
-📁 Project Structure
-NCERT_RAG/
-├── app/                    # FastAPI application
-│   ├── api.py              # API entry point
-│   ├── auth.py             # (Optional) Auth logic
-│   ├── schemas.py          # Request/response models
-│   └── core/
-│       └── config.py       # App configuration
-│
-├── rag/                    # RAG pipeline
-│   ├── main/
-│   │   ├── embed.py        # Embedding logic
-│   │   ├── index.py        # FAISS index builder
-│   │   ├── retrieve.py    # Retrieval logic
-│   │   └── local_llm.py   # Ollama LLM interface
-│   │
-│   └── utils/
-│       ├── chunker.py
-│       ├── ocr.py
-│       ├── text_cleaner.py
-│       └── text_audit.py
-│
-├── data/                   # NCERT textbook data
-├── models/
-│   ├── embedding_model/    # Saved embedding model
-│   └── ollama/             # Ollama installer
-│
-└── README.md
+## Architecture Overview
+
+This project implements a Retrieval-Augmented Generation (RAG) pipeline.
+Questions are answered by:
+1. Retrieving relevant NCERT text chunks only, using embeddings and similarity search
+2. Passing retrieved context to a local LLM
+3. Returning both the answer and its source metadata
+
 
 ⚙️ Setup Instructions (Local)
 1️⃣ Create a virtual environment (recommended)
@@ -204,3 +184,4 @@ Cloudflare Tunnel used only for temporary public access
 📜 License
 
 For academic and educational use.
+
